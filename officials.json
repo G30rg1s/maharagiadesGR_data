@@ -1,0 +1,3322 @@
+[
+  {
+    "placeCode": "MUNICIPALITY:0101",
+    "fullName": "Γκαράνης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9021/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0102",
+    "fullName": "Χουσεΐν Ερδέμ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9019/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0103",
+    "fullName": "Ιμάμ Τζανέρ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9020/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0104",
+    "fullName": "Ιωάννου Απόστολος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9022/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0201",
+    "fullName": "Παπαδόπουλος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9002/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0202",
+    "fullName": "Βογιατζής Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9001/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0203",
+    "fullName": "Ταμπουρίδης Ελευθέριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9003/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0204",
+    "fullName": "Καγιάογλου Αναστάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9004/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0205",
+    "fullName": "Αθανασιάδης Θεόδωρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9005/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0301",
+    "fullName": "Ζαμπούκης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9006/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0302",
+    "fullName": "Χατζηγιάννογλου Ρωμύλος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9007/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0303",
+    "fullName": "Παπαδόπουλος Αδαμάντιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9008/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0304",
+    "fullName": "Βίτσας Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9009/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0305",
+    "fullName": "Καλακίκος Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9010/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0401",
+    "fullName": "Κυριακίδης Ελευθέριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9011/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0501",
+    "fullName": "Μουριάδης Θεόδωρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9012/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0502",
+    "fullName": "Μιχαηλίδης Σάββας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9013/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0503",
+    "fullName": "Αναστασιάδης Φίλιππος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9014/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0601",
+    "fullName": "Κοντός Ευστράτιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9017/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0602",
+    "fullName": "Τσιτιρίδης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9015/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0603",
+    "fullName": "Κιουρτ Αχμέτ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9016/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0604",
+    "fullName": "Μίχογλου Θωμάς",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9018/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0701",
+    "fullName": "Αγγελούδης Στυλιανός",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9031/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0702",
+    "fullName": "Κυρίζογλου Λάζαρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9026/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0703",
+    "fullName": "Λιάμας Διαμαντής",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9027/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0704",
+    "fullName": "Μπισμπινά Γερακίνα",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9028/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0705",
+    "fullName": "Τζέκος Θεόδωρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9029/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0706",
+    "fullName": "Παπαδόπουλος Θεόδωρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9030/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0707",
+    "fullName": "Αράπογλου Χρυσή",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9032/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0708",
+    "fullName": "Αλεξανδρίδης Ελευθέριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9033/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0709",
+    "fullName": "Ανδρεαδου Ελπινίκη (Νίκη)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9034/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0710",
+    "fullName": "Δανιηλίδης Συμεών (Σίμος)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9035/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0711",
+    "fullName": "Ασλανίδης Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9036/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0712",
+    "fullName": "Καϊτεζίδης Ιγνάτιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9037/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0713",
+    "fullName": "Αναγνωστόπουλος Σταύρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9038/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0714",
+    "fullName": "Τσακίρης Παντελεήμων",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9039/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0801",
+    "fullName": "Βοργιαζίδης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9024/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0802",
+    "fullName": "Γκυρίνης Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9023/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0803",
+    "fullName": "Κουτσογιάννης Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9025/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0901",
+    "fullName": "Κυριακίδης Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9040/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:0902",
+    "fullName": "Σιωνίδης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9041/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1001",
+    "fullName": "Τσεπκεντζής Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9043/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1002",
+    "fullName": "Παρούτογλου Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9042/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1003",
+    "fullName": "Φουντουκιδης Ευστάθιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9044/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1004",
+    "fullName": "Ιγνατιάδου Αικατερίνη",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9045/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1101",
+    "fullName": "Ντούμος Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9047/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1102",
+    "fullName": "Γερολιόλιος Ευάγγελος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9046/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1103",
+    "fullName": "Κομπατσιάρης Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9048/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1201",
+    "fullName": "Μητλιάγκα Βαρβάρα",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9054/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1202",
+    "fullName": "Φραστανλής Στέργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9049/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1203",
+    "fullName": "Πλιάκου Ευανθία",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9050/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1204",
+    "fullName": "Νότας Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9051/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1205",
+    "fullName": "Κοτσακιαχίδης Κλεάνθης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9052/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1206",
+    "fullName": "Μπόζης Παντέλης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9053/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1207",
+    "fullName": "Τάτσιος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9055/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1301",
+    "fullName": "Εμμανουήλ Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9059/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1302",
+    "fullName": "Βαλιάνος Στυλιανός",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9056/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1303",
+    "fullName": "Χαλκιά Δημητροπούλου Αναστασία",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9057/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1304",
+    "fullName": "Καρράς Εμμανουήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9058/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1305",
+    "fullName": "Μαλλινης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9060/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1401",
+    "fullName": "Κοκκαλιάρης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9068/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1402",
+    "fullName": "Ζευκλής Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9066/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1403",
+    "fullName": "Πλακεντάς Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9067/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1404",
+    "fullName": "Ελευθερίου Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9069/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1405",
+    "fullName": "Στεργίου Εμμανουήλ (Μανώλης)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9330/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1501",
+    "fullName": "Ταταρίδης Κυριάκος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9061/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1502",
+    "fullName": "Κόττας Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9062/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1601",
+    "fullName": "Κορεντσίδης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9063/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1602",
+    "fullName": "Γκοσλιόπουλος Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9064/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1603",
+    "fullName": "Κεπαπτσόγλου Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9065/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1701",
+    "fullName": "Γιαννάκης Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9072/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1702",
+    "fullName": "Λιάσης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9070/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1703",
+    "fullName": "Στεργίου Γεώργιος ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9071/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1801",
+    "fullName": "Μπέγκας Θωμάς",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9084/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1802",
+    "fullName": "Βαΐτσης Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9080/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1803",
+    "fullName": "Ντακαλέτσης Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9081/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1804",
+    "fullName": "Σουκουβέλος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9082/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1805",
+    "fullName": "Πλιάκος Μιχαήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9083/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1806",
+    "fullName": "Παπασπύρου Ανδρέας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9085/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1807",
+    "fullName": "Αβέρωφ Μαρία-Χριστίνα",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9086/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1808",
+    "fullName": "Καψάλης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9087/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1901",
+    "fullName": "Σιαφάκας Χριστόφορος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9073/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1902",
+    "fullName": "Μίγδος Περικλής",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9074/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1903",
+    "fullName": "Χασιάκος Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9075/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:1904",
+    "fullName": "Παπασιώζος Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9076/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2001",
+    "fullName": "Νταής Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9077/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2002",
+    "fullName": "Ντάνης Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9078/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2003",
+    "fullName": "Τζίγκος Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9079/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2101",
+    "fullName": "Γεωργάκος Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9090/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2102",
+    "fullName": "Ζυγούρης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9088/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2103",
+    "fullName": "Ζαχαριάς Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9089/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2201",
+    "fullName": "Μαμάκος Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9100/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2202",
+    "fullName": "Γκουντάρας Αντώνιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9097/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2203",
+    "fullName": "Γάτσας Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9098/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2204",
+    "fullName": "Νασιακόπουλος Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9099/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2205",
+    "fullName": "Μανώλης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9101/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2206",
+    "fullName": "Τσικριτσής Αστέριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9102/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2207",
+    "fullName": "Εσκίογλου Ιορδάνης (Μάκης)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9103/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2301",
+    "fullName": "Τσιάκος Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9092/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2302",
+    "fullName": "Στεργίου Ανδρέας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9091/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2303",
+    "fullName": "Νάνος Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9093/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2304",
+    "fullName": "Στάθης Θεοφάνης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9094/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2305",
+    "fullName": "Δασκαλόπουλος Σωκράτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9095/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2306",
+    "fullName": "Κατσής Δημοσθένης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9096/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2401",
+    "fullName": "Μπέος Αχιλλεύς",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9105/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2402",
+    "fullName": "Εσερίδης Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9104/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2403",
+    "fullName": "Καραγεωργίου Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9106/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2404",
+    "fullName": "Μιτζικός Μιχαήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9107/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2405",
+    "fullName": "Νασίκας Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9108/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2501",
+    "fullName": "Τζούμας Θεόδωρος (Θοδωρής) ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9110/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2502",
+    "fullName": "Αναγνωστου Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9109/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2503",
+    "fullName": "Περίσσης Σταμάτιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9111/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2601",
+    "fullName": "Σακκάς Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9114/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2602",
+    "fullName": "Αβραμόπουλος Ελευθέριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9112/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2603",
+    "fullName": "Μαράβας Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9113/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2604",
+    "fullName": "Αγναντής Σπυρίδων",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9115/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2701",
+    "fullName": "Παπαϊωάννου Πανουργιάς ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9160/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2702",
+    "fullName": "Στιβακτή Αθανασία",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9158/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2703",
+    "fullName": "Λιόλιος Χαράλαμπος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9159/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2704",
+    "fullName": "Ζεκεντές Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9161/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2705",
+    "fullName": "Χαντζής Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9162/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2706",
+    "fullName": "Κυρμανίδης Ηλίας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9163/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2707",
+    "fullName": "Αποστόλου Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9164/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2801",
+    "fullName": "Καραμάνης Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9145/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2802",
+    "fullName": "Αραπίτσας Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9142/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2803",
+    "fullName": "Σταθάς Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9143/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2804",
+    "fullName": "Αναστασίου Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9144/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2805",
+    "fullName": "Τζαβάρας Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9146/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2806",
+    "fullName": "Περγάλιας Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9147/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2901",
+    "fullName": "Βάκα Ελένη",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9155/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2902",
+    "fullName": "Ψαθάς Γεώργιος ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9148/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2903",
+    "fullName": "Γουρνής Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9149/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2904",
+    "fullName": "Κοντζιάς Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9150/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2905",
+    "fullName": "Ραβιόλος Ελευθέριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9151/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2906",
+    "fullName": "Μπαράκος Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9152/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2907",
+    "fullName": "Τσαπουρνιώτης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9153/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:2908",
+    "fullName": "Αντωνόπουλος Κυριάκος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9154/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3001",
+    "fullName": "Κακαβάς Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9157/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3002",
+    "fullName": "Καρδαμπίκης Αλέξανδρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9156/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3101",
+    "fullName": "Ταγκαλής Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9165/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3102",
+    "fullName": "Γιαννόπουλος Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9166/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3201",
+    "fullName": "Πενηντάρχου Πουλημένος Στέφανος Χαράλαμπος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9118/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3202",
+    "fullName": "Βλαχόπουλος Σπυρίδων (Κωτσιός)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9119/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3203",
+    "fullName": "Μαχειμάρης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9326/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3204",
+    "fullName": "Χειμαριώτης Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9327/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3301",
+    "fullName": "Στασινόπουλος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9116/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3401",
+    "fullName": "Στανίτσας Διονύσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9117/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3501",
+    "fullName": "Μιχαλάτος Θεόφιλος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9120/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3502",
+    "fullName": "Κατσιβέλης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9328/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3503",
+    "fullName": "Δρακουλόγκωνας Παναγής",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9329/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3601",
+    "fullName": "Βεργίνης Ξενοφών",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9121/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3602",
+    "fullName": "Κατωπόδης Γεράσιμος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9122/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3701",
+    "fullName": "Πελετίδης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9134/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3702",
+    "fullName": "Καλογερόπουλος Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9130/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3703",
+    "fullName": "Αλεξόπουλος Γρηγόρης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9131/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3704",
+    "fullName": "Μπαρής Θεόδωρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9132/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3705",
+    "fullName": "Παπαδόπουλος Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9133/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3801",
+    "fullName": "Διαμαντόπουλος Σπυρίδων",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9127/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3802",
+    "fullName": "Κασόλας Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9124/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3803",
+    "fullName": "Παπαναστασίου Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9123/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3804",
+    "fullName": "Τορουνίδης Αθανάσιος (Σάκης)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9125/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3805",
+    "fullName": "Κωνσταντάρας Σπυρίδων",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9126/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3806",
+    "fullName": "Γκίζας Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9128/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3807",
+    "fullName": "Τριανταφυλλάκης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9129/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3901",
+    "fullName": "Καννής Ευστάθιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9141/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3902",
+    "fullName": "Χριστοδουλόπουλος Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9139/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3903",
+    "fullName": "Λέντζας Ιωάννης ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9135/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3904",
+    "fullName": "Μπαλιούκος Διονύσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9136/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3905",
+    "fullName": "Παναγιωτόπουλος Αριστείδης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9137/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3906",
+    "fullName": "Μητρόπουλος Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9138/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:3907",
+    "fullName": "Καστρινός Αλέξιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9140/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4001",
+    "fullName": "Τζιούμης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9241/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4002",
+    "fullName": "Καμπύλης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9237/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4003",
+    "fullName": "Κούλης Ευστάθιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9238/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4004",
+    "fullName": "Μιχόπουλος Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9239/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4005",
+    "fullName": "Δολιανίτης Εμμανουήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9240/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4101",
+    "fullName": "Ορφανός Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9236/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4102",
+    "fullName": "Μαλτέζος Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9233/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4103",
+    "fullName": "Χρόνης Αναστάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9234/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4104",
+    "fullName": "Γεωργόπουλος Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9235/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4201",
+    "fullName": "Σταυρέλης Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9243/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4202",
+    "fullName": "Μανάβης Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9242/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4203",
+    "fullName": "Γκιώνης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9244/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4204",
+    "fullName": "Φρούσιος Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9245/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4205",
+    "fullName": "Τσιώτος Βλάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9246/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4206",
+    "fullName": "Σταματόπουλος Σπυρίδων",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9247/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4301",
+    "fullName": "Βακαλόπουλος Μιχαήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9252/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4302",
+    "fullName": "Ανδρεάκος Πέτρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9248/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4303",
+    "fullName": "Τσιριγωτάκης Αγγελος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9249/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4304",
+    "fullName": "Βέρδος Δήμος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9250/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4305",
+    "fullName": "Τριχείλης Ηρακλής",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9251/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4401",
+    "fullName": "Βασιλόπουλος Αθανάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9254/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4402",
+    "fullName": "Χιουρέας Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9253/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4403",
+    "fullName": "Αθανασόπουλος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9255/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4404",
+    "fullName": "Γεωργακοπούλου Παναγιώτα",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9256/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4405",
+    "fullName": "Καρβέλας Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9257/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4406",
+    "fullName": "Λεβεντάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9258/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4501",
+    "fullName": "Δούκας Χρυσόστομος (Χάρης)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9186/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4502",
+    "fullName": "Σωτηρόπουλος Αλέξιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9187/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4503",
+    "fullName": "Μαρκόπουλος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9188/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4504",
+    "fullName": "Τσιλίφης Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9189/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4505",
+    "fullName": "Καφατσάκη Βλάχου Σταματία (Τίνα)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9190/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4506",
+    "fullName": "Ψυρρόπουλος Ευστάθιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9191/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4507",
+    "fullName": "Σταμέλος Ηλίας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9192/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4508",
+    "fullName": "Τομπούλογλου Ιωάννης ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9193/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4601",
+    "fullName": "Αμπατζόγλου Θεόδωρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9168/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4602",
+    "fullName": "Μυλωνάκης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9167/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4603",
+    "fullName": "Πισιμίσης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9169/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4604",
+    "fullName": "Μπάμπαλος Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9170/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4605",
+    "fullName": "Ξυπολυτάς Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9171/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4606",
+    "fullName": "Ψυχάλης Μάριος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9172/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4607",
+    "fullName": "Σαραούδας Ευστράτιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9173/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4608",
+    "fullName": "Μανούρης Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9174/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4609",
+    "fullName": "Αποστολόπουλος Ηλίας ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9175/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4610",
+    "fullName": "Κοσμοπουλου Αναστασία (Νατάσσα) ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9176/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4611",
+    "fullName": "Μπονάτσος Χαράλαμπος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9177/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4612",
+    "fullName": "Ρούσσος Συμεών (Σίμος)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9178/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4701",
+    "fullName": "Παχατουρίδης Ανδρέας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9183/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4702",
+    "fullName": "Μίχος Λάμπρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9179/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4703",
+    "fullName": "Τσίρμπας Γεώργιος-Σταύρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9180/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4704",
+    "fullName": "Σκλαβούνος Λάμπρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9181/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4705",
+    "fullName": "Αλεβίζου Κουκουβίνου Ανδριάνα",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9182/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4706",
+    "fullName": "Σίμος Ευάγγελος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9184/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4707",
+    "fullName": "Σελέκος Μιχαήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9185/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4801",
+    "fullName": "Ασκούνης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9198/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4802",
+    "fullName": "Μαμαλάκης Στυλιανός (Στέλιος)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9194/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4803",
+    "fullName": "Κονδύλης Ανδρέας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9195/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4804",
+    "fullName": "Παπανικολάου Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9196/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4805",
+    "fullName": "Κωνσταντάτος Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9197/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4806",
+    "fullName": "Ευθυμίου Ανδρέας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9199/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4807",
+    "fullName": "Κουτελάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9200/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4808",
+    "fullName": "Φωστηρόπουλος Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9201/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4901",
+    "fullName": "Βρεττός Σπυρίδων",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9215/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4902",
+    "fullName": "Κωνσταντέλλος Γρηγόριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9216/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4903",
+    "fullName": "Μαϊχοσογλου Αικατερίνη (Κατερίνα)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9217/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4904",
+    "fullName": "Κιούσης Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9218/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4905",
+    "fullName": "Λουκάς Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9219/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4906",
+    "fullName": "Τσίρκας Στέργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9220/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4907",
+    "fullName": "Αλλαγιάννης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9221/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4908",
+    "fullName": "Μάδης Ισίδωρος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9222/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4909",
+    "fullName": "Αηδόνης Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9223/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4910",
+    "fullName": "Τσεβα Μηλα Δήμητρα",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9224/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4911",
+    "fullName": "Παπαχρήστου Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9225/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4912",
+    "fullName": "Μάρκου Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9226/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:4913",
+    "fullName": "Γιασημάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9227/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5001",
+    "fullName": "Γεωργόπουλος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9229/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5002",
+    "fullName": "Ηλίας Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9228/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5003",
+    "fullName": "Δρίκος Αρμόδιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9230/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5004",
+    "fullName": "Μαργετης Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9231/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5005",
+    "fullName": "Παππούς Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9232/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5101",
+    "fullName": "Μώραλης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9205/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5102",
+    "fullName": "Βρεττάκος Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9202/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5103",
+    "fullName": "Χουρσαλάς Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9203/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5104",
+    "fullName": "Μαραγκάκης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9204/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5105",
+    "fullName": "Λαγουδάκος Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9206/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5201",
+    "fullName": "Παναγόπουλος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9211/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5202",
+    "fullName": "Κουκουδάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9214/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5203",
+    "fullName": "Αναστασίου Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9207/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5204",
+    "fullName": "Ζορμπάς Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9208/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5205",
+    "fullName": "Χαρχαλάκης Ευστράτιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9209/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5206",
+    "fullName": "Κουτουζής Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9210/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5207",
+    "fullName": "Φραγγιά Ευγενία",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9212/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5208",
+    "fullName": "Μούγιος Αναστάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9213/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5301",
+    "fullName": "Χριστόφας Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9261/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5302",
+    "fullName": "Βέρρος Ταξιάρχης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9331/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5401",
+    "fullName": "Καρούτσος Φανούριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9259/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5402",
+    "fullName": "Καρύδης Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9260/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5501",
+    "fullName": "Γεώργα Ελεονώρα",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9263/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5502",
+    "fullName": "Σινάνης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9262/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5601",
+    "fullName": "Παπαγεωργίου Παρασκευάς",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9264/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5602",
+    "fullName": "Παπαθεοφάνους Θεμιστοκλής",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9332/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5701",
+    "fullName": "Μαλαφής Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9266/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5702",
+    "fullName": "Δανιήλ Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9265/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5703",
+    "fullName": "Βρατσάνος Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9267/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5801",
+    "fullName": "Αθανασίου Αλέξανδρος (Αλέξης)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9300/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:5901",
+    "fullName": "Σουσούδης Θεοδόσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9268/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6001",
+    "fullName": "Ζώρζος Αναστάσιος Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9270/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6002",
+    "fullName": "Ρούσσος Ιάκωβος ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9269/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6003",
+    "fullName": "Γκίκας Γκίκας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9271/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6004",
+    "fullName": "Μαράκης Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9272/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6005",
+    "fullName": "Μαρινάκης Κυριάκος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9273/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6101",
+    "fullName": "Μαστροκούκος Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9276/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6102",
+    "fullName": "Κόττορος Ευάγγελος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9274/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6103",
+    "fullName": "Κομηνέας Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9275/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6104",
+    "fullName": "Μάγγος Φώτιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9277/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6105",
+    "fullName": "Κωττάκης Τιμόθεος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9278/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6106",
+    "fullName": "Τσαμπαλάκης Νικήτας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9279/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6201",
+    "fullName": "Φελλουζής Μιχαήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9280/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6202",
+    "fullName": "Ερωτόκριτος Μιχαήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9281/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6301",
+    "fullName": "Βελισσαροπούλου Ειρήνη",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9282/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6302",
+    "fullName": "Γαρδέρης Σταμάτιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9283/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6401",
+    "fullName": "Νικηταράς Θεοδόσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9284/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6402",
+    "fullName": "Κορωναιος Χριστοφης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9285/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6501",
+    "fullName": "Μικέλης Εμμανουήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9287/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6502",
+    "fullName": "Βεντούρης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9286/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6503",
+    "fullName": "Ρεβίνθης Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9288/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6504",
+    "fullName": "Ναδάλη Μαρία",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9289/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6601",
+    "fullName": "Βερώνης Χρήστος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9290/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6701",
+    "fullName": "Ελευθέριος Καραϊσκος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9291/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6702",
+    "fullName": "Λιανός Δημήτριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9292/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6801",
+    "fullName": "Μπιζάς Κωνσταντίνος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9294/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6802",
+    "fullName": "Φαρούπος Αναστάσιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9293/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6901",
+    "fullName": "Κολιάδης Αλέξανδρος Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9296/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6902",
+    "fullName": "Ασβέστης Νικόλαος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9295/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6903",
+    "fullName": "Παπακαλοδούκας Ελευθέριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9297/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6904",
+    "fullName": "Καμμά Μαρία",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9298/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:6905",
+    "fullName": "Φραγκάκης Ευάγγελος (Αγγελος)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9299/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7001",
+    "fullName": "Κροντηράς Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9301/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7101",
+    "fullName": "Καλοκαιρινός Αλέξιος (Αλέξης)",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9305/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7102",
+    "fullName": "Κοκοσάλης Εμμανουήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9302/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7103",
+    "fullName": "Μπαριτάκης Παύλος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9303/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7104",
+    "fullName": "Κοκολάκης Μιχαήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9304/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7105",
+    "fullName": "Μποκέας Μενέλαος ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9306/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7106",
+    "fullName": "Κεγκέρογλου Βασίλειος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9307/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7107",
+    "fullName": "Νικολιδάκης Γρηγόριος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9308/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7108",
+    "fullName": "Δοξαστάκης Ζαχαρίας",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9309/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7201",
+    "fullName": "Μενεγάκης Εμμανουήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9310/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7202",
+    "fullName": "Φραγκούλης Εμμανουήλ",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9311/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7203",
+    "fullName": "Αθανασάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9312/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7204",
+    "fullName": "Ζερβάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9313/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7301",
+    "fullName": "Μαρινάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9318/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7302",
+    "fullName": "Ταταράκης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9314/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7303",
+    "fullName": "Μουρτζανός Παντελεήμων",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9315/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7304",
+    "fullName": "Κεφαλογιάννης Σωκράτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9316/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7305",
+    "fullName": "Κλάδος Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9317/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7401",
+    "fullName": "Σημανδηράκης Παναγιώτης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9325/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7402",
+    "fullName": "Κουκιανάκης Χαράλαμπος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9319/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7403",
+    "fullName": "Στεφανάκη Μανωλία",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9320/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7404",
+    "fullName": "Περράκης Αντώνιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9321/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7405",
+    "fullName": "Μυλωνάκης Γεώργιος",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9322/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7406",
+    "fullName": "Μαλανδράκης Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9323/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "MUNICIPALITY:7407",
+    "fullName": "Ζερβός Ιωάννης",
+    "role": "MAYOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9324/",
+    "photoUrl": null,
+    "verifiedAt": "2024-03-27"
+  }
+]

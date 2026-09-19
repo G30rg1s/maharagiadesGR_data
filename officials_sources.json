@@ -1,0 +1,4749 @@
+{
+  "dataset": "officials.json",
+  "description": "Κατάλογος καταγεγραμμένων πηγών και αντιστοίχιση με τις εγγραφές του officials.json.",
+  "verificationNote": "Η εξαγωγή δεν αποτελεί νέο έλεγχο των πηγών ή της τρέχουσας θητείας. Ορισμένα sourceUrl της Αττικής είχαν καταχωριστεί ως γενικές αρχικές σελίδες ή μη επιβεβαιωμένες διευθύνσεις άρθρων και χρειάζονται διόρθωση πριν θεωρηθούν τεκμηρίωση.",
+  "catalog": [
+    {
+      "label": "Δυτική Μακεδονία — χωρικοί αντιπεριφερειάρχες",
+      "urls": [
+        "https://www.pdm.gov.gr/periferia/diikitiki-domi/antiperiferiarches/"
+      ]
+    },
+    {
+      "label": "Αττική — χωρικοί αντιπεριφερειάρχες",
+      "urls": [
+        "https://www.patt.gov.gr/perifereia/perifereia-2/"
+      ]
+    },
+    {
+      "label": "Δήμαρχοι",
+      "urls": [
+        "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/"
+      ]
+    },
+    {
+      "label": "Περιφερειάρχες",
+      "urls": [
+        "https://enpe.gr/"
+      ]
+    },
+    {
+      "label": "Κεντρική Μακεδονία",
+      "urls": [
+        "https://www.pkm.gov.gr/chorikoi-antiperifereiarches/",
+        "https://www.pkm.gov.gr/thematikoi-antiperifereiarches/"
+      ]
+    },
+    {
+      "label": "Ιόνια Νησιά",
+      "urls": [
+        "https://pin.gov.gr/?page_id=14",
+        "https://pin.gov.gr/?page_id=1932"
+      ]
+    },
+    {
+      "label": "Δυτική Ελλάδα",
+      "urls": [
+        "https://pde.gov.gr/el/perifereia/antiperifereiarxes/"
+      ]
+    },
+    {
+      "label": "Θεσσαλία",
+      "urls": [
+        "https://www.thessaly.gov.gr/organotikidomi/Antiperiferiarxes"
+      ]
+    },
+    {
+      "label": "Δυτική Μακεδονία",
+      "urls": [
+        "https://www.pdm.gov.gr/diikitiki-domi/antiperiferiarches/"
+      ]
+    },
+    {
+      "label": "Ανατολική Μακεδονία και Θράκη",
+      "urls": [
+        "https://www.pamth.gov.gr/dioikisi/genika/antiperifereiarches/"
+      ]
+    },
+    {
+      "label": "Κρήτη",
+      "urls": [
+        "https://www.crete.gov.gr/antiperiferiarxes/"
+      ]
+    },
+    {
+      "label": "Πελοπόννησος",
+      "urls": [
+        "https://www.ppel.gov.gr/antiperifereiarxis/"
+      ]
+    },
+    {
+      "label": "Βόρειο Αιγαίο",
+      "urls": [
+        "https://www.pvaigaiou.gov.gr/%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CE%AF/",
+        "https://www.pvaigaiou.gov.gr/%CE%B8%CE%B5%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%BF%CE%AF/"
+      ]
+    },
+    {
+      "label": "Νότιο Αιγαίο",
+      "urls": [
+        "https://www.pnai.gov.gr/antiperifereiarches"
+      ]
+    },
+    {
+      "label": "Ήπειρος",
+      "urls": [
+        "https://php.gov.gr/chorikoi-antiperifereiarches/",
+        "https://php.gov.gr/antiperifereiarches-thematikon-enotiton/"
+      ]
+    },
+    {
+      "label": "Στερεά Ελλάδα",
+      "urls": [
+        "https://pste.gov.gr/periferia/antiperifereiarches_11-2021/"
+      ]
+    }
+  ],
+  "recordSources": [
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9021/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0101",
+          "fullName": "Γκαράνης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9019/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0102",
+          "fullName": "Χουσεΐν Ερδέμ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9020/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0103",
+          "fullName": "Ιμάμ Τζανέρ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9022/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0104",
+          "fullName": "Ιωάννου Απόστολος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9002/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0201",
+          "fullName": "Παπαδόπουλος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9001/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0202",
+          "fullName": "Βογιατζής Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9003/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0203",
+          "fullName": "Ταμπουρίδης Ελευθέριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9004/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0204",
+          "fullName": "Καγιάογλου Αναστάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9005/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0205",
+          "fullName": "Αθανασιάδης Θεόδωρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9006/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0301",
+          "fullName": "Ζαμπούκης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9007/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0302",
+          "fullName": "Χατζηγιάννογλου Ρωμύλος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9008/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0303",
+          "fullName": "Παπαδόπουλος Αδαμάντιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9009/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0304",
+          "fullName": "Βίτσας Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9010/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0305",
+          "fullName": "Καλακίκος Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9011/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0401",
+          "fullName": "Κυριακίδης Ελευθέριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9012/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0501",
+          "fullName": "Μουριάδης Θεόδωρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9013/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0502",
+          "fullName": "Μιχαηλίδης Σάββας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9014/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0503",
+          "fullName": "Αναστασιάδης Φίλιππος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9017/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0601",
+          "fullName": "Κοντός Ευστράτιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9015/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0602",
+          "fullName": "Τσιτιρίδης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9016/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0603",
+          "fullName": "Κιουρτ Αχμέτ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9018/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0604",
+          "fullName": "Μίχογλου Θωμάς",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9031/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0701",
+          "fullName": "Αγγελούδης Στυλιανός",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9026/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0702",
+          "fullName": "Κυρίζογλου Λάζαρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9027/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0703",
+          "fullName": "Λιάμας Διαμαντής",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9028/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0704",
+          "fullName": "Μπισμπινά Γερακίνα",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9029/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0705",
+          "fullName": "Τζέκος Θεόδωρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9030/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0706",
+          "fullName": "Παπαδόπουλος Θεόδωρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9032/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0707",
+          "fullName": "Αράπογλου Χρυσή",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9033/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0708",
+          "fullName": "Αλεξανδρίδης Ελευθέριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9034/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0709",
+          "fullName": "Ανδρεαδου Ελπινίκη (Νίκη)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9035/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0710",
+          "fullName": "Δανιηλίδης Συμεών (Σίμος)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9036/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0711",
+          "fullName": "Ασλανίδης Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9037/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0712",
+          "fullName": "Καϊτεζίδης Ιγνάτιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9038/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0713",
+          "fullName": "Αναγνωστόπουλος Σταύρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9039/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0714",
+          "fullName": "Τσακίρης Παντελεήμων",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9024/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0801",
+          "fullName": "Βοργιαζίδης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9023/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0802",
+          "fullName": "Γκυρίνης Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9025/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0803",
+          "fullName": "Κουτσογιάννης Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9040/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0901",
+          "fullName": "Κυριακίδης Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9041/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:0902",
+          "fullName": "Σιωνίδης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9043/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1001",
+          "fullName": "Τσεπκεντζής Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9042/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1002",
+          "fullName": "Παρούτογλου Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9044/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1003",
+          "fullName": "Φουντουκιδης Ευστάθιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9045/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1004",
+          "fullName": "Ιγνατιάδου Αικατερίνη",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9047/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1101",
+          "fullName": "Ντούμος Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9046/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1102",
+          "fullName": "Γερολιόλιος Ευάγγελος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9048/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1103",
+          "fullName": "Κομπατσιάρης Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9054/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1201",
+          "fullName": "Μητλιάγκα Βαρβάρα",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9049/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1202",
+          "fullName": "Φραστανλής Στέργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9050/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1203",
+          "fullName": "Πλιάκου Ευανθία",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9051/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1204",
+          "fullName": "Νότας Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9052/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1205",
+          "fullName": "Κοτσακιαχίδης Κλεάνθης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9053/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1206",
+          "fullName": "Μπόζης Παντέλης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9055/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1207",
+          "fullName": "Τάτσιος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9059/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1301",
+          "fullName": "Εμμανουήλ Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9056/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1302",
+          "fullName": "Βαλιάνος Στυλιανός",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9057/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1303",
+          "fullName": "Χαλκιά Δημητροπούλου Αναστασία",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9058/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1304",
+          "fullName": "Καρράς Εμμανουήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9060/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1305",
+          "fullName": "Μαλλινης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9068/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1401",
+          "fullName": "Κοκκαλιάρης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9066/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1402",
+          "fullName": "Ζευκλής Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9067/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1403",
+          "fullName": "Πλακεντάς Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9069/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1404",
+          "fullName": "Ελευθερίου Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9330/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1405",
+          "fullName": "Στεργίου Εμμανουήλ (Μανώλης)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9061/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1501",
+          "fullName": "Ταταρίδης Κυριάκος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9062/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1502",
+          "fullName": "Κόττας Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9063/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1601",
+          "fullName": "Κορεντσίδης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9064/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1602",
+          "fullName": "Γκοσλιόπουλος Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9065/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1603",
+          "fullName": "Κεπαπτσόγλου Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9072/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1701",
+          "fullName": "Γιαννάκης Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9070/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1702",
+          "fullName": "Λιάσης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9071/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1703",
+          "fullName": "Στεργίου Γεώργιος ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9084/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1801",
+          "fullName": "Μπέγκας Θωμάς",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9080/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1802",
+          "fullName": "Βαΐτσης Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9081/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1803",
+          "fullName": "Ντακαλέτσης Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9082/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1804",
+          "fullName": "Σουκουβέλος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9083/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1805",
+          "fullName": "Πλιάκος Μιχαήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9085/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1806",
+          "fullName": "Παπασπύρου Ανδρέας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9086/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1807",
+          "fullName": "Αβέρωφ Μαρία-Χριστίνα",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9087/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1808",
+          "fullName": "Καψάλης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9073/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1901",
+          "fullName": "Σιαφάκας Χριστόφορος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9074/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1902",
+          "fullName": "Μίγδος Περικλής",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9075/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1903",
+          "fullName": "Χασιάκος Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9076/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:1904",
+          "fullName": "Παπασιώζος Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9077/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2001",
+          "fullName": "Νταής Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9078/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2002",
+          "fullName": "Ντάνης Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9079/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2003",
+          "fullName": "Τζίγκος Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9090/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2101",
+          "fullName": "Γεωργάκος Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9088/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2102",
+          "fullName": "Ζυγούρης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9089/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2103",
+          "fullName": "Ζαχαριάς Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9100/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2201",
+          "fullName": "Μαμάκος Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9097/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2202",
+          "fullName": "Γκουντάρας Αντώνιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9098/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2203",
+          "fullName": "Γάτσας Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9099/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2204",
+          "fullName": "Νασιακόπουλος Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9101/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2205",
+          "fullName": "Μανώλης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9102/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2206",
+          "fullName": "Τσικριτσής Αστέριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9103/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2207",
+          "fullName": "Εσκίογλου Ιορδάνης (Μάκης)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9092/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2301",
+          "fullName": "Τσιάκος Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9091/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2302",
+          "fullName": "Στεργίου Ανδρέας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9093/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2303",
+          "fullName": "Νάνος Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9094/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2304",
+          "fullName": "Στάθης Θεοφάνης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9095/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2305",
+          "fullName": "Δασκαλόπουλος Σωκράτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9096/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2306",
+          "fullName": "Κατσής Δημοσθένης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9105/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2401",
+          "fullName": "Μπέος Αχιλλεύς",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9104/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2402",
+          "fullName": "Εσερίδης Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9106/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2403",
+          "fullName": "Καραγεωργίου Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9107/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2404",
+          "fullName": "Μιτζικός Μιχαήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9108/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2405",
+          "fullName": "Νασίκας Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9110/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2501",
+          "fullName": "Τζούμας Θεόδωρος (Θοδωρής) ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9109/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2502",
+          "fullName": "Αναγνωστου Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9111/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2503",
+          "fullName": "Περίσσης Σταμάτιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9114/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2601",
+          "fullName": "Σακκάς Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9112/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2602",
+          "fullName": "Αβραμόπουλος Ελευθέριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9113/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2603",
+          "fullName": "Μαράβας Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9115/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2604",
+          "fullName": "Αγναντής Σπυρίδων",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9160/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2701",
+          "fullName": "Παπαϊωάννου Πανουργιάς ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9158/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2702",
+          "fullName": "Στιβακτή Αθανασία",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9159/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2703",
+          "fullName": "Λιόλιος Χαράλαμπος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9161/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2704",
+          "fullName": "Ζεκεντές Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9162/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2705",
+          "fullName": "Χαντζής Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9163/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2706",
+          "fullName": "Κυρμανίδης Ηλίας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9164/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2707",
+          "fullName": "Αποστόλου Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9145/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2801",
+          "fullName": "Καραμάνης Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9142/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2802",
+          "fullName": "Αραπίτσας Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9143/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2803",
+          "fullName": "Σταθάς Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9144/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2804",
+          "fullName": "Αναστασίου Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9146/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2805",
+          "fullName": "Τζαβάρας Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9147/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2806",
+          "fullName": "Περγάλιας Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9155/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2901",
+          "fullName": "Βάκα Ελένη",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9148/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2902",
+          "fullName": "Ψαθάς Γεώργιος ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9149/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2903",
+          "fullName": "Γουρνής Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9150/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2904",
+          "fullName": "Κοντζιάς Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9151/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2905",
+          "fullName": "Ραβιόλος Ελευθέριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9152/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2906",
+          "fullName": "Μπαράκος Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9153/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2907",
+          "fullName": "Τσαπουρνιώτης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9154/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:2908",
+          "fullName": "Αντωνόπουλος Κυριάκος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9157/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3001",
+          "fullName": "Κακαβάς Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9156/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3002",
+          "fullName": "Καρδαμπίκης Αλέξανδρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9165/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3101",
+          "fullName": "Ταγκαλής Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9166/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3102",
+          "fullName": "Γιαννόπουλος Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9118/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3201",
+          "fullName": "Πενηντάρχου Πουλημένος Στέφανος Χαράλαμπος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9119/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3202",
+          "fullName": "Βλαχόπουλος Σπυρίδων (Κωτσιός)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9326/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3203",
+          "fullName": "Μαχειμάρης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9327/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3204",
+          "fullName": "Χειμαριώτης Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9116/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3301",
+          "fullName": "Στασινόπουλος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9117/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3401",
+          "fullName": "Στανίτσας Διονύσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9120/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3501",
+          "fullName": "Μιχαλάτος Θεόφιλος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9328/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3502",
+          "fullName": "Κατσιβέλης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9329/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3503",
+          "fullName": "Δρακουλόγκωνας Παναγής",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9121/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3601",
+          "fullName": "Βεργίνης Ξενοφών",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9122/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3602",
+          "fullName": "Κατωπόδης Γεράσιμος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9134/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3701",
+          "fullName": "Πελετίδης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9130/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3702",
+          "fullName": "Καλογερόπουλος Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9131/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3703",
+          "fullName": "Αλεξόπουλος Γρηγόρης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9132/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3704",
+          "fullName": "Μπαρής Θεόδωρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9133/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3705",
+          "fullName": "Παπαδόπουλος Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9127/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3801",
+          "fullName": "Διαμαντόπουλος Σπυρίδων",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9124/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3802",
+          "fullName": "Κασόλας Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9123/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3803",
+          "fullName": "Παπαναστασίου Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9125/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3804",
+          "fullName": "Τορουνίδης Αθανάσιος (Σάκης)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9126/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3805",
+          "fullName": "Κωνσταντάρας Σπυρίδων",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9128/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3806",
+          "fullName": "Γκίζας Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9129/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3807",
+          "fullName": "Τριανταφυλλάκης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9141/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3901",
+          "fullName": "Καννής Ευστάθιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9139/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3902",
+          "fullName": "Χριστοδουλόπουλος Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9135/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3903",
+          "fullName": "Λέντζας Ιωάννης ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9136/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3904",
+          "fullName": "Μπαλιούκος Διονύσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9137/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3905",
+          "fullName": "Παναγιωτόπουλος Αριστείδης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9138/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3906",
+          "fullName": "Μητρόπουλος Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9140/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:3907",
+          "fullName": "Καστρινός Αλέξιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9241/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4001",
+          "fullName": "Τζιούμης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9237/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4002",
+          "fullName": "Καμπύλης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9238/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4003",
+          "fullName": "Κούλης Ευστάθιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9239/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4004",
+          "fullName": "Μιχόπουλος Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9240/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4005",
+          "fullName": "Δολιανίτης Εμμανουήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9236/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4101",
+          "fullName": "Ορφανός Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9233/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4102",
+          "fullName": "Μαλτέζος Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9234/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4103",
+          "fullName": "Χρόνης Αναστάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9235/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4104",
+          "fullName": "Γεωργόπουλος Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9243/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4201",
+          "fullName": "Σταυρέλης Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9242/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4202",
+          "fullName": "Μανάβης Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9244/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4203",
+          "fullName": "Γκιώνης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9245/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4204",
+          "fullName": "Φρούσιος Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9246/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4205",
+          "fullName": "Τσιώτος Βλάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9247/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4206",
+          "fullName": "Σταματόπουλος Σπυρίδων",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9252/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4301",
+          "fullName": "Βακαλόπουλος Μιχαήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9248/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4302",
+          "fullName": "Ανδρεάκος Πέτρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9249/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4303",
+          "fullName": "Τσιριγωτάκης Αγγελος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9250/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4304",
+          "fullName": "Βέρδος Δήμος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9251/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4305",
+          "fullName": "Τριχείλης Ηρακλής",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9254/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4401",
+          "fullName": "Βασιλόπουλος Αθανάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9253/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4402",
+          "fullName": "Χιουρέας Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9255/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4403",
+          "fullName": "Αθανασόπουλος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9256/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4404",
+          "fullName": "Γεωργακοπούλου Παναγιώτα",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9257/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4405",
+          "fullName": "Καρβέλας Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9258/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4406",
+          "fullName": "Λεβεντάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9186/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4501",
+          "fullName": "Δούκας Χρυσόστομος (Χάρης)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9187/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4502",
+          "fullName": "Σωτηρόπουλος Αλέξιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9188/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4503",
+          "fullName": "Μαρκόπουλος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9189/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4504",
+          "fullName": "Τσιλίφης Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9190/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4505",
+          "fullName": "Καφατσάκη Βλάχου Σταματία (Τίνα)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9191/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4506",
+          "fullName": "Ψυρρόπουλος Ευστάθιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9192/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4507",
+          "fullName": "Σταμέλος Ηλίας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9193/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4508",
+          "fullName": "Τομπούλογλου Ιωάννης ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9168/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4601",
+          "fullName": "Αμπατζόγλου Θεόδωρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9167/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4602",
+          "fullName": "Μυλωνάκης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9169/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4603",
+          "fullName": "Πισιμίσης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9170/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4604",
+          "fullName": "Μπάμπαλος Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9171/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4605",
+          "fullName": "Ξυπολυτάς Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9172/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4606",
+          "fullName": "Ψυχάλης Μάριος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9173/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4607",
+          "fullName": "Σαραούδας Ευστράτιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9174/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4608",
+          "fullName": "Μανούρης Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9175/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4609",
+          "fullName": "Αποστολόπουλος Ηλίας ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9176/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4610",
+          "fullName": "Κοσμοπουλου Αναστασία (Νατάσσα) ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9177/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4611",
+          "fullName": "Μπονάτσος Χαράλαμπος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9178/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4612",
+          "fullName": "Ρούσσος Συμεών (Σίμος)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9183/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4701",
+          "fullName": "Παχατουρίδης Ανδρέας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9179/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4702",
+          "fullName": "Μίχος Λάμπρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9180/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4703",
+          "fullName": "Τσίρμπας Γεώργιος-Σταύρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9181/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4704",
+          "fullName": "Σκλαβούνος Λάμπρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9182/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4705",
+          "fullName": "Αλεβίζου Κουκουβίνου Ανδριάνα",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9184/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4706",
+          "fullName": "Σίμος Ευάγγελος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9185/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4707",
+          "fullName": "Σελέκος Μιχαήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9198/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4801",
+          "fullName": "Ασκούνης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9194/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4802",
+          "fullName": "Μαμαλάκης Στυλιανός (Στέλιος)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9195/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4803",
+          "fullName": "Κονδύλης Ανδρέας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9196/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4804",
+          "fullName": "Παπανικολάου Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9197/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4805",
+          "fullName": "Κωνσταντάτος Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9199/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4806",
+          "fullName": "Ευθυμίου Ανδρέας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9200/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4807",
+          "fullName": "Κουτελάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9201/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4808",
+          "fullName": "Φωστηρόπουλος Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9215/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4901",
+          "fullName": "Βρεττός Σπυρίδων",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9216/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4902",
+          "fullName": "Κωνσταντέλλος Γρηγόριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9217/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4903",
+          "fullName": "Μαϊχοσογλου Αικατερίνη (Κατερίνα)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9218/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4904",
+          "fullName": "Κιούσης Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9219/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4905",
+          "fullName": "Λουκάς Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9220/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4906",
+          "fullName": "Τσίρκας Στέργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9221/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4907",
+          "fullName": "Αλλαγιάννης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9222/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4908",
+          "fullName": "Μάδης Ισίδωρος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9223/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4909",
+          "fullName": "Αηδόνης Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9224/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4910",
+          "fullName": "Τσεβα Μηλα Δήμητρα",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9225/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4911",
+          "fullName": "Παπαχρήστου Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9226/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4912",
+          "fullName": "Μάρκου Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9227/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:4913",
+          "fullName": "Γιασημάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9229/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5001",
+          "fullName": "Γεωργόπουλος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9228/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5002",
+          "fullName": "Ηλίας Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9230/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5003",
+          "fullName": "Δρίκος Αρμόδιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9231/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5004",
+          "fullName": "Μαργετης Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9232/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5005",
+          "fullName": "Παππούς Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9205/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5101",
+          "fullName": "Μώραλης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9202/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5102",
+          "fullName": "Βρεττάκος Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9203/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5103",
+          "fullName": "Χουρσαλάς Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9204/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5104",
+          "fullName": "Μαραγκάκης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9206/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5105",
+          "fullName": "Λαγουδάκος Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9211/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5201",
+          "fullName": "Παναγόπουλος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9214/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5202",
+          "fullName": "Κουκουδάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9207/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5203",
+          "fullName": "Αναστασίου Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9208/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5204",
+          "fullName": "Ζορμπάς Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9209/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5205",
+          "fullName": "Χαρχαλάκης Ευστράτιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9210/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5206",
+          "fullName": "Κουτουζής Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9212/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5207",
+          "fullName": "Φραγγιά Ευγενία",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9213/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5208",
+          "fullName": "Μούγιος Αναστάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9261/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5301",
+          "fullName": "Χριστόφας Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9331/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5302",
+          "fullName": "Βέρρος Ταξιάρχης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9259/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5401",
+          "fullName": "Καρούτσος Φανούριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9260/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5402",
+          "fullName": "Καρύδης Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9263/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5501",
+          "fullName": "Γεώργα Ελεονώρα",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9262/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5502",
+          "fullName": "Σινάνης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9264/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5601",
+          "fullName": "Παπαγεωργίου Παρασκευάς",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9332/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5602",
+          "fullName": "Παπαθεοφάνους Θεμιστοκλής",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9266/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5701",
+          "fullName": "Μαλαφής Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9265/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5702",
+          "fullName": "Δανιήλ Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9267/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5703",
+          "fullName": "Βρατσάνος Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9300/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5801",
+          "fullName": "Αθανασίου Αλέξανδρος (Αλέξης)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9268/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:5901",
+          "fullName": "Σουσούδης Θεοδόσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9270/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6001",
+          "fullName": "Ζώρζος Αναστάσιος Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9269/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6002",
+          "fullName": "Ρούσσος Ιάκωβος ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9271/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6003",
+          "fullName": "Γκίκας Γκίκας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9272/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6004",
+          "fullName": "Μαράκης Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9273/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6005",
+          "fullName": "Μαρινάκης Κυριάκος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9276/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6101",
+          "fullName": "Μαστροκούκος Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9274/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6102",
+          "fullName": "Κόττορος Ευάγγελος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9275/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6103",
+          "fullName": "Κομηνέας Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9277/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6104",
+          "fullName": "Μάγγος Φώτιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9278/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6105",
+          "fullName": "Κωττάκης Τιμόθεος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9279/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6106",
+          "fullName": "Τσαμπαλάκης Νικήτας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9280/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6201",
+          "fullName": "Φελλουζής Μιχαήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9281/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6202",
+          "fullName": "Ερωτόκριτος Μιχαήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9282/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6301",
+          "fullName": "Βελισσαροπούλου Ειρήνη",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9283/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6302",
+          "fullName": "Γαρδέρης Σταμάτιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9284/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6401",
+          "fullName": "Νικηταράς Θεοδόσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9285/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6402",
+          "fullName": "Κορωναιος Χριστοφης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9287/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6501",
+          "fullName": "Μικέλης Εμμανουήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9286/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6502",
+          "fullName": "Βεντούρης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9288/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6503",
+          "fullName": "Ρεβίνθης Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9289/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6504",
+          "fullName": "Ναδάλη Μαρία",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9290/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6601",
+          "fullName": "Βερώνης Χρήστος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9291/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6701",
+          "fullName": "Ελευθέριος Καραϊσκος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9292/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6702",
+          "fullName": "Λιανός Δημήτριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9294/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6801",
+          "fullName": "Μπιζάς Κωνσταντίνος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9293/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6802",
+          "fullName": "Φαρούπος Αναστάσιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9296/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6901",
+          "fullName": "Κολιάδης Αλέξανδρος Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9295/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6902",
+          "fullName": "Ασβέστης Νικόλαος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9297/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6903",
+          "fullName": "Παπακαλοδούκας Ελευθέριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9298/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6904",
+          "fullName": "Καμμά Μαρία",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9299/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:6905",
+          "fullName": "Φραγκάκης Ευάγγελος (Αγγελος)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9301/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7001",
+          "fullName": "Κροντηράς Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9305/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7101",
+          "fullName": "Καλοκαιρινός Αλέξιος (Αλέξης)",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9302/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7102",
+          "fullName": "Κοκοσάλης Εμμανουήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9303/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7103",
+          "fullName": "Μπαριτάκης Παύλος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9304/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7104",
+          "fullName": "Κοκολάκης Μιχαήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9306/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7105",
+          "fullName": "Μποκέας Μενέλαος ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9307/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7106",
+          "fullName": "Κεγκέρογλου Βασίλειος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9308/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7107",
+          "fullName": "Νικολιδάκης Γρηγόριος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9309/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7108",
+          "fullName": "Δοξαστάκης Ζαχαρίας",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9310/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7201",
+          "fullName": "Μενεγάκης Εμμανουήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9311/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7202",
+          "fullName": "Φραγκούλης Εμμανουήλ",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9312/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7203",
+          "fullName": "Αθανασάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9313/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7204",
+          "fullName": "Ζερβάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9318/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7301",
+          "fullName": "Μαρινάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9314/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7302",
+          "fullName": "Ταταράκης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9315/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7303",
+          "fullName": "Μουρτζανός Παντελεήμων",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9316/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7304",
+          "fullName": "Κεφαλογιάννης Σωκράτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9317/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7305",
+          "fullName": "Κλάδος Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9325/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7401",
+          "fullName": "Σημανδηράκης Παναγιώτης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9319/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7402",
+          "fullName": "Κουκιανάκης Χαράλαμπος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9320/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7403",
+          "fullName": "Στεφανάκη Μανωλία",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9321/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7404",
+          "fullName": "Περράκης Αντώνιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9322/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7405",
+          "fullName": "Μυλωνάκης Γεώργιος",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9323/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7406",
+          "fullName": "Μαλανδράκης Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9324/",
+      "records": [
+        {
+          "placeCode": "MUNICIPALITY:7407",
+          "fullName": "Ζερβός Ιωάννης",
+          "role": "MAYOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=christodoulos-topsidis",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Χριστόδουλος Τοψίδης",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=nikolaos-chardalias-perifereiarchis-attikis",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Αττικής",
+          "fullName": "Νικόλαος Χαρδαλιάς",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=konstantinos-moutzouris-perifereiarchis-voreiou-aigaiou",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Κωνσταντίνος Μουτζούρης",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=nektarios-farmakis",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Νεκτάριος Φαρμάκης",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=georgios-amanatidis",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Μακεδονίας",
+          "fullName": "Γεώργιος Αμανατίδης",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=alexandros-kachrimanis-perifereiarchis-ipeirou",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Αλέξανδρος Καχριμάνης",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=dimitrios-kouretas-perifereiarchis-thessalias",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Δημήτριος Κουρέτας",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=ioannis-trepeklis-perifereiarchis-ionion-nison",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Ιωάννης Τρεπεκλής",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=athina-athanasiadou-aidona",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Αθηνά Αθανασιάδου – Αηδονά",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=stavros-arnaoutakis",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Σταύρος Αρναουτάκης",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=giorgos-chatzimarkos",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Γιώργος Χατζημάρκος",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=dimitris-ptochos",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Δημήτρης Πτωχός",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://enpe.gr/wp-json/wp/v2/pages?slug=fanis-spanos-perifereiarchis-stereas-ellados",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Φάνης Σπανός",
+          "role": "REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pkm.gov.gr/thematikoi-antiperifereiarches/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Ευστάθιος (Στάθης) Αβραμίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_SPATIAL_PLANNING"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Θεόδωρος Αγγελίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_VOLUNTEERING_YOUTH"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Μαρία (Μελίνα) Δερμεντζοπούλου",
+          "role": "THEMATIC_VICE_GOVERNOR_HEALTH_SOCIAL_SOLIDARITY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Σωκράτης Δωρής",
+          "role": "THEMATIC_VICE_GOVERNOR_DEVELOPMENT_ENVIRONMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Γεώργιος Κεφαλάς",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_ECONOMY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Θεόδωρος Μητράκας",
+          "role": "THEMATIC_VICE_GOVERNOR_TRANSPORT_COMMUNICATIONS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Χρήστος Μήττας",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE_SPORTS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Παρίσης (Πάρις) Μπίλλιας",
+          "role": "THEMATIC_VICE_GOVERNOR_INFRASTRUCTURE_NETWORKS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Μπράνισλαβ (Μπάνε) Πρέλεβιτς",
+          "role": "THEMATIC_VICE_GOVERNOR_EXTROVERSION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Νικόλαος Τζόλλας",
+          "role": "THEMATIC_VICE_GOVERNOR_DIGITAL_GOVERNANCE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+          "fullName": "Ευρυδίκη (Βίκυ) Χατζηβασιλείου",
+          "role": "THEMATIC_VICE_GOVERNOR_TOURISM"
+        }
+      ]
+    },
+    {
+      "url": "https://pin.gov.gr/?page_id=341",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κέρκυρας",
+          "fullName": "Αλέξανδρος Δήμου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://pin.gov.gr/?page_id=345",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Λευκάδας",
+          "fullName": "Αντώνιος Δουβίτσας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://pin.gov.gr/?page_id=347",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κεφαλληνίας",
+          "fullName": "Ευστάθιος-Σωτήριος Κουρής",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://pin.gov.gr/?page_id=349",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ζακύνθου",
+          "fullName": "Κωνσταντίνος Καποδίστριας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://pin.gov.gr/?page_id=1932",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Σάββας Κουλούρης",
+          "role": "THEMATIC_VICE_GOVERNOR_FINANCE_COMMERCE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Γεώργιος Μάμαλος",
+          "role": "THEMATIC_VICE_GOVERNOR_PUBLIC_WORKS_PLANNING"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Αιμιλία Μόσχου",
+          "role": "THEMATIC_VICE_GOVERNOR_EU_PROGRAMS_DIGITAL_INNOVATION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Σπυρίδων Ιωάννου",
+          "role": "THEMATIC_VICE_GOVERNOR_SPATIAL_ENVIRONMENT_CLIMATE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Ελένη Παπαναστασάτου",
+          "role": "THEMATIC_VICE_GOVERNOR_ENTREPRENEURSHIP_DIASPORA"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Κωνσταντίνος Τσιριγώτης",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURE_LIVESTOCK_FISHERIES"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Θεόδωρος Κοντζιάλης",
+          "role": "THEMATIC_VICE_GOVERNOR_SOCIAL_POLICY_SOLIDARITY_VOLUNTEERING"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Ιωάννης Αρμενιάκος",
+          "role": "THEMATIC_VICE_GOVERNOR_SPORTS_YOUTH"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Σπύρος Αργυρός",
+          "role": "THEMATIC_VICE_GOVERNOR_SMALL_ISLANDS_TRANSPORT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+          "fullName": "Ευτύχιος Ζουριδάκης",
+          "role": "THEMATIC_VICE_GOVERNOR_INDUSTRY_ENERGY_NATURAL_RESOURCES"
+        }
+      ]
+    },
+    {
+      "url": "https://pde.gov.gr/el/perifereia/antiperifereiarxes/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Αιτωλοακαρνανίας",
+          "fullName": "Αθανάσιος Μαυρομμάτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Αχαΐας",
+          "fullName": "Φωκίων Ζαΐμης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ηλείας",
+          "fullName": "Νικόλαος Κοροβέσης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Ανδρέας Φίλιας",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_DEVELOPMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Παναγιώτης Αντωνόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_SPORTS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Στυλιανός Μπλέτσας",
+          "role": "THEMATIC_VICE_GOVERNOR_SUSTAINABLE_DEVELOPMENT_ENERGY_ENVIRONMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Άννα Μαστοράκου",
+          "role": "THEMATIC_VICE_GOVERNOR_PUBLIC_HEALTH"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Θεόδωρος Βασιλόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_CITIZEN_SERVICE_DIGITAL_GOVERNANCE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Παναγιώτης Παπαδόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_ENTREPRENEURSHIP_RESEARCH_INNOVATION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Γεωργία Ντάτσικα",
+          "role": "THEMATIC_VICE_GOVERNOR_SOCIAL_POLICY_FAMILY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Νίκος Κατσακιώρης",
+          "role": "THEMATIC_VICE_GOVERNOR_ECONOMIC_POLICY_FISCAL_CONTROL"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Παναγιώτης Μπράμος",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Παναγιώτης Σακελλαρόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_TOURISM_DEVELOPMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+          "fullName": "Βασίλειος Γιαννόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_INFRASTRUCTURE_WORKS"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pkm.gov.gr/chorikoi-antiperifereiarches/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Μητροπολιτική Ενότητα Θεσσαλονίκης",
+          "fullName": "Κωνσταντίνος Γιουτίκας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ημαθίας",
+          "fullName": "Κωνσταντίνος Καλαϊτζίδης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κιλκίς",
+          "fullName": "Ανδρέας Βεργίδης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Πέλλας",
+          "fullName": "Ιορδάνης Τζαμτζής",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Πιερίας",
+          "fullName": "Σοφία Μαυρίδου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Σερρών",
+          "fullName": "Παναγιώτης Σπυρόπουλος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Χαλκιδικής",
+          "fullName": "Ιωάννης Κουφίδης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.thessaly.gov.gr/organotikidomi/Antiperiferiarxes",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Λάρισας",
+          "fullName": "Μαρία Γαλλιού",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Μαγνησίας",
+          "fullName": "Άννα Μαρία Παπαδημητρίου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Τρικάλων",
+          "fullName": "Χριστούλα Ντιντή",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Καρδίτσας",
+          "fullName": "Κωνσταντίνος Τέλιος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Σποράδων",
+          "fullName": "Αμαλία Γραββάνη",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Δημήτριος Τσέτσιλας",
+          "role": "THEMATIC_VICE_GOVERNOR_PRIMARY_SECTOR_AGRICULTURAL_ECONOMY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Σωτήριος Σουλούκος",
+          "role": "THEMATIC_VICE_GOVERNOR_SPORTS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Φώτιος Λαμπρινίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_ENVIRONMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Απόστολος Καναβός",
+          "role": "THEMATIC_VICE_GOVERNOR_TECHNICAL_WORKS_ESPA"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Ευάγγελος Αποστόλου",
+          "role": "THEMATIC_VICE_GOVERNOR_HEALTH"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Ιωάννης Αναστασίου",
+          "role": "THEMATIC_VICE_GOVERNOR_CITIZEN_SERVICE_DIGITAL_EU_INVESTMENTS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Ανδριάνα Κομήτσα",
+          "role": "THEMATIC_VICE_GOVERNOR_VOLUNTEERING_WELFARE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Αναστασία Αδαμοπούλου-Ντούλα",
+          "role": "THEMATIC_VICE_GOVERNOR_TOURISM"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Γρηγόριος Γκουντόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_ENTREPRENEURSHIP"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Χρήστος Γκουρομπίνος",
+          "role": "THEMATIC_VICE_GOVERNOR_SOCIAL_POLICY_FAMILY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+          "fullName": "Βασίλειος Σίμος",
+          "role": "THEMATIC_VICE_GOVERNOR_EDUCATION_EQUALITY_CULTURE"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pdm.gov.gr/periferia/diikitiki-domi/antiperiferiarches/antiperiferiarchis-kozanis/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κοζάνης",
+          "fullName": "Κωνσταντίνος Βύζας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pdm.gov.gr/periferia/diikitiki-domi/antiperiferiarches/antiperifereiarchis-tourismou-politismou-kai-perivallontos/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Μακεδονίας",
+          "fullName": "Πολυτίμη Φαρμάκη",
+          "role": "THEMATIC_VICE_GOVERNOR_TOURISM_CULTURE_ENVIRONMENT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pdm.gov.gr/periferia/diikitiki-domi/antiperiferiarches/antiperifereiarchis-agrotikis-anaptyxis/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Μακεδονίας",
+          "fullName": "Θεοφύλακτος Ζυμπίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_DEVELOPMENT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pdm.gov.gr/periferia/diikitiki-domi/antiperiferiarches/antiperifereiarchis-diafaneias-ilektronikis-diakyvernisis-kai-psifiakou-metaschimatismou/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Μακεδονίας",
+          "fullName": "Αναστάσιος Ραφαηλίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_TRANSPARENCY_DIGITAL_TRANSFORMATION"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pdm.gov.gr/periferia/diikitiki-domi/antiperiferiarches/antiperifereiarchis-paideias-kai-athlitismou/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Μακεδονίας",
+          "fullName": "Όλγα Πουταχίδου",
+          "role": "THEMATIC_VICE_GOVERNOR_EDUCATION_SPORTS"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pdm.gov.gr/periferia/diikitiki-domi/antiperiferiarches/antiperifereiarchis-kladou-gounas/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Δυτικής Μακεδονίας",
+          "fullName": "Όλγα Τράσια",
+          "role": "THEMATIC_VICE_GOVERNOR_FUR_INDUSTRY"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pamth.gov.gr/dioikisi/genika/antiperifereiarches/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Δράμας",
+          "fullName": "Μιχάλης Μουρβετίδης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Καβάλας",
+          "fullName": "Θεόδωρος Μαρκόπουλος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ξάνθης",
+          "fullName": "Βασιλική Παυλακάκη",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ροδόπης",
+          "fullName": "Μανώλης Ταπατζάς",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Έβρου",
+          "fullName": "Ευάγγελος Πουλιλιός",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Χαράλαμπος Δαλκιτζής",
+          "role": "DEPUTY_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Αλέξανδρος Ιωσηφίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_DEVELOPMENT_ENTREPRENEURSHIP_INNOVATION_RESEARCH_SOCIAL_ECONOMY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Κωνσταντίνος Βενετίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_CIVIL_PROTECTION_CLIMATE_INFRASTRUCTURE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Φανή Μπαχαρίδου",
+          "role": "THEMATIC_VICE_GOVERNOR_FINANCE_CULTURE_VOLUNTEERING"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Ιρφάν Χατζηγκενέ",
+          "role": "THEMATIC_VICE_GOVERNOR_TRANSPORT_COMMUNICATIONS_CITIZEN_SERVICE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Γεώργιος Δαλακούρας",
+          "role": "THEMATIC_VICE_GOVERNOR_HEALTH_FAMILY_POLICY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Παναγιώτης Αρχοντής",
+          "role": "THEMATIC_VICE_GOVERNOR_TOURISM"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Αλέξανδρος Παναγιωτίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_SOCIAL_POLICY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Νικόλαος Ευκαρπίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_ADMIN_HR_ENVIRONMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Ριτβάν Χατζή Μεμέτ",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_ECONOMY_PRIMARY_SECTOR_LIVESTOCK"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Ριτβάν Μολλά Ισά",
+          "role": "THEMATIC_VICE_GOVERNOR_DIGITAL_TRANSITION_E_GOVERNMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+          "fullName": "Στυλιανός Ιγνατιάδης",
+          "role": "THEMATIC_VICE_GOVERNOR_SPORTS_EMPLOYMENT_INTERREGIONAL_COOPERATION"
+        }
+      ]
+    },
+    {
+      "url": "https://www.crete.gov.gr/antiperiferiarxes/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ηρακλείου",
+          "fullName": "Νικόλαος Συριγωνάκης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Χανίων",
+          "fullName": "Νικόλαος Καλογερής",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ρεθύμνου",
+          "fullName": "Μαρία Λιονή",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Λασιθίου",
+          "fullName": "Ιωάννης Ανδρουλάκης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Γεώργιος Πιτσούλης",
+          "role": "DEPUTY_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Στυλιανός Βοργιάς",
+          "role": "THEMATIC_VICE_GOVERNOR_SOCIAL_POLICY_SOLIDARITY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Εμμανουήλ Καμπουράκης",
+          "role": "THEMATIC_VICE_GOVERNOR_ADMIN_FINANCE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Γεωργία Μηλάκη",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE_EQUALITY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Σπυρίδων Μπαλαντίνος",
+          "role": "THEMATIC_VICE_GOVERNOR_PRIMARY_SECTOR_TOURISM"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Νίκος Ξυλούρης",
+          "role": "THEMATIC_VICE_GOVERNOR_ENVIRONMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Μιχαήλ Σαρρής",
+          "role": "THEMATIC_VICE_GOVERNOR_TRANSPORT_COMMUNICATIONS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Σταύρος Τζεδάκης",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_ECONOMY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Γεώργιος Τσαπάκος",
+          "role": "THEMATIC_VICE_GOVERNOR_CIVIL_PROTECTION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Μιχαήλ Βάμβουκας",
+          "role": "THEMATIC_VICE_GOVERNOR_ENTREPRENEURSHIP"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Μιχαήλ Κλώντζας",
+          "role": "THEMATIC_VICE_GOVERNOR_EXTROVERSION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Κρήτης",
+          "fullName": "Θεοδώρα Κουτεντάκη",
+          "role": "THEMATIC_VICE_GOVERNOR_YOUTH_YOUTH_ENTREPRENEURSHIP"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ppel.gov.gr/antiperifereiarxis/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Αργολίδας",
+          "fullName": "Βασίλειος Σιδέρης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Αρκαδίας",
+          "fullName": "Κωνσταντίνος Μανδρώνης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κορινθίας",
+          "fullName": "Σωτήριος Μουρίκης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Λακωνίας",
+          "fullName": "Θεόδωρος Βερούτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Μεσσηνίας",
+          "fullName": "Αναστάσιος Αδαμόπουλος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Χρήστος Λαμπρόπουλος",
+          "role": "DEPUTY_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Αθηνά Κόρκα - Κώνστα",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Θάνος Μιχελογγόνας",
+          "role": "THEMATIC_VICE_GOVERNOR_TOURISM"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Αναστάσιος Σαρδέλης",
+          "role": "THEMATIC_VICE_GOVERNOR_DEVELOPMENT_ENTREPRENEURSHIP"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Ανδρέας Τσουκαλάς",
+          "role": "THEMATIC_VICE_GOVERNOR_INFRASTRUCTURE_NETWORKS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Μαρία Οικονομάκου",
+          "role": "THEMATIC_VICE_GOVERNOR_COHESION_SOLIDARITY_SUPPORT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Σπύρος Τζινιέρης",
+          "role": "THEMATIC_VICE_GOVERNOR_SPATIAL_PLANNING_REAL_ESTATE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Αναστάσιος Γκιόλης",
+          "role": "THEMATIC_VICE_GOVERNOR_EDUCATION_LIFELONG_LEARNING"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Ιωάννης Μαντζούνης",
+          "role": "THEMATIC_VICE_GOVERNOR_SPORTS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Σπυρίδων Ζαχαρίας",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_ECONOMY_VETERINARY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Ευστάθιος Αναστασόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_ENERGY_ENVIRONMENT_CIRCULAR_ECONOMY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+          "fullName": "Αναστάσιος Γανώσης",
+          "role": "THEMATIC_VICE_GOVERNOR_TRANSPORT_COMMUNICATIONS"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pvaigaiou.gov.gr/%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%BF%CE%AF/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Λέσβου",
+          "fullName": "Κωνσταντίνος Αρώνης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Χίου",
+          "fullName": "Παντελής Βρούλης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Σάμου",
+          "fullName": "Ελισσαίος Μαυρατζώτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pvaigaiou.gov.gr/%CE%B1%CE%BD%CE%B1%CF%80%CE%BB%CE%B7%CF%81%CF%89%CF%84%CE%AE%CF%82-%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%B5%CF%81%CE%B5%CE%B9%CE%AC%CF%81%CF%87%CE%B7%CF%82/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Ιωάννης Καλτάκης",
+          "role": "DEPUTY_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pvaigaiou.gov.gr/%CE%B8%CE%B5%CE%BC%CE%B1%CF%84%CE%B9%CE%BA%CE%BF%CE%AF/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Σουλτάνα Ανδρεάδου",
+          "role": "THEMATIC_VICE_GOVERNOR_EDUCATION_PRODUCTS_PROMOTION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Μιχαήλ-Άνθιμος Δίσσος",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE_SOCIAL_CARE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Δημήτριος Καλλίας",
+          "role": "THEMATIC_VICE_GOVERNOR_FINANCE_LEGAL_PRODUCTS_PROMOTION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Ευστράτιος Κυράτζης-Χρυσόστομου",
+          "role": "THEMATIC_VICE_GOVERNOR_PROGRAMMING_ESPA"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Παντελής Μπουρνιάς",
+          "role": "THEMATIC_VICE_GOVERNOR_ENVIRONMENT_INNOVATION_ENERGY_DIGITAL"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Νικόλαος Νύκτας",
+          "role": "THEMATIC_VICE_GOVERNOR_EMPLOYMENT_TRADE_TRANSPORT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Χρυσόστομος Χατζηκυριαζής",
+          "role": "THEMATIC_VICE_GOVERNOR_TECHNICAL_WORKS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Γεώργιος Αρβανίτης",
+          "role": "UNPAID_THEMATIC_VICE_GOVERNOR_SHIPPING_PORTS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Λαμπρινός Άγγελος Βλάττας",
+          "role": "UNPAID_THEMATIC_VICE_GOVERNOR_EDUCATION_TRANSPORT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+          "fullName": "Δέσποινα Καλβίνου",
+          "role": "THEMATIC_VICE_GOVERNOR_WESTERN_SAMOS_TRANSPORT"
+        }
+      ]
+    },
+    {
+      "url": "https://www.pnai.gov.gr/antiperifereiarches",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Σύρου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Άνδρου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Θήρας",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κέας - Κύθνου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Μήλου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Μυκόνου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Νάξου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Πάρου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Τήνου",
+          "fullName": "Γεώργιος Λεονταρίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Καλύμνου",
+          "fullName": "Χρήστος Ευστρατίου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Καρπάθου - Ηρωϊκής Νήσου Κάσου",
+          "fullName": "Χρήστος Ευστρατίου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κω",
+          "fullName": "Χρήστος Ευστρατίου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ρόδου",
+          "fullName": "Χρήστος Ευστρατίου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Απόστολος Ασπράκης",
+          "role": "DEPUTY_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Απόστολος Ασπράκης",
+          "role": "THEMATIC_VICE_GOVERNOR_NATURAL_RESOURCES_ENERGY_INDUSTRY_INVESTMENTS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Φιλήμων Ζαννετίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_PRIMARY_SECTOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Κάλλιστος Διακογεωργίου",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE_DODECANESE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Νικόλαος Νικολής",
+          "role": "THEMATIC_VICE_GOVERNOR_TRANSPORT_DODECANESE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Νικόλαος Φωτεινιάς",
+          "role": "THEMATIC_VICE_GOVERNOR_TRANSPORT_CYCLADES"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Χαρίκλεια Γιασιράνη",
+          "role": "THEMATIC_VICE_GOVERNOR_ADMINISTRATIVE_REFORM"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Ελισάβετ Χωριανοπούλου",
+          "role": "THEMATIC_VICE_GOVERNOR_SUSTAINABLE_DEVELOPMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Χαράλαμπος Ναβροζίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_DIGITAL_DEVELOPMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Στυλιανός Μπρίγγος",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE_CYCLADES"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Νικόλαος Τσουκαλάς",
+          "role": "THEMATIC_VICE_GOVERNOR_PUBLIC_HEALTH_EMPLOYMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Χρήστος Μιχαλάκης",
+          "role": "THEMATIC_VICE_GOVERNOR_STRATEGIC_PLANNING"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Ζήσιμος Δελαπόρτας",
+          "role": "THEMATIC_VICE_GOVERNOR_SPORTS_DODECANESE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+          "fullName": "Ιωάννης Μαργαρίτης",
+          "role": "THEMATIC_VICE_GOVERNOR_COMMUNICATIONS_EXTERNAL_RELATIONS"
+        }
+      ]
+    },
+    {
+      "url": "https://php.gov.gr/chorikoi-antiperifereiarches/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Άρτας",
+          "fullName": "Βασίλειος Ψαθάς",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Θεσπρωτίας",
+          "fullName": "Θωμάς Πιτούλης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ιωαννίνων",
+          "fullName": "Κωνσταντίνος Σιαράβας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Πρέβεζας",
+          "fullName": "Ευστράτιος Ιωάννου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://php.gov.gr/antiperifereiarches-thematikon-enotiton/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Βασίλειος Γοργόλης",
+          "role": "THEMATIC_VICE_GOVERNOR_ENVIRONMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Παναγιώτα Μητροκώστα",
+          "role": "THEMATIC_VICE_GOVERNOR_PRIMARY_HEALTH_CARE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Πρόδρομος Γαϊτανίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_ECONOMY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Νικόλαος Σπύρου",
+          "role": "THEMATIC_VICE_GOVERNOR_LAND_IMPROVEMENT_ORGANIZATIONS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Δημήτριος Γκαμπρέλας",
+          "role": "THEMATIC_VICE_GOVERNOR_SOULI_AREA"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Ευάγγελος Τσοβίλης",
+          "role": "THEMATIC_VICE_GOVERNOR_COASTAL_TOURISM"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Ηλίας Γκαρτζονίκας",
+          "role": "THEMATIC_VICE_GOVERNOR_CULTURE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Κωνσταντίνος Κίτσιος",
+          "role": "THEMATIC_VICE_GOVERNOR_VOLUNTEERING_SOLIDARITY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Σταυρούλα Τσιάρα",
+          "role": "UNPAID_THEMATIC_VICE_GOVERNOR_PUBLIC_HEALTH_UNIVERSITY"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Αναστάσιος Δράκος",
+          "role": "UNPAID_THEMATIC_VICE_GOVERNOR_TRADE_EMPLOYMENT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Ηπείρου",
+          "fullName": "Αικατερίνη Αρλέτου",
+          "role": "UNPAID_THEMATIC_VICE_GOVERNOR_MOUNTAIN_DEVELOPMENT"
+        }
+      ]
+    },
+    {
+      "url": "https://pste.gov.gr/periferia/antiperifereiarches_11-2021/",
+      "records": [
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Δημήτριος Βουρδάνος",
+          "role": "DEPUTY_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Φθιώτιδας",
+          "fullName": "Ηλίας Σανίδας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Εύβοιας",
+          "fullName": "Γεώργιος Κελαϊδίτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Βοιωτίας",
+          "fullName": "Γεώργιος Ντασιώτης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Φωκίδας",
+          "fullName": "Πέγκυ Αραβαντινού - Τζε",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ευρυτανίας",
+          "fullName": "Αριστείδης Τασιός",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Κωνσταντίνος Αποστολόπουλος",
+          "role": "THEMATIC_VICE_GOVERNOR_AGRICULTURAL_ECONOMY_LIVESTOCK_FISHERIES"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Ευάγγελος Κούκουζας",
+          "role": "THEMATIC_VICE_GOVERNOR_ENVIRONMENT_SPATIAL_PLANNING_TRANSPORT"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Κωνσταντίνος Μπακομήτρος",
+          "role": "THEMATIC_VICE_GOVERNOR_CITIZEN_SERVICE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Φανή Παπαθωμά",
+          "role": "THEMATIC_VICE_GOVERNOR_TOURISM_CULTURE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Ιωάννης Περγαντάς",
+          "role": "THEMATIC_VICE_GOVERNOR_SOCIAL_CARE"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Κωνσταντίνος Πνευματικός",
+          "role": "THEMATIC_VICE_GOVERNOR_CIVIL_PROTECTION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Χρήστος Ταξίδης",
+          "role": "THEMATIC_VICE_GOVERNOR_TECHNICAL_WORKS_PHTHIOTIS"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Ανδρέας Τοουλιάς",
+          "role": "THEMATIC_VICE_GOVERNOR_HEALTH"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Κωνσταντίνος Γαλάνης",
+          "role": "UNPAID_THEMATIC_VICE_GOVERNOR_EDUCATION"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Λουκία Θεοδώρου-Μαγουλά",
+          "role": "THEMATIC_VICE_GOVERNOR_DEVELOPMENT_ENTREPRENEURSHIP"
+        },
+        {
+          "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+          "fullName": "Αικατερίνη Καλαντζή",
+          "role": "THEMATIC_VICE_GOVERNOR_MOUNTAIN_FORESTRY_POLICY"
+        }
+      ]
+    },
+    {
+      "url": "https://en.pdm.gov.gr/administration/vice-governors/vicegovernor-regional-unit-of-kastoria/savvopoulos-dimitris-vicegovernor/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Καστοριάς",
+          "fullName": "Δημήτριος Σαββόπουλος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://en.pdm.gov.gr/administration/vice-governors/vicegovernor-regional-unit-of-florina/taskas-athanasios/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Φλώρινας",
+          "fullName": "Αθανάσιος Τάσκας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://grevena.pdm.gov.gr/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Γρεβενών",
+          "fullName": "Ιωάννης Τσακνάκης",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.patt.gov.gr/perifereia/xorikoi_antiperifereiarxes/xor_antip_arthra/viografiko-antiperifereiarchi-dytikou-tomea-athinon/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Δυτικού Τομέα Αθηνών",
+          "fullName": "Χαράλαμπος (Μπάμπης) Αλεξανδράτος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.patt.gov.gr/perifereia/xorikoi_antiperifereiarxes/grafeio_antip_ditikis_attikis/o-15/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Δυτικής Αττικής",
+          "fullName": "Κλεάνθης Βαρελάς",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.patt.gov.gr/perifereia/perifereia-2/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών",
+          "fullName": "Κωνσταντίνος Ζώμπος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.acharnaika-nea.gr/2025/09/05/dimitris-damaskos-antiperifereiarchis-anatolikis-attikis/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ανατολικής Αττικής",
+          "fullName": "Δημήτριος Δαμάσκος",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.ertnews.gr/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Βόρειου Τομέα Αθηνών",
+          "fullName": "Μαργαρίτα Βάρσου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://palaiofaliro.gr/synantisi-tou-dimarchou-palaiou-falirou-me-ti-nea-antiperifereiarchi-notiou-tomea-athinon/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Νοτίου Τομέα Αθηνών",
+          "fullName": "Γεωργία (Τζίνα) Αδαμοπούλου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://piraeus.gov.gr/synantisi-tou-dimarchou-peiraia-gianni-morali-me-ton-antiperifereiarchi-peiraia-stavro-voidonikola/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Πειραιώς",
+          "fullName": "Σταύρος Βοϊδονικόλας",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    },
+    {
+      "url": "https://www.aeginaportal.gr/o-k-nikolaos-papageorgiou-oristike-neos-antiperifereiarchis-nison/",
+      "records": [
+        {
+          "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Νήσων",
+          "fullName": "Νικόλαος Παπαγεωργίου",
+          "role": "VICE_REGIONAL_GOVERNOR"
+        }
+      ]
+    }
+  ]
+}

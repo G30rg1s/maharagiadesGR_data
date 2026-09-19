@@ -3318,5 +3318,135 @@
     "sourceUrl": "https://ekloges-prev.singularlogic.eu/2023/october/d/home/municipalities/9324/",
     "photoUrl": null,
     "verifiedAt": "2024-03-27"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+    "fullName": "Χριστόδουλος Τοψίδης",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=christodoulos-topsidis",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Αττικής",
+    "fullName": "Νικόλαος Χαρδαλιάς",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=nikolaos-chardalias-perifereiarchis-attikis",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Βορείου Αιγαίου",
+    "fullName": "Κωνσταντίνος Μουτζούρης",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=konstantinos-moutzouris-perifereiarchis-voreiou-aigaiou",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Δυτικής Ελλάδας",
+    "fullName": "Νεκτάριος Φαρμάκης",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=nektarios-farmakis",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Δυτικής Μακεδονίας",
+    "fullName": "Γεώργιος Αμανατίδης",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=georgios-amanatidis",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Ηπείρου",
+    "fullName": "Αλέξανδρος Καχριμάνης",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=alexandros-kachrimanis-perifereiarchis-ipeirou",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Θεσσαλίας",
+    "fullName": "Δημήτριος Κουρέτας",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=dimitrios-kouretas-perifereiarchis-thessalias",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Ιονίων Νήσων",
+    "fullName": "Ιωάννης Τρεπεκλής",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=ioannis-trepeklis-perifereiarchis-ionion-nison",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Κεντρικής Μακεδονίας",
+    "fullName": "Αθηνά Αθανασιάδου – Αηδονά",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=athina-athanasiadou-aidona",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Κρήτης",
+    "fullName": "Σταύρος Αρναουτάκης",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=stavros-arnaoutakis",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Νοτίου Αιγαίου",
+    "fullName": "Γιώργος Χατζημάρκος",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=giorgos-chatzimarkos",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Πελοποννήσου",
+    "fullName": "Δημήτρης Πτωχός",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=dimitris-ptochos",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
+  },
+  {
+    "placeCode": "REGION:Περιφέρεια Στερεάς Ελλάδας",
+    "fullName": "Φάνης Σπανός",
+    "role": "REGIONAL_GOVERNOR",
+    "termStart": "2024-01-01",
+    "termEnd": "2028-12-31",
+    "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=fanis-spanos-perifereiarchis-stereas-ellados",
+    "photoUrl": null,
+    "verifiedAt": "2026-09-19"
   }
 ]

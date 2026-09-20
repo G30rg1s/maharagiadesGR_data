@@ -3504,7 +3504,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  //ANATOLIKH MAKEDONIA KAI THRAKI
+  
   {
   "placeCode": "REGION:Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
   "fullName": "Ιωσηφίδης Αλέξανδρος",
@@ -3626,7 +3626,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // KENTRIKH MAKEDONIA
+  
   {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ημαθίας",
   "fullName": "Κώστας Καλαϊτζίδης",
@@ -3825,7 +3825,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // DITIKI MAKEDONIA
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κοζάνης",
@@ -4148,7 +4148,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // THESSALIA
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Λάρισας",
@@ -4337,7 +4337,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // IONIA NISIA
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κέρκυρας",
@@ -4493,7 +4493,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // DITIKI ELLADA
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Αιτωλοακαρνανίας",
@@ -4649,7 +4649,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // STEREA ELLADA
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Φθιώτιδας",
@@ -4827,7 +4827,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // ATTIKI
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Κεντρικού Τομέα Αθηνών",
@@ -5039,7 +5039,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // PELOPONNISOS
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Αργολίδας",
@@ -5217,7 +5217,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // VOREIO AIGAIO
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Λέσβου",
@@ -5373,7 +5373,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // NOTIO AIGAIO
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Δωδεκανήσου",
@@ -5540,7 +5540,7 @@
   "photoUrl": null,
   "verifiedAt": "2026-09-20"
 },
-  // KRITI
+  
 
 {
   "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ηρακλείου",

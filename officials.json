@@ -3448,5 +3448,60 @@
     "sourceUrl": "https://enpe.gr/wp-json/wp/v2/pages?slug=fanis-spanos-perifereiarchis-stereas-ellados",
     "photoUrl": null,
     "verifiedAt": "2026-09-19"
-  }
+  },
+  {
+  "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Δράμας",
+  "fullName": "Μουρβετίδης Μιχάλης",
+  "role": "DEPUTY_REGIONAL_GOVERNOR",
+  "portfolio": null,
+  "termStart": null,
+  "termEnd": null,
+  "sourceUrl": "https://www.pamth.gov.gr/dioikisi/genika/antiperifereiarches/",
+  "photoUrl": null,
+  "verifiedAt": "2026-09-20"
+},
+{
+  "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Καβάλας",
+  "fullName": "Μαρκόπουλος Θεόδωρος",
+  "role": "DEPUTY_REGIONAL_GOVERNOR",
+  "portfolio": null,
+  "termStart": null,
+  "termEnd": null,
+  "sourceUrl": "https://www.pamth.gov.gr/dioikisi/genika/antiperifereiarches/",
+  "photoUrl": null,
+  "verifiedAt": "2026-09-20"
+},
+{
+  "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ξάνθης",
+  "fullName": "Παυλακάκη Βασιλική",
+  "role": "DEPUTY_REGIONAL_GOVERNOR",
+  "portfolio": null,
+  "termStart": null,
+  "termEnd": null,
+  "sourceUrl": "https://www.pamth.gov.gr/dioikisi/genika/antiperifereiarches/",
+  "photoUrl": null,
+  "verifiedAt": "2026-09-20"
+},
+{
+  "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Ροδόπης",
+  "fullName": "Ταπατζάς Μανώλης",
+  "role": "DEPUTY_REGIONAL_GOVERNOR",
+  "portfolio": null,
+  "termStart": null,
+  "termEnd": null,
+  "sourceUrl": "https://www.pamth.gov.gr/dioikisi/genika/antiperifereiarches/",
+  "photoUrl": null,
+  "verifiedAt": "2026-09-20"
+},
+{
+  "placeCode": "REGIONAL_UNIT:Περιφερειακή Ενότητα Έβρου",
+  "fullName": "Πουλιλιός Ευάγγελος",
+  "role": "DEPUTY_REGIONAL_GOVERNOR",
+  "portfolio": null,
+  "termStart": null,
+  "termEnd": null,
+  "sourceUrl": "https://www.pamth.gov.gr/dioikisi/genika/antiperifereiarches/",
+  "photoUrl": null,
+  "verifiedAt": "2026-09-20"
+}
 ]

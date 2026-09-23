@@ -1,0 +1,7 @@
+{
+  "files": [
+    { "file": "govern.json", "version": 1 },
+    { "file": "officials.json", "version": 1 },
+    { "file": "population_data/elstat.json", "version": 1 }
+  ]
+}

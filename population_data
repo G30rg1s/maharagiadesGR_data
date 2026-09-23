@@ -1,7158 +1,5474 @@
 [ {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 608182,
-    "male" : null,
-    "female" : null
+    "total" : 608182
   }, {
     "year" : 2021,
-    "total" : 562201,
-    "male" : null,
-    "female" : null
+    "total" : 562201
   } ]
 }, {
   "geoCode" : "01",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΡΟΔΟΠΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "01",
   "populations" : [ {
     "year" : 2011,
-    "total" : 112039,
-    "male" : null,
-    "female" : null
+    "total" : 112039
   }, {
     "year" : 2021,
-    "total" : 104262,
-    "male" : null,
-    "female" : null
+    "total" : 104262
   } ]
 }, {
   "geoCode" : "0101",
   "name" : "ΔΗΜΟΣ ΚΟΜΟΤΗΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 66919,
-    "male" : null,
-    "female" : null
+    "total" : 66919
   }, {
     "year" : 2021,
-    "total" : 65243,
-    "male" : null,
-    "female" : null
+    "total" : 65243
   } ]
 }, {
   "geoCode" : "0102",
   "name" : "ΔΗΜΟΣ ΑΡΡΙΑΝΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16577,
-    "male" : null,
-    "female" : null
+    "total" : 16577
   }, {
     "year" : 2021,
-    "total" : 14905,
-    "male" : null,
-    "female" : null
+    "total" : 14905
   } ]
 }, {
   "geoCode" : "0103",
   "name" : "ΔΗΜΟΣ ΙΑΣΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0103",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13810,
-    "male" : null,
-    "female" : null
+    "total" : 13810
   }, {
     "year" : 2021,
-    "total" : 12247,
-    "male" : null,
-    "female" : null
+    "total" : 12247
   } ]
 }, {
   "geoCode" : "0104",
   "name" : "ΔΗΜΟΣ ΜΑΡΩΝΕΙΑΣ - ΣΑΠΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0104",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14733,
-    "male" : null,
-    "female" : null
+    "total" : 14733
   }, {
     "year" : 2021,
-    "total" : 11867,
-    "male" : null,
-    "female" : null
+    "total" : 11867
   } ]
 }, {
   "geoCode" : "02",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΔΡΑΜΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "02",
   "populations" : [ {
     "year" : 2011,
-    "total" : 98287,
-    "male" : null,
-    "female" : null
+    "total" : 98287
   }, {
     "year" : 2021,
-    "total" : 86643,
-    "male" : null,
-    "female" : null
+    "total" : 86643
   } ]
 }, {
   "geoCode" : "0201",
   "name" : "ΔΗΜΟΣ ΔΡΑΜΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 58944,
-    "male" : null,
-    "female" : null
+    "total" : 58944
   }, {
     "year" : 2021,
-    "total" : 55679,
-    "male" : null,
-    "female" : null
+    "total" : 55679
   } ]
 }, {
   "geoCode" : "0202",
   "name" : "ΔΗΜΟΣ ΔΟΞΑΤΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14516,
-    "male" : null,
-    "female" : null
+    "total" : 14516
   }, {
     "year" : 2021,
-    "total" : 12059,
-    "male" : null,
-    "female" : null
+    "total" : 12059
   } ]
 }, {
   "geoCode" : "0203",
   "name" : "ΔΗΜΟΣ ΚΑΤΩ ΝΕΥΡΟΚΟΠΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0203",
   "populations" : [ {
     "year" : 2011,
-    "total" : 7860,
-    "male" : null,
-    "female" : null
+    "total" : 7860
   }, {
     "year" : 2021,
-    "total" : 5323,
-    "male" : null,
-    "female" : null
+    "total" : 5323
   } ]
 }, {
   "geoCode" : "0204",
   "name" : "ΔΗΜΟΣ ΠΑΡΑΝΕΣΤΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0204",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3901,
-    "male" : null,
-    "female" : null
+    "total" : 3901
   }, {
     "year" : 2021,
-    "total" : 2843,
-    "male" : null,
-    "female" : null
+    "total" : 2843
   } ]
 }, {
   "geoCode" : "0205",
   "name" : "ΔΗΜΟΣ ΠΡΟΣΟΤΣΑΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0205",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13066,
-    "male" : null,
-    "female" : null
+    "total" : 13066
   }, {
     "year" : 2021,
-    "total" : 10739,
-    "male" : null,
-    "female" : null
+    "total" : 10739
   } ]
 }, {
   "geoCode" : "03",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΕΒΡΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "03",
   "populations" : [ {
     "year" : 2011,
-    "total" : 147947,
-    "male" : null,
-    "female" : null
+    "total" : 147947
   }, {
     "year" : 2021,
-    "total" : 133802,
-    "male" : null,
-    "female" : null
+    "total" : 133802
   } ]
 }, {
   "geoCode" : "0301",
   "name" : "ΔΗΜΟΣ ΑΛΕΞΑΝΔΡΟΥΠΟΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 72959,
-    "male" : null,
-    "female" : null
+    "total" : 72959
   }, {
     "year" : 2021,
-    "total" : 71751,
-    "male" : null,
-    "female" : null
+    "total" : 71751
   } ]
 }, {
   "geoCode" : "0302",
   "name" : "ΔΗΜΟΣ ΔΙΔΥΜΟΤΕΙΧΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0302",
   "populations" : [ {
     "year" : 2011,
-    "total" : 19493,
-    "male" : null,
-    "female" : null
+    "total" : 19493
   }, {
     "year" : 2021,
-    "total" : 16060,
-    "male" : null,
-    "female" : null
+    "total" : 16060
   } ]
 }, {
   "geoCode" : "0303",
   "name" : "ΔΗΜΟΣ ΟΡΕΣΤΙΑΔΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0303",
   "populations" : [ {
     "year" : 2011,
-    "total" : 37695,
-    "male" : null,
-    "female" : null
+    "total" : 37695
   }, {
     "year" : 2021,
-    "total" : 31686,
-    "male" : null,
-    "female" : null
+    "total" : 31686
   } ]
 }, {
   "geoCode" : "0304",
   "name" : "ΔΗΜΟΣ ΣΑΜΟΘΡΑΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0304",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2859,
-    "male" : null,
-    "female" : null
+    "total" : 2859
   }, {
     "year" : 2021,
-    "total" : 2596,
-    "male" : null,
-    "female" : null
+    "total" : 2596
   } ]
 }, {
   "geoCode" : "0305",
   "name" : "ΔΗΜΟΣ ΣΟΥΦΛΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0305",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14941,
-    "male" : null,
-    "female" : null
+    "total" : 14941
   }, {
     "year" : 2021,
-    "total" : 11709,
-    "male" : null,
-    "female" : null
+    "total" : 11709
   } ]
 }, {
   "geoCode" : "04",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΘΑΣΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "04",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13770,
-    "male" : null,
-    "female" : null
+    "total" : 13770
   }, {
     "year" : 2021,
-    "total" : 13104,
-    "male" : null,
-    "female" : null
+    "total" : 13104
   } ]
 }, {
   "geoCode" : "0401",
   "name" : "ΔΗΜΟΣ ΘΑΣΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13770,
-    "male" : null,
-    "female" : null
+    "total" : 13770
   }, {
     "year" : 2021,
-    "total" : 13104,
-    "male" : null,
-    "female" : null
+    "total" : 13104
   } ]
 }, {
   "geoCode" : "05",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΑΒΑΛΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "05",
   "populations" : [ {
     "year" : 2011,
-    "total" : 124917,
-    "male" : null,
-    "female" : null
+    "total" : 124917
   }, {
     "year" : 2021,
-    "total" : 116195,
-    "male" : null,
-    "female" : null
+    "total" : 116195
   } ]
 }, {
   "geoCode" : "0501",
   "name" : "ΔΗΜΟΣ ΚΑΒΑΛΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0501",
   "populations" : [ {
     "year" : 2011,
-    "total" : 70501,
-    "male" : null,
-    "female" : null
+    "total" : 70501
   }, {
     "year" : 2021,
-    "total" : 66376,
-    "male" : null,
-    "female" : null
+    "total" : 66376
   } ]
 }, {
   "geoCode" : "0502",
   "name" : "ΔΗΜΟΣ ΝΕΣΤΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0502",
   "populations" : [ {
     "year" : 2011,
-    "total" : 22331,
-    "male" : null,
-    "female" : null
+    "total" : 22331
   }, {
     "year" : 2021,
-    "total" : 20311,
-    "male" : null,
-    "female" : null
+    "total" : 20311
   } ]
 }, {
   "geoCode" : "0503",
   "name" : "ΔΗΜΟΣ ΠΑΓΓΑΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0503",
   "populations" : [ {
     "year" : 2011,
-    "total" : 32085,
-    "male" : null,
-    "female" : null
+    "total" : 32085
   }, {
     "year" : 2021,
-    "total" : 29508,
-    "male" : null,
-    "female" : null
+    "total" : 29508
   } ]
 }, {
   "geoCode" : "06",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΞΑΝΘΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "06",
   "populations" : [ {
     "year" : 2011,
-    "total" : 111222,
-    "male" : null,
-    "female" : null
+    "total" : 111222
   }, {
     "year" : 2021,
-    "total" : 108195,
-    "male" : null,
-    "female" : null
+    "total" : 108195
   } ]
 }, {
   "geoCode" : "0601",
   "name" : "ΔΗΜΟΣ ΞΑΝΘΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0601",
   "populations" : [ {
     "year" : 2011,
-    "total" : 65133,
-    "male" : null,
-    "female" : null
+    "total" : 65133
   }, {
     "year" : 2021,
-    "total" : 66875,
-    "male" : null,
-    "female" : null
+    "total" : 66875
   } ]
 }, {
   "geoCode" : "0602",
   "name" : "ΔΗΜΟΣ ΑΒΔΗΡΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0602",
   "populations" : [ {
     "year" : 2011,
-    "total" : 19005,
-    "male" : null,
-    "female" : null
+    "total" : 19005
   }, {
     "year" : 2021,
-    "total" : 17610,
-    "male" : null,
-    "female" : null
+    "total" : 17610
   } ]
 }, {
   "geoCode" : "0603",
   "name" : "ΔΗΜΟΣ ΜΥΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0603",
   "populations" : [ {
     "year" : 2011,
-    "total" : 15540,
-    "male" : null,
-    "female" : null
+    "total" : 15540
   }, {
     "year" : 2021,
-    "total" : 14237,
-    "male" : null,
-    "female" : null
+    "total" : 14237
   } ]
 }, {
   "geoCode" : "0604",
   "name" : "ΔΗΜΟΣ ΤΟΠΕΙΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0604",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11544,
-    "male" : null,
-    "female" : null
+    "total" : 11544
   }, {
     "year" : 2021,
-    "total" : 9473,
-    "male" : null,
-    "female" : null
+    "total" : 9473
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 1882108,
-    "male" : null,
-    "female" : null
+    "total" : 1882108
   }, {
     "year" : 2021,
-    "total" : 1795669,
-    "male" : null,
-    "female" : null
+    "total" : 1795669
   } ]
 }, {
   "geoCode" : "07",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "07",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1110551,
-    "male" : null,
-    "female" : null
+    "total" : 1110551
   }, {
     "year" : 2021,
-    "total" : 1092919,
-    "male" : null,
-    "female" : null
+    "total" : 1092919
   } ]
 }, {
   "geoCode" : "0701",
   "name" : "ΔΗΜΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0701",
   "populations" : [ {
     "year" : 2011,
-    "total" : 325182,
-    "male" : null,
-    "female" : null
+    "total" : 325182
   }, {
     "year" : 2021,
-    "total" : 319045,
-    "male" : null,
-    "female" : null
+    "total" : 319045
   } ]
 }, {
   "geoCode" : "0702",
   "name" : "ΔΗΜΟΣ ΑΜΠΕΛΟΚΗΠΩΝ - ΜΕΝΕΜΕΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0702",
   "populations" : [ {
     "year" : 2011,
-    "total" : 52127,
-    "male" : null,
-    "female" : null
+    "total" : 52127
   }, {
     "year" : 2021,
-    "total" : 50143,
-    "male" : null,
-    "female" : null
+    "total" : 50143
   } ]
 }, {
   "geoCode" : "0703",
   "name" : "ΔΗΜΟΣ ΒΟΛΒΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0703",
   "populations" : [ {
     "year" : 2011,
-    "total" : 23478,
-    "male" : null,
-    "female" : null
+    "total" : 23478
   }, {
     "year" : 2021,
-    "total" : 19755,
-    "male" : null,
-    "female" : null
+    "total" : 19755
   } ]
 }, {
   "geoCode" : "0704",
   "name" : "ΔΗΜΟΣ ΔΕΛΤΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0704",
   "populations" : [ {
     "year" : 2011,
-    "total" : 45839,
-    "male" : null,
-    "female" : null
+    "total" : 45839
   }, {
     "year" : 2021,
-    "total" : 44935,
-    "male" : null,
-    "female" : null
+    "total" : 44935
   } ]
 }, {
   "geoCode" : "0705",
   "name" : "ΔΗΜΟΣ ΘΕΡΜΑΪΚΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0705",
   "populations" : [ {
     "year" : 2011,
-    "total" : 50264,
-    "male" : null,
-    "female" : null
+    "total" : 50264
   }, {
     "year" : 2021,
-    "total" : 45561,
-    "male" : null,
-    "female" : null
+    "total" : 45561
   } ]
 }, {
   "geoCode" : "0706",
   "name" : "ΔΗΜΟΣ ΘΕΡΜΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0706",
   "populations" : [ {
     "year" : 2011,
-    "total" : 53201,
-    "male" : null,
-    "female" : null
+    "total" : 53201
   }, {
     "year" : 2021,
-    "total" : 55358,
-    "male" : null,
-    "female" : null
+    "total" : 55358
   } ]
 }, {
   "geoCode" : "0707",
   "name" : "ΔΗΜΟΣ ΚΑΛΑΜΑΡΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0707",
   "populations" : [ {
     "year" : 2011,
-    "total" : 91518,
-    "male" : null,
-    "female" : null
+    "total" : 91518
   }, {
     "year" : 2021,
-    "total" : 92248,
-    "male" : null,
-    "female" : null
+    "total" : 92248
   } ]
 }, {
   "geoCode" : "0708",
   "name" : "ΔΗΜΟΣ ΚΟΡΔΕΛΙΟΥ - ΕΥΟΣΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0708",
   "populations" : [ {
     "year" : 2011,
-    "total" : 101753,
-    "male" : null,
-    "female" : null
+    "total" : 101753
   }, {
     "year" : 2021,
-    "total" : 105352,
-    "male" : null,
-    "female" : null
+    "total" : 105352
   } ]
 }, {
   "geoCode" : "0709",
   "name" : "ΔΗΜΟΣ ΛΑΓΚΑΔΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0709",
   "populations" : [ {
     "year" : 2011,
-    "total" : 41103,
-    "male" : null,
-    "female" : null
+    "total" : 41103
   }, {
     "year" : 2021,
-    "total" : 37022,
-    "male" : null,
-    "female" : null
+    "total" : 37022
   } ]
 }, {
   "geoCode" : "0710",
   "name" : "ΔΗΜΟΣ ΝΕΑΠΟΛΗΣ - ΣΥΚΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0710",
   "populations" : [ {
     "year" : 2011,
-    "total" : 84741,
-    "male" : null,
-    "female" : null
+    "total" : 84741
   }, {
     "year" : 2021,
-    "total" : 80888,
-    "male" : null,
-    "female" : null
+    "total" : 80888
   } ]
 }, {
   "geoCode" : "0711",
   "name" : "ΔΗΜΟΣ ΠΑΥΛΟΥ ΜΕΛΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0711",
   "populations" : [ {
     "year" : 2011,
-    "total" : 99245,
-    "male" : null,
-    "female" : null
+    "total" : 99245
   }, {
     "year" : 2021,
-    "total" : 100194,
-    "male" : null,
-    "female" : null
+    "total" : 100194
   } ]
 }, {
   "geoCode" : "0712",
   "name" : "ΔΗΜΟΣ ΠΥΛΑΙΑΣ - ΧΟΡΤΙΑΤΗ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0712",
   "populations" : [ {
     "year" : 2011,
-    "total" : 70110,
-    "male" : null,
-    "female" : null
+    "total" : 70110
   }, {
     "year" : 2021,
-    "total" : 72384,
-    "male" : null,
-    "female" : null
+    "total" : 72384
   } ]
 }, {
   "geoCode" : "0713",
   "name" : "ΔΗΜΟΣ ΧΑΛΚΗΔΟΝΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0713",
   "populations" : [ {
     "year" : 2011,
-    "total" : 33673,
-    "male" : null,
-    "female" : null
+    "total" : 33673
   }, {
     "year" : 2021,
-    "total" : 30030,
-    "male" : null,
-    "female" : null
+    "total" : 30030
   } ]
 }, {
   "geoCode" : "0714",
   "name" : "ΔΗΜΟΣ ΩΡΑΙΟΚΑΣΤΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0714",
   "populations" : [ {
     "year" : 2011,
-    "total" : 38317,
-    "male" : null,
-    "female" : null
+    "total" : 38317
   }, {
     "year" : 2021,
-    "total" : 40004,
-    "male" : null,
-    "female" : null
+    "total" : 40004
   } ]
 }, {
   "geoCode" : "08",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΗΜΑΘΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "08",
   "populations" : [ {
     "year" : 2011,
-    "total" : 140611,
-    "male" : null,
-    "female" : null
+    "total" : 140611
   }, {
     "year" : 2021,
-    "total" : 131001,
-    "male" : null,
-    "female" : null
+    "total" : 131001
   } ]
 }, {
   "geoCode" : "0801",
   "name" : "ΔΗΜΟΣ ΒΕΡΟΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0801",
   "populations" : [ {
     "year" : 2011,
-    "total" : 66547,
-    "male" : null,
-    "female" : null
+    "total" : 66547
   }, {
     "year" : 2021,
-    "total" : 62655,
-    "male" : null,
-    "female" : null
+    "total" : 62655
   } ]
 }, {
   "geoCode" : "0802",
   "name" : "ΔΗΜΟΣ ΑΛΕΞΑΝΔΡΕΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0802",
   "populations" : [ {
     "year" : 2011,
-    "total" : 41570,
-    "male" : null,
-    "female" : null
+    "total" : 41570
   }, {
     "year" : 2021,
-    "total" : 38292,
-    "male" : null,
-    "female" : null
+    "total" : 38292
   } ]
 }, {
   "geoCode" : "0803",
   "name" : "ΔΗΜΟΣ ΗΡΩΙΚΗΣ ΠΟΛΕΩΣ ΝΑΟΥΣΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0803",
   "populations" : [ {
     "year" : 2011,
-    "total" : 32494,
-    "male" : null,
-    "female" : null
+    "total" : 32494
   }, {
     "year" : 2021,
-    "total" : 30054,
-    "male" : null,
-    "female" : null
+    "total" : 30054
   } ]
 }, {
   "geoCode" : "09",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΙΛΚΙΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "09",
   "populations" : [ {
     "year" : 2011,
-    "total" : 80419,
-    "male" : null,
-    "female" : null
+    "total" : 80419
   }, {
     "year" : 2021,
-    "total" : 70477,
-    "male" : null,
-    "female" : null
+    "total" : 70477
   } ]
 }, {
   "geoCode" : "0901",
   "name" : "ΔΗΜΟΣ ΚΙΛΚΙΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 51926,
-    "male" : null,
-    "female" : null
+    "total" : 51926
   }, {
     "year" : 2021,
-    "total" : 45308,
-    "male" : null,
-    "female" : null
+    "total" : 45308
   } ]
 }, {
   "geoCode" : "0902",
   "name" : "ΔΗΜΟΣ ΠΑΙΟΝΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "0902",
   "populations" : [ {
     "year" : 2011,
-    "total" : 28493,
-    "male" : null,
-    "female" : null
+    "total" : 28493
   }, {
     "year" : 2021,
-    "total" : 25169,
-    "male" : null,
-    "female" : null
+    "total" : 25169
   } ]
 }, {
   "geoCode" : "10",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΠΕΛΛΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "10",
   "populations" : [ {
     "year" : 2011,
-    "total" : 139680,
-    "male" : null,
-    "female" : null
+    "total" : 139680
   }, {
     "year" : 2021,
-    "total" : 126740,
-    "male" : null,
-    "female" : null
+    "total" : 126740
   } ]
 }, {
   "geoCode" : "1001",
   "name" : "ΔΗΜΟΣ ΕΔΕΣΣΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1001",
   "populations" : [ {
     "year" : 2011,
-    "total" : 28814,
-    "male" : null,
-    "female" : null
+    "total" : 28814
   }, {
     "year" : 2021,
-    "total" : 26407,
-    "male" : null,
-    "female" : null
+    "total" : 26407
   } ]
 }, {
   "geoCode" : "1002",
   "name" : "ΔΗΜΟΣ ΑΛΜΩΠΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1002",
   "populations" : [ {
     "year" : 2011,
-    "total" : 27556,
-    "male" : null,
-    "female" : null
+    "total" : 27556
   }, {
     "year" : 2021,
-    "total" : 24969,
-    "male" : null,
-    "female" : null
+    "total" : 24969
   } ]
 }, {
   "geoCode" : "1003",
   "name" : "ΔΗΜΟΣ ΠΕΛΛΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1003",
   "populations" : [ {
     "year" : 2011,
-    "total" : 63122,
-    "male" : null,
-    "female" : null
+    "total" : 63122
   }, {
     "year" : 2021,
-    "total" : 57039,
-    "male" : null,
-    "female" : null
+    "total" : 57039
   } ]
 }, {
   "geoCode" : "1004",
   "name" : "ΔΗΜΟΣ ΣΚΥΔΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1004",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20188,
-    "male" : null,
-    "female" : null
+    "total" : 20188
   }, {
     "year" : 2021,
-    "total" : 18325,
-    "male" : null,
-    "female" : null
+    "total" : 18325
   } ]
 }, {
   "geoCode" : "11",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΠΙΕΡΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "11",
   "populations" : [ {
     "year" : 2011,
-    "total" : 126698,
-    "male" : null,
-    "female" : null
+    "total" : 126698
   }, {
     "year" : 2021,
-    "total" : 119384,
-    "male" : null,
-    "female" : null
+    "total" : 119384
   } ]
 }, {
   "geoCode" : "1101",
   "name" : "ΔΗΜΟΣ ΚΑΤΕΡΙΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 85851,
-    "male" : null,
-    "female" : null
+    "total" : 85851
   }, {
     "year" : 2021,
-    "total" : 82892,
-    "male" : null,
-    "female" : null
+    "total" : 82892
   } ]
 }, {
   "geoCode" : "1102",
   "name" : "ΔΗΜΟΣ ΔΙΟΥ - ΟΛΥΜΠΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 25668,
-    "male" : null,
-    "female" : null
+    "total" : 25668
   }, {
     "year" : 2021,
-    "total" : 23955,
-    "male" : null,
-    "female" : null
+    "total" : 23955
   } ]
 }, {
   "geoCode" : "1103",
   "name" : "ΔΗΜΟΣ ΠΥΔΝΑΣ - ΚΟΛΙΝΔΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1103",
   "populations" : [ {
     "year" : 2011,
-    "total" : 15179,
-    "male" : null,
-    "female" : null
+    "total" : 15179
   }, {
     "year" : 2021,
-    "total" : 12537,
-    "male" : null,
-    "female" : null
+    "total" : 12537
   } ]
 }, {
   "geoCode" : "12",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΣΕΡΡΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "12",
   "populations" : [ {
     "year" : 2011,
-    "total" : 176430,
-    "male" : null,
-    "female" : null
+    "total" : 176430
   }, {
     "year" : 2021,
-    "total" : 151317,
-    "male" : null,
-    "female" : null
+    "total" : 151317
   } ]
 }, {
   "geoCode" : "1201",
   "name" : "ΔΗΜΟΣ ΣΕΡΡΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 76817,
-    "male" : null,
-    "female" : null
+    "total" : 76817
   }, {
     "year" : 2021,
-    "total" : 74004,
-    "male" : null,
-    "female" : null
+    "total" : 74004
   } ]
 }, {
   "geoCode" : "1202",
   "name" : "ΔΗΜΟΣ ΑΜΦΙΠΟΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 9182,
-    "male" : null,
-    "female" : null
+    "total" : 9182
   }, {
     "year" : 2021,
-    "total" : 7168,
-    "male" : null,
-    "female" : null
+    "total" : 7168
   } ]
 }, {
   "geoCode" : "1203",
   "name" : "ΔΗΜΟΣ ΒΙΣΑΛΤΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1203",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20030,
-    "male" : null,
-    "female" : null
+    "total" : 20030
   }, {
     "year" : 2021,
-    "total" : 16036,
-    "male" : null,
-    "female" : null
+    "total" : 16036
   } ]
 }, {
   "geoCode" : "1204",
   "name" : "ΔΗΜΟΣ ΕΜΜΑΝΟΥΗΛ ΠΑΠΠΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1204",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14664,
-    "male" : null,
-    "female" : null
+    "total" : 14664
   }, {
     "year" : 2021,
-    "total" : 11585,
-    "male" : null,
-    "female" : null
+    "total" : 11585
   } ]
 }, {
   "geoCode" : "1205",
   "name" : "ΔΗΜΟΣ ΗΡΑΚΛΕΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1205",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21145,
-    "male" : null,
-    "female" : null
+    "total" : 21145
   }, {
     "year" : 2021,
-    "total" : 15713,
-    "male" : null,
-    "female" : null
+    "total" : 15713
   } ]
 }, {
   "geoCode" : "1206",
   "name" : "ΔΗΜΟΣ ΝΕΑΣ ΖΙΧΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1206",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12397,
-    "male" : null,
-    "female" : null
+    "total" : 12397
   }, {
     "year" : 2021,
-    "total" : 8267,
-    "male" : null,
-    "female" : null
+    "total" : 8267
   } ]
 }, {
   "geoCode" : "1207",
   "name" : "ΔΗΜΟΣ ΣΙΝΤΙΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1207",
   "populations" : [ {
     "year" : 2011,
-    "total" : 22195,
-    "male" : null,
-    "female" : null
+    "total" : 22195
   }, {
     "year" : 2021,
-    "total" : 18544,
-    "male" : null,
-    "female" : null
+    "total" : 18544
   } ]
 }, {
   "geoCode" : "13",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΧΑΛΚΙΔΙΚΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "13",
   "populations" : [ {
     "year" : 2011,
-    "total" : 105908,
-    "male" : null,
-    "female" : null
+    "total" : 105908
   }, {
     "year" : 2021,
-    "total" : 102085,
-    "male" : null,
-    "female" : null
+    "total" : 102085
   } ]
 }, {
   "geoCode" : "1301",
   "name" : "ΔΗΜΟΣ ΠΟΛΥΓΥΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 22048,
-    "male" : null,
-    "female" : null
+    "total" : 22048
   }, {
     "year" : 2021,
-    "total" : 21351,
-    "male" : null,
-    "female" : null
+    "total" : 21351
   } ]
 }, {
   "geoCode" : "1302",
   "name" : "ΔΗΜΟΣ ΑΡΙΣΤΟΤΕΛΗ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1302",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18294,
-    "male" : null,
-    "female" : null
+    "total" : 18294
   }, {
     "year" : 2021,
-    "total" : 16964,
-    "male" : null,
-    "female" : null
+    "total" : 16964
   } ]
 }, {
   "geoCode" : "1303",
   "name" : "ΔΗΜΟΣ ΚΑΣΣΑΝΔΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1303",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16672,
-    "male" : null,
-    "female" : null
+    "total" : 16672
   }, {
     "year" : 2021,
-    "total" : 16861,
-    "male" : null,
-    "female" : null
+    "total" : 16861
   } ]
 }, {
   "geoCode" : "1304",
   "name" : "ΔΗΜΟΣ ΝΕΑΣ ΠΡΟΠΟΝΤΙΔΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1304",
   "populations" : [ {
     "year" : 2011,
-    "total" : 36500,
-    "male" : null,
-    "female" : null
+    "total" : 36500
   }, {
     "year" : 2021,
-    "total" : 34829,
-    "male" : null,
-    "female" : null
+    "total" : 34829
   } ]
 }, {
   "geoCode" : "1305",
   "name" : "ΔΗΜΟΣ ΣΙΘΩΝΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1305",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12394,
-    "male" : null,
-    "female" : null
+    "total" : 12394
   }, {
     "year" : 2021,
-    "total" : 12080,
-    "male" : null,
-    "female" : null
+    "total" : 12080
   } ]
 }, {
   "geoCode" : "99",
   "name" : "ΑΓΙΟ ΟΡΟΣ (ΑΥΤΟΔΙΟΙΚΗΤΟ)",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "99",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1811,
-    "male" : null,
-    "female" : null
+    "total" : 1811
   }, {
     "year" : 2021,
-    "total" : 1746,
-    "male" : null,
-    "female" : null
+    "total" : 1746
   } ]
 }, {
   "geoCode" : "9901",
   "name" : "ΑΓΙΟ ΟΡΟΣ (ΑΥΤΟΔΙΟΙΚΗΤΟ)",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "9901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1811,
-    "male" : null,
-    "female" : null
+    "total" : 1811
   }, {
     "year" : 2021,
-    "total" : 1746,
-    "male" : null,
-    "female" : null
+    "total" : 1746
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 283689,
-    "male" : null,
-    "female" : null
+    "total" : 283689
   }, {
     "year" : 2021,
-    "total" : 254595,
-    "male" : null,
-    "female" : null
+    "total" : 254595
   } ]
 }, {
   "geoCode" : "14",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΟΖΑΝΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "14",
   "populations" : [ {
     "year" : 2011,
-    "total" : 150196,
-    "male" : null,
-    "female" : null
+    "total" : 150196
   }, {
     "year" : 2021,
-    "total" : 137210,
-    "male" : null,
-    "female" : null
+    "total" : 137210
   } ]
 }, {
   "geoCode" : "1401",
   "name" : "ΔΗΜΟΣ ΚΟΖΑΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 71388,
-    "male" : null,
-    "female" : null
+    "total" : 71388
   }, {
     "year" : 2021,
-    "total" : 67224,
-    "male" : null,
-    "female" : null
+    "total" : 67224
   } ]
 }, {
   "geoCode" : "1402",
   "name" : "ΔΗΜΟΣ ΒΟΪΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1402",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18386,
-    "male" : null,
-    "female" : null
+    "total" : 18386
   }, {
     "year" : 2021,
-    "total" : 14947,
-    "male" : null,
-    "female" : null
+    "total" : 14947
   } ]
 }, {
   "geoCode" : "1403",
   "name" : "ΔΗΜΟΣ ΕΟΡΔΑΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1403",
   "populations" : [ {
     "year" : 2011,
-    "total" : 45592,
-    "male" : null,
-    "female" : null
+    "total" : 45592
   }, {
     "year" : 2021,
-    "total" : 42515,
-    "male" : null,
-    "female" : null
+    "total" : 42515
   } ]
 }, {
   "geoCode" : "1404",
   "name" : "ΔΗΜΟΣ ΣΕΡΒΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1404",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11382,
-    "male" : null,
-    "female" : null
+    "total" : 11382
   }, {
     "year" : 2021,
-    "total" : 9467,
-    "male" : null,
-    "female" : null
+    "total" : 9467
   } ]
 }, {
   "geoCode" : "1405",
   "name" : "ΔΗΜΟΣ ΒΕΛΒΕΝΤΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1405",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3448,
-    "male" : null,
-    "female" : null
+    "total" : 3448
   }, {
     "year" : 2021,
-    "total" : 3057,
-    "male" : null,
-    "female" : null
+    "total" : 3057
   } ]
 }, {
   "geoCode" : "15",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΓΡΕΒΕΝΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "15",
   "populations" : [ {
     "year" : 2011,
-    "total" : 31757,
-    "male" : null,
-    "female" : null
+    "total" : 31757
   }, {
     "year" : 2021,
-    "total" : 26576,
-    "male" : null,
-    "female" : null
+    "total" : 26576
   } ]
 }, {
   "geoCode" : "1501",
   "name" : "ΔΗΜΟΣ ΓΡΕΒΕΝΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1501",
   "populations" : [ {
     "year" : 2011,
-    "total" : 25905,
-    "male" : null,
-    "female" : null
+    "total" : 25905
   }, {
     "year" : 2021,
-    "total" : 21421,
-    "male" : null,
-    "female" : null
+    "total" : 21421
   } ]
 }, {
   "geoCode" : "1502",
   "name" : "ΔΗΜΟΣ ΔΕΣΚΑΤΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1502",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5852,
-    "male" : null,
-    "female" : null
+    "total" : 5852
   }, {
     "year" : 2021,
-    "total" : 5155,
-    "male" : null,
-    "female" : null
+    "total" : 5155
   } ]
 }, {
   "geoCode" : "16",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΑΣΤΟΡΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "16",
   "populations" : [ {
     "year" : 2011,
-    "total" : 50322,
-    "male" : null,
-    "female" : null
+    "total" : 50322
   }, {
     "year" : 2021,
-    "total" : 45929,
-    "male" : null,
-    "female" : null
+    "total" : 45929
   } ]
 }, {
   "geoCode" : "1601",
   "name" : "ΔΗΜΟΣ ΚΑΣΤΟΡΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1601",
   "populations" : [ {
     "year" : 2011,
-    "total" : 35874,
-    "male" : null,
-    "female" : null
+    "total" : 35874
   }, {
     "year" : 2021,
-    "total" : 33095,
-    "male" : null,
-    "female" : null
+    "total" : 33095
   } ]
 }, {
   "geoCode" : "1602",
   "name" : "ΔΗΜΟΣ ΝΕΣΤΟΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1602",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2646,
-    "male" : null,
-    "female" : null
+    "total" : 2646
   }, {
     "year" : 2021,
-    "total" : 2149,
-    "male" : null,
-    "female" : null
+    "total" : 2149
   } ]
 }, {
   "geoCode" : "1603",
   "name" : "ΔΗΜΟΣ ΑΡΓΟΥΣ ΟΡΕΣΤΙΚΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1603",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11802,
-    "male" : null,
-    "female" : null
+    "total" : 11802
   }, {
     "year" : 2021,
-    "total" : 10685,
-    "male" : null,
-    "female" : null
+    "total" : 10685
   } ]
 }, {
   "geoCode" : "17",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΦΛΩΡΙΝΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "17",
   "populations" : [ {
     "year" : 2011,
-    "total" : 51414,
-    "male" : null,
-    "female" : null
+    "total" : 51414
   }, {
     "year" : 2021,
-    "total" : 44880,
-    "male" : null,
-    "female" : null
+    "total" : 44880
   } ]
 }, {
   "geoCode" : "1701",
   "name" : "ΔΗΜΟΣ ΦΛΩΡΙΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1701",
   "populations" : [ {
     "year" : 2011,
-    "total" : 32881,
-    "male" : null,
-    "female" : null
+    "total" : 32881
   }, {
     "year" : 2021,
-    "total" : 29500,
-    "male" : null,
-    "female" : null
+    "total" : 29500
   } ]
 }, {
   "geoCode" : "1702",
   "name" : "ΔΗΜΟΣ ΑΜΥΝΤΑΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1702",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16973,
-    "male" : null,
-    "female" : null
+    "total" : 16973
   }, {
     "year" : 2021,
-    "total" : 14169,
-    "male" : null,
-    "female" : null
+    "total" : 14169
   } ]
 }, {
   "geoCode" : "1703",
   "name" : "ΔΗΜΟΣ ΠΡΕΣΠΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1703",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1560,
-    "male" : null,
-    "female" : null
+    "total" : 1560
   }, {
     "year" : 2021,
-    "total" : 1211,
-    "male" : null,
-    "female" : null
+    "total" : 1211
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΗΠΕΙΡΟΥ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 336856,
-    "male" : null,
-    "female" : null
+    "total" : 336856
   }, {
     "year" : 2021,
-    "total" : 319991,
-    "male" : null,
-    "female" : null
+    "total" : 319991
   } ]
 }, {
   "geoCode" : "18",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΙΩΑΝΝΙΝΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "18",
   "populations" : [ {
     "year" : 2011,
-    "total" : 167901,
-    "male" : null,
-    "female" : null
+    "total" : 167901
   }, {
     "year" : 2021,
-    "total" : 160773,
-    "male" : null,
-    "female" : null
+    "total" : 160773
   } ]
 }, {
   "geoCode" : "1801",
   "name" : "ΔΗΜΟΣ ΙΩΑΝΝΙΤΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1801",
   "populations" : [ {
     "year" : 2011,
-    "total" : 112486,
-    "male" : null,
-    "female" : null
+    "total" : 112486
   }, {
     "year" : 2021,
-    "total" : 113978,
-    "male" : null,
-    "female" : null
+    "total" : 113978
   } ]
 }, {
   "geoCode" : "1802",
   "name" : "ΔΗΜΟΣ ΒΟΡΕΙΩΝ ΤΖΟΥΜΕΡΚΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1802",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5714,
-    "male" : null,
-    "female" : null
+    "total" : 5714
   }, {
     "year" : 2021,
-    "total" : 5058,
-    "male" : null,
-    "female" : null
+    "total" : 5058
   } ]
 }, {
   "geoCode" : "1803",
   "name" : "ΔΗΜΟΣ ΔΩΔΩΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1803",
   "populations" : [ {
     "year" : 2011,
-    "total" : 9693,
-    "male" : null,
-    "female" : null
+    "total" : 9693
   }, {
     "year" : 2021,
-    "total" : 7199,
-    "male" : null,
-    "female" : null
+    "total" : 7199
   } ]
 }, {
   "geoCode" : "1804",
   "name" : "ΔΗΜΟΣ ΖΑΓΟΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1804",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3724,
-    "male" : null,
-    "female" : null
+    "total" : 3724
   }, {
     "year" : 2021,
-    "total" : 3374,
-    "male" : null,
-    "female" : null
+    "total" : 3374
   } ]
 }, {
   "geoCode" : "1805",
   "name" : "ΔΗΜΟΣ ΖΙΤΣΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1805",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14766,
-    "male" : null,
-    "female" : null
+    "total" : 14766
   }, {
     "year" : 2021,
-    "total" : 13588,
-    "male" : null,
-    "female" : null
+    "total" : 13588
   } ]
 }, {
   "geoCode" : "1806",
   "name" : "ΔΗΜΟΣ ΚΟΝΙΤΣΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1806",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6362,
-    "male" : null,
-    "female" : null
+    "total" : 6362
   }, {
     "year" : 2021,
-    "total" : 5296,
-    "male" : null,
-    "female" : null
+    "total" : 5296
   } ]
 }, {
   "geoCode" : "1807",
   "name" : "ΔΗΜΟΣ ΜΕΤΣΟΒΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1807",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6196,
-    "male" : null,
-    "female" : null
+    "total" : 6196
   }, {
     "year" : 2021,
-    "total" : 5432,
-    "male" : null,
-    "female" : null
+    "total" : 5432
   } ]
 }, {
   "geoCode" : "1808",
   "name" : "ΔΗΜΟΣ ΠΩΓΩΝΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1808",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8960,
-    "male" : null,
-    "female" : null
+    "total" : 8960
   }, {
     "year" : 2021,
-    "total" : 6848,
-    "male" : null,
-    "female" : null
+    "total" : 6848
   } ]
 }, {
   "geoCode" : "19",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΤΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "19",
   "populations" : [ {
     "year" : 2011,
-    "total" : 67877,
-    "male" : null,
-    "female" : null
+    "total" : 67877
   }, {
     "year" : 2021,
-    "total" : 63732,
-    "male" : null,
-    "female" : null
+    "total" : 63732
   } ]
 }, {
   "geoCode" : "1901",
   "name" : "ΔΗΜΟΣ ΑΡΤΑΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 43166,
-    "male" : null,
-    "female" : null
+    "total" : 43166
   }, {
     "year" : 2021,
-    "total" : 41600,
-    "male" : null,
-    "female" : null
+    "total" : 41600
   } ]
 }, {
   "geoCode" : "1902",
   "name" : "ΔΗΜΟΣ ΓΕΩΡΓΙΟΥ ΚΑΡΑΪΣΚΑΚΗ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1902",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5780,
-    "male" : null,
-    "female" : null
+    "total" : 5780
   }, {
     "year" : 2021,
-    "total" : 5278,
-    "male" : null,
-    "female" : null
+    "total" : 5278
   } ]
 }, {
   "geoCode" : "1903",
   "name" : "ΔΗΜΟΣ ΚΕΝΤΡΙΚΩΝ ΤΖΟΥΜΕΡΚΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1903",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6178,
-    "male" : null,
-    "female" : null
+    "total" : 6178
   }, {
     "year" : 2021,
-    "total" : 5498,
-    "male" : null,
-    "female" : null
+    "total" : 5498
   } ]
 }, {
   "geoCode" : "1904",
   "name" : "ΔΗΜΟΣ ΝΙΚΟΛΑΟΥ ΣΚΟΥΦΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "1904",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12753,
-    "male" : null,
-    "female" : null
+    "total" : 12753
   }, {
     "year" : 2021,
-    "total" : 11356,
-    "male" : null,
-    "female" : null
+    "total" : 11356
   } ]
 }, {
   "geoCode" : "20",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΘΕΣΠΡΩΤΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "20",
   "populations" : [ {
     "year" : 2011,
-    "total" : 43587,
-    "male" : null,
-    "female" : null
+    "total" : 43587
   }, {
     "year" : 2021,
-    "total" : 40804,
-    "male" : null,
-    "female" : null
+    "total" : 40804
   } ]
 }, {
   "geoCode" : "2001",
   "name" : "ΔΗΜΟΣ ΗΓΟΥΜΕΝΙΤΣΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2001",
   "populations" : [ {
     "year" : 2011,
-    "total" : 25814,
-    "male" : null,
-    "female" : null
+    "total" : 25814
   }, {
     "year" : 2021,
-    "total" : 25698,
-    "male" : null,
-    "female" : null
+    "total" : 25698
   } ]
 }, {
   "geoCode" : "2002",
   "name" : "ΔΗΜΟΣ ΣΟΥΛΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2002",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10063,
-    "male" : null,
-    "female" : null
+    "total" : 10063
   }, {
     "year" : 2021,
-    "total" : 8759,
-    "male" : null,
-    "female" : null
+    "total" : 8759
   } ]
 }, {
   "geoCode" : "2003",
   "name" : "ΔΗΜΟΣ ΦΙΛΙΑΤΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2003",
   "populations" : [ {
     "year" : 2011,
-    "total" : 7710,
-    "male" : null,
-    "female" : null
+    "total" : 7710
   }, {
     "year" : 2021,
-    "total" : 6347,
-    "male" : null,
-    "female" : null
+    "total" : 6347
   } ]
 }, {
   "geoCode" : "21",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΠΡΕΒΕΖΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "21",
   "populations" : [ {
     "year" : 2011,
-    "total" : 57491,
-    "male" : null,
-    "female" : null
+    "total" : 57491
   }, {
     "year" : 2021,
-    "total" : 54682,
-    "male" : null,
-    "female" : null
+    "total" : 54682
   } ]
 }, {
   "geoCode" : "2101",
   "name" : "ΔΗΜΟΣ ΠΡΕΒΕΖΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 31733,
-    "male" : null,
-    "female" : null
+    "total" : 31733
   }, {
     "year" : 2021,
-    "total" : 30841,
-    "male" : null,
-    "female" : null
+    "total" : 30841
   } ]
 }, {
   "geoCode" : "2102",
   "name" : "ΔΗΜΟΣ ΖΗΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13892,
-    "male" : null,
-    "female" : null
+    "total" : 13892
   }, {
     "year" : 2021,
-    "total" : 13079,
-    "male" : null,
-    "female" : null
+    "total" : 13079
   } ]
 }, {
   "geoCode" : "2103",
   "name" : "ΔΗΜΟΣ ΠΑΡΓΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2103",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11866,
-    "male" : null,
-    "female" : null
+    "total" : 11866
   }, {
     "year" : 2021,
-    "total" : 10762,
-    "male" : null,
-    "female" : null
+    "total" : 10762
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΘΕΣΣΑΛΙΑΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 732762,
-    "male" : null,
-    "female" : null
+    "total" : 732762
   }, {
     "year" : 2021,
-    "total" : 688255,
-    "male" : null,
-    "female" : null
+    "total" : 688255
   } ]
 }, {
   "geoCode" : "22",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΛΑΡΙΣΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "22",
   "populations" : [ {
     "year" : 2011,
-    "total" : 284325,
-    "male" : null,
-    "female" : null
+    "total" : 284325
   }, {
     "year" : 2021,
-    "total" : 268963,
-    "male" : null,
-    "female" : null
+    "total" : 268963
   } ]
 }, {
   "geoCode" : "2201",
   "name" : "ΔΗΜΟΣ ΛΑΡΙΣΑΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 162591,
-    "male" : null,
-    "female" : null
+    "total" : 162591
   }, {
     "year" : 2021,
-    "total" : 164095,
-    "male" : null,
-    "female" : null
+    "total" : 164095
   } ]
 }, {
   "geoCode" : "2202",
   "name" : "ΔΗΜΟΣ ΑΓΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11470,
-    "male" : null,
-    "female" : null
+    "total" : 11470
   }, {
     "year" : 2021,
-    "total" : 10711,
-    "male" : null,
-    "female" : null
+    "total" : 10711
   } ]
 }, {
   "geoCode" : "2203",
   "name" : "ΔΗΜΟΣ ΕΛΑΣΣΟΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2203",
   "populations" : [ {
     "year" : 2011,
-    "total" : 32121,
-    "male" : null,
-    "female" : null
+    "total" : 32121
   }, {
     "year" : 2021,
-    "total" : 25459,
-    "male" : null,
-    "female" : null
+    "total" : 25459
   } ]
 }, {
   "geoCode" : "2204",
   "name" : "ΔΗΜΟΣ ΚΙΛΕΛΕΡ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2204",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20854,
-    "male" : null,
-    "female" : null
+    "total" : 20854
   }, {
     "year" : 2021,
-    "total" : 18070,
-    "male" : null,
-    "female" : null
+    "total" : 18070
   } ]
 }, {
   "geoCode" : "2205",
   "name" : "ΔΗΜΟΣ ΤΕΜΠΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2205",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13712,
-    "male" : null,
-    "female" : null
+    "total" : 13712
   }, {
     "year" : 2021,
-    "total" : 12007,
-    "male" : null,
-    "female" : null
+    "total" : 12007
   } ]
 }, {
   "geoCode" : "2206",
   "name" : "ΔΗΜΟΣ ΤΥΡΝΑΒΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2206",
   "populations" : [ {
     "year" : 2011,
-    "total" : 25032,
-    "male" : null,
-    "female" : null
+    "total" : 25032
   }, {
     "year" : 2021,
-    "total" : 22280,
-    "male" : null,
-    "female" : null
+    "total" : 22280
   } ]
 }, {
   "geoCode" : "2207",
   "name" : "ΔΗΜΟΣ ΦΑΡΣΑΛΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2207",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18545,
-    "male" : null,
-    "female" : null
+    "total" : 18545
   }, {
     "year" : 2021,
-    "total" : 16341,
-    "male" : null,
-    "female" : null
+    "total" : 16341
   } ]
 }, {
   "geoCode" : "23",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΑΡΔΙΤΣΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "23",
   "populations" : [ {
     "year" : 2011,
-    "total" : 113544,
-    "male" : null,
-    "female" : null
+    "total" : 113544
   }, {
     "year" : 2021,
-    "total" : 106305,
-    "male" : null,
-    "female" : null
+    "total" : 106305
   } ]
 }, {
   "geoCode" : "2301",
   "name" : "ΔΗΜΟΣ ΚΑΡΔΙΤΣΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 56747,
-    "male" : null,
-    "female" : null
+    "total" : 56747
   }, {
     "year" : 2021,
-    "total" : 55979,
-    "male" : null,
-    "female" : null
+    "total" : 55979
   } ]
 }, {
   "geoCode" : "2302",
   "name" : "ΔΗΜΟΣ ΑΡΓΙΘΕΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2302",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3450,
-    "male" : null,
-    "female" : null
+    "total" : 3450
   }, {
     "year" : 2021,
-    "total" : 3496,
-    "male" : null,
-    "female" : null
+    "total" : 3496
   } ]
 }, {
   "geoCode" : "2303",
   "name" : "ΔΗΜΟΣ ΛΙΜΝΗΣ ΠΛΑΣΤΗΡΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2303",
   "populations" : [ {
     "year" : 2011,
-    "total" : 4635,
-    "male" : null,
-    "female" : null
+    "total" : 4635
   }, {
     "year" : 2021,
-    "total" : 5234,
-    "male" : null,
-    "female" : null
+    "total" : 5234
   } ]
 }, {
   "geoCode" : "2304",
   "name" : "ΔΗΜΟΣ ΜΟΥΖΑΚΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2304",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13122,
-    "male" : null,
-    "female" : null
+    "total" : 13122
   }, {
     "year" : 2021,
-    "total" : 11245,
-    "male" : null,
-    "female" : null
+    "total" : 11245
   } ]
 }, {
   "geoCode" : "2305",
   "name" : "ΔΗΜΟΣ ΠΑΛΑΜΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2305",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16726,
-    "male" : null,
-    "female" : null
+    "total" : 16726
   }, {
     "year" : 2021,
-    "total" : 13424,
-    "male" : null,
-    "female" : null
+    "total" : 13424
   } ]
 }, {
   "geoCode" : "2306",
   "name" : "ΔΗΜΟΣ ΣΟΦΑΔΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2306",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18864,
-    "male" : null,
-    "female" : null
+    "total" : 18864
   }, {
     "year" : 2021,
-    "total" : 16927,
-    "male" : null,
-    "female" : null
+    "total" : 16927
   } ]
 }, {
   "geoCode" : "24",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΜΑΓΝΗΣΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "24",
   "populations" : [ {
     "year" : 2011,
-    "total" : 190010,
-    "male" : null,
-    "female" : null
+    "total" : 190010
   }, {
     "year" : 2021,
-    "total" : 177448,
-    "male" : null,
-    "female" : null
+    "total" : 177448
   } ]
 }, {
   "geoCode" : "2401",
   "name" : "ΔΗΜΟΣ ΒΟΛΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 144449,
-    "male" : null,
-    "female" : null
+    "total" : 144449
   }, {
     "year" : 2021,
-    "total" : 139670,
-    "male" : null,
-    "female" : null
+    "total" : 139670
   } ]
 }, {
   "geoCode" : "2402",
   "name" : "ΔΗΜΟΣ ΑΛΜΥΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2402",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18614,
-    "male" : null,
-    "female" : null
+    "total" : 18614
   }, {
     "year" : 2021,
-    "total" : 16072,
-    "male" : null,
-    "female" : null
+    "total" : 16072
   } ]
 }, {
   "geoCode" : "2403",
   "name" : "ΔΗΜΟΣ ΖΑΓΟΡΑΣ - ΜΟΥΡΕΣΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2403",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5809,
-    "male" : null,
-    "female" : null
+    "total" : 5809
   }, {
     "year" : 2021,
-    "total" : 4562,
-    "male" : null,
-    "female" : null
+    "total" : 4562
   } ]
 }, {
   "geoCode" : "2404",
   "name" : "ΔΗΜΟΣ ΝΟΤΙΟΥ ΠΗΛΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2404",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10216,
-    "male" : null,
-    "female" : null
+    "total" : 10216
   }, {
     "year" : 2021,
-    "total" : 8274,
-    "male" : null,
-    "female" : null
+    "total" : 8274
   } ]
 }, {
   "geoCode" : "2405",
   "name" : "ΔΗΜΟΣ ΡΗΓΑ ΦΕΡΑΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2405",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10922,
-    "male" : null,
-    "female" : null
+    "total" : 10922
   }, {
     "year" : 2021,
-    "total" : 8870,
-    "male" : null,
-    "female" : null
+    "total" : 8870
   } ]
 }, {
   "geoCode" : "25",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΣΠΟΡΑΔΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "25",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13798,
-    "male" : null,
-    "female" : null
+    "total" : 13798
   }, {
     "year" : 2021,
-    "total" : 13458,
-    "male" : null,
-    "female" : null
+    "total" : 13458
   } ]
 }, {
   "geoCode" : "2501",
   "name" : "ΔΗΜΟΣ ΣΚΙΑΘΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2501",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6088,
-    "male" : null,
-    "female" : null
+    "total" : 6088
   }, {
     "year" : 2021,
-    "total" : 5802,
-    "male" : null,
-    "female" : null
+    "total" : 5802
   } ]
 }, {
   "geoCode" : "2502",
   "name" : "ΔΗΜΟΣ ΑΛΟΝΝΗΣΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2502",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2750,
-    "male" : null,
-    "female" : null
+    "total" : 2750
   }, {
     "year" : 2021,
-    "total" : 3138,
-    "male" : null,
-    "female" : null
+    "total" : 3138
   } ]
 }, {
   "geoCode" : "2503",
   "name" : "ΔΗΜΟΣ ΣΚΟΠΕΛΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2503",
   "populations" : [ {
     "year" : 2011,
-    "total" : 4960,
-    "male" : null,
-    "female" : null
+    "total" : 4960
   }, {
     "year" : 2021,
-    "total" : 4518,
-    "male" : null,
-    "female" : null
+    "total" : 4518
   } ]
 }, {
   "geoCode" : "26",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΤΡΙΚΑΛΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "26",
   "populations" : [ {
     "year" : 2011,
-    "total" : 131085,
-    "male" : null,
-    "female" : null
+    "total" : 131085
   }, {
     "year" : 2021,
-    "total" : 122081,
-    "male" : null,
-    "female" : null
+    "total" : 122081
   } ]
 }, {
   "geoCode" : "2601",
   "name" : "ΔΗΜΟΣ ΤΡΙΚΚΑΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2601",
   "populations" : [ {
     "year" : 2011,
-    "total" : 81355,
-    "male" : null,
-    "female" : null
+    "total" : 81355
   }, {
     "year" : 2021,
-    "total" : 78605,
-    "male" : null,
-    "female" : null
+    "total" : 78605
   } ]
 }, {
   "geoCode" : "2602",
   "name" : "ΔΗΜΟΣ ΜΕΤΕΩΡΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2602",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21991,
-    "male" : null,
-    "female" : null
+    "total" : 21991
   }, {
     "year" : 2021,
-    "total" : 19274,
-    "male" : null,
-    "female" : null
+    "total" : 19274
   } ]
 }, {
   "geoCode" : "2603",
   "name" : "ΔΗΜΟΣ ΠΥΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2603",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14343,
-    "male" : null,
-    "female" : null
+    "total" : 14343
   }, {
     "year" : 2021,
-    "total" : 12852,
-    "male" : null,
-    "female" : null
+    "total" : 12852
   } ]
 }, {
   "geoCode" : "2604",
   "name" : "ΔΗΜΟΣ ΦΑΡΚΑΔΟΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2604",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13396,
-    "male" : null,
-    "female" : null
+    "total" : 13396
   }, {
     "year" : 2021,
-    "total" : 11350,
-    "male" : null,
-    "female" : null
+    "total" : 11350
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 547390,
-    "male" : null,
-    "female" : null
+    "total" : 547390
   }, {
     "year" : 2021,
-    "total" : 508254,
-    "male" : null,
-    "female" : null
+    "total" : 508254
   } ]
 }, {
   "geoCode" : "27",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΦΘΙΩΤΙΔΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "27",
   "populations" : [ {
     "year" : 2011,
-    "total" : 158231,
-    "male" : null,
-    "female" : null
+    "total" : 158231
   }, {
     "year" : 2021,
-    "total" : 137793,
-    "male" : null,
-    "female" : null
+    "total" : 137793
   } ]
 }, {
   "geoCode" : "2701",
   "name" : "ΔΗΜΟΣ ΛΑΜΙΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2701",
   "populations" : [ {
     "year" : 2011,
-    "total" : 75315,
-    "male" : null,
-    "female" : null
+    "total" : 75315
   }, {
     "year" : 2021,
-    "total" : 66657,
-    "male" : null,
-    "female" : null
+    "total" : 66657
   } ]
 }, {
   "geoCode" : "2702",
   "name" : "ΔΗΜΟΣ ΑΜΦΙΚΛΕΙΑΣ - ΕΛΑΤΕΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2702",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10922,
-    "male" : null,
-    "female" : null
+    "total" : 10922
   }, {
     "year" : 2021,
-    "total" : 8376,
-    "male" : null,
-    "female" : null
+    "total" : 8376
   } ]
 }, {
   "geoCode" : "2703",
   "name" : "ΔΗΜΟΣ ΔΟΜΟΚΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2703",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11495,
-    "male" : null,
-    "female" : null
+    "total" : 11495
   }, {
     "year" : 2021,
-    "total" : 9159,
-    "male" : null,
-    "female" : null
+    "total" : 9159
   } ]
 }, {
   "geoCode" : "2704",
   "name" : "ΔΗΜΟΣ ΛΟΚΡΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2704",
   "populations" : [ {
     "year" : 2011,
-    "total" : 19623,
-    "male" : null,
-    "female" : null
+    "total" : 19623
   }, {
     "year" : 2021,
-    "total" : 17788,
-    "male" : null,
-    "female" : null
+    "total" : 17788
   } ]
 }, {
   "geoCode" : "2705",
   "name" : "ΔΗΜΟΣ ΜΑΚΡΑΚΩΜΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2705",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16036,
-    "male" : null,
-    "female" : null
+    "total" : 16036
   }, {
     "year" : 2021,
-    "total" : 13500,
-    "male" : null,
-    "female" : null
+    "total" : 13500
   } ]
 }, {
   "geoCode" : "2706",
   "name" : "ΔΗΜΟΣ ΚΑΜΕΝΩΝ ΒΟΥΡΛΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2706",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12090,
-    "male" : null,
-    "female" : null
+    "total" : 12090
   }, {
     "year" : 2021,
-    "total" : 10924,
-    "male" : null,
-    "female" : null
+    "total" : 10924
   } ]
 }, {
   "geoCode" : "2707",
   "name" : "ΔΗΜΟΣ ΣΤΥΛΙΔΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2707",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12750,
-    "male" : null,
-    "female" : null
+    "total" : 12750
   }, {
     "year" : 2021,
-    "total" : 11389,
-    "male" : null,
-    "female" : null
+    "total" : 11389
   } ]
 }, {
   "geoCode" : "28",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΒΟΙΩΤΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "28",
   "populations" : [ {
     "year" : 2011,
-    "total" : 117920,
-    "male" : null,
-    "female" : null
+    "total" : 117920
   }, {
     "year" : 2021,
-    "total" : 106056,
-    "male" : null,
-    "female" : null
+    "total" : 106056
   } ]
 }, {
   "geoCode" : "2801",
   "name" : "ΔΗΜΟΣ ΛΕΒΑΔΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2801",
   "populations" : [ {
     "year" : 2011,
-    "total" : 31315,
-    "male" : null,
-    "female" : null
+    "total" : 31315
   }, {
     "year" : 2021,
-    "total" : 29379,
-    "male" : null,
-    "female" : null
+    "total" : 29379
   } ]
 }, {
   "geoCode" : "2802",
   "name" : "ΔΗΜΟΣ ΑΛΙΑΡΤΟΥ - ΘΕΣΠΙΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2802",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10887,
-    "male" : null,
-    "female" : null
+    "total" : 10887
   }, {
     "year" : 2021,
-    "total" : 8774,
-    "male" : null,
-    "female" : null
+    "total" : 8774
   } ]
 }, {
   "geoCode" : "2803",
   "name" : "ΔΗΜΟΣ ΔΙΣΤΟΜΟΥ - ΑΡΑΧΟΒΑΣ - ΑΝΤΙΚΥΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2803",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8188,
-    "male" : null,
-    "female" : null
+    "total" : 8188
   }, {
     "year" : 2021,
-    "total" : 7612,
-    "male" : null,
-    "female" : null
+    "total" : 7612
   } ]
 }, {
   "geoCode" : "2804",
   "name" : "ΔΗΜΟΣ ΘΗΒΑΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2804",
   "populations" : [ {
     "year" : 2011,
-    "total" : 36477,
-    "male" : null,
-    "female" : null
+    "total" : 36477
   }, {
     "year" : 2021,
-    "total" : 32410,
-    "male" : null,
-    "female" : null
+    "total" : 32410
   } ]
 }, {
   "geoCode" : "2805",
   "name" : "ΔΗΜΟΣ ΟΡΧΟΜΕΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2805",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11621,
-    "male" : null,
-    "female" : null
+    "total" : 11621
   }, {
     "year" : 2021,
-    "total" : 9381,
-    "male" : null,
-    "female" : null
+    "total" : 9381
   } ]
 }, {
   "geoCode" : "2806",
   "name" : "ΔΗΜΟΣ ΤΑΝΑΓΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2806",
   "populations" : [ {
     "year" : 2011,
-    "total" : 19432,
-    "male" : null,
-    "female" : null
+    "total" : 19432
   }, {
     "year" : 2021,
-    "total" : 18500,
-    "male" : null,
-    "female" : null
+    "total" : 18500
   } ]
 }, {
   "geoCode" : "29",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΕΥΒΟΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "29",
   "populations" : [ {
     "year" : 2011,
-    "total" : 210815,
-    "male" : null,
-    "female" : null
+    "total" : 210815
   }, {
     "year" : 2021,
-    "total" : 210778,
-    "male" : null,
-    "female" : null
+    "total" : 210778
   } ]
 }, {
   "geoCode" : "2901",
   "name" : "ΔΗΜΟΣ ΧΑΛΚΙΔΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 102223,
-    "male" : null,
-    "female" : null
+    "total" : 102223
   }, {
     "year" : 2021,
-    "total" : 109256,
-    "male" : null,
-    "female" : null
+    "total" : 109256
   } ]
 }, {
   "geoCode" : "2902",
   "name" : "ΔΗΜΟΣ ΔΙΡΦΥΩΝ - ΜΕΣΣΑΠΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2902",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18800,
-    "male" : null,
-    "female" : null
+    "total" : 18800
   }, {
     "year" : 2021,
-    "total" : 15934,
-    "male" : null,
-    "female" : null
+    "total" : 15934
   } ]
 }, {
   "geoCode" : "2903",
   "name" : "ΔΗΜΟΣ ΕΡΕΤΡΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2903",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13053,
-    "male" : null,
-    "female" : null
+    "total" : 13053
   }, {
     "year" : 2021,
-    "total" : 12652,
-    "male" : null,
-    "female" : null
+    "total" : 12652
   } ]
 }, {
   "geoCode" : "2904",
   "name" : "ΔΗΜΟΣ ΙΣΤΙΑΙΑΣ - ΑΙΔΗΨΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2904",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21083,
-    "male" : null,
-    "female" : null
+    "total" : 21083
   }, {
     "year" : 2021,
-    "total" : 19396,
-    "male" : null,
-    "female" : null
+    "total" : 19396
   } ]
 }, {
   "geoCode" : "2905",
   "name" : "ΔΗΜΟΣ ΚΑΡΥΣΤΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2905",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12180,
-    "male" : null,
-    "female" : null
+    "total" : 12180
   }, {
     "year" : 2021,
-    "total" : 11903,
-    "male" : null,
-    "female" : null
+    "total" : 11903
   } ]
 }, {
   "geoCode" : "2906",
   "name" : "ΔΗΜΟΣ ΚΥΜΗΣ - ΑΛΙΒΕΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2906",
   "populations" : [ {
     "year" : 2011,
-    "total" : 28437,
-    "male" : null,
-    "female" : null
+    "total" : 28437
   }, {
     "year" : 2021,
-    "total" : 26350,
-    "male" : null,
-    "female" : null
+    "total" : 26350
   } ]
 }, {
   "geoCode" : "2907",
   "name" : "ΔΗΜΟΣ ΜΑΝΤΟΥΔΙΟΥ - ΛΙΜΝΗΣ - ΑΓΙΑΣ ΑΝΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2907",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12045,
-    "male" : null,
-    "female" : null
+    "total" : 12045
   }, {
     "year" : 2021,
-    "total" : 12235,
-    "male" : null,
-    "female" : null
+    "total" : 12235
   } ]
 }, {
   "geoCode" : "2908",
   "name" : "ΔΗΜΟΣ ΣΚΥΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "2908",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2994,
-    "male" : null,
-    "female" : null
+    "total" : 2994
   }, {
     "year" : 2021,
-    "total" : 3052,
-    "male" : null,
-    "female" : null
+    "total" : 3052
   } ]
 }, {
   "geoCode" : "30",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΕΥΡΥΤΑΝΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "30",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20081,
-    "male" : null,
-    "female" : null
+    "total" : 20081
   }, {
     "year" : 2021,
-    "total" : 17428,
-    "male" : null,
-    "female" : null
+    "total" : 17428
   } ]
 }, {
   "geoCode" : "3001",
   "name" : "ΔΗΜΟΣ ΚΑΡΠΕΝΗΣΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3001",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13105,
-    "male" : null,
-    "female" : null
+    "total" : 13105
   }, {
     "year" : 2021,
-    "total" : 11445,
-    "male" : null,
-    "female" : null
+    "total" : 11445
   } ]
 }, {
   "geoCode" : "3002",
   "name" : "ΔΗΜΟΣ ΑΓΡΑΦΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3002",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6976,
-    "male" : null,
-    "female" : null
+    "total" : 6976
   }, {
     "year" : 2021,
-    "total" : 5983,
-    "male" : null,
-    "female" : null
+    "total" : 5983
   } ]
 }, {
   "geoCode" : "31",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΦΩΚΙΔΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "31",
   "populations" : [ {
     "year" : 2011,
-    "total" : 40343,
-    "male" : null,
-    "female" : null
+    "total" : 40343
   }, {
     "year" : 2021,
-    "total" : 36199,
-    "male" : null,
-    "female" : null
+    "total" : 36199
   } ]
 }, {
   "geoCode" : "3101",
   "name" : "ΔΗΜΟΣ ΔΕΛΦΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 26716,
-    "male" : null,
-    "female" : null
+    "total" : 26716
   }, {
     "year" : 2021,
-    "total" : 24165,
-    "male" : null,
-    "female" : null
+    "total" : 24165
   } ]
 }, {
   "geoCode" : "3102",
   "name" : "ΔΗΜΟΣ ΔΩΡΙΔΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13627,
-    "male" : null,
-    "female" : null
+    "total" : 13627
   }, {
     "year" : 2021,
-    "total" : 12034,
-    "male" : null,
-    "female" : null
+    "total" : 12034
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΙΟΝΙΩΝ ΝΗΣΩΝ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 207855,
-    "male" : null,
-    "female" : null
+    "total" : 207855
   }, {
     "year" : 2021,
-    "total" : 204532,
-    "male" : null,
-    "female" : null
+    "total" : 204532
   } ]
 }, {
   "geoCode" : "32",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΕΡΚΥΡΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "32",
   "populations" : [ {
     "year" : 2011,
-    "total" : 104371,
-    "male" : null,
-    "female" : null
+    "total" : 104371
   }, {
     "year" : 2021,
-    "total" : 101600,
-    "male" : null,
-    "female" : null
+    "total" : 101600
   } ]
 }, {
   "geoCode" : "3201",
   "name" : "ΔΗΜΟΣ ΚΕΝΤΡΙΚΗΣ ΚΕΡΚΥΡΑΣ ΚΑΙ ΔΙΑΠΟΝΤΙΩΝ ΝΗΣΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 68558,
-    "male" : null,
-    "female" : null
+    "total" : 68558
   }, {
     "year" : 2021,
-    "total" : 67112,
-    "male" : null,
-    "female" : null
+    "total" : 67112
   } ]
 }, {
   "geoCode" : "3202",
   "name" : "ΔΗΜΟΣ ΠΑΞΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2300,
-    "male" : null,
-    "female" : null
+    "total" : 2300
   }, {
     "year" : 2021,
-    "total" : 2466,
-    "male" : null,
-    "female" : null
+    "total" : 2466
   } ]
 }, {
   "geoCode" : "3203",
   "name" : "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΕΡΚΥΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3203",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17832,
-    "male" : null,
-    "female" : null
+    "total" : 17832
   }, {
     "year" : 2021,
-    "total" : 17278,
-    "male" : null,
-    "female" : null
+    "total" : 17278
   } ]
 }, {
   "geoCode" : "3204",
   "name" : "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΕΡΚΥΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3204",
   "populations" : [ {
     "year" : 2011,
-    "total" : 15681,
-    "male" : null,
-    "female" : null
+    "total" : 15681
   }, {
     "year" : 2021,
-    "total" : 14744,
-    "male" : null,
-    "female" : null
+    "total" : 14744
   } ]
 }, {
   "geoCode" : "33",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΖΑΚΥΝΘΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "33",
   "populations" : [ {
     "year" : 2011,
-    "total" : 40759,
-    "male" : null,
-    "female" : null
+    "total" : 40759
   }, {
     "year" : 2021,
-    "total" : 41180,
-    "male" : null,
-    "female" : null
+    "total" : 41180
   } ]
 }, {
   "geoCode" : "3301",
   "name" : "ΔΗΜΟΣ ΖΑΚΥΝΘΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 40759,
-    "male" : null,
-    "female" : null
+    "total" : 40759
   }, {
     "year" : 2021,
-    "total" : 41180,
-    "male" : null,
-    "female" : null
+    "total" : 41180
   } ]
 }, {
   "geoCode" : "34",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΙΘΑΚΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "34",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3231,
-    "male" : null,
-    "female" : null
+    "total" : 3231
   }, {
     "year" : 2021,
-    "total" : 2862,
-    "male" : null,
-    "female" : null
+    "total" : 2862
   } ]
 }, {
   "geoCode" : "3401",
   "name" : "ΔΗΜΟΣ ΙΘΑΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3231,
-    "male" : null,
-    "female" : null
+    "total" : 3231
   }, {
     "year" : 2021,
-    "total" : 2862,
-    "male" : null,
-    "female" : null
+    "total" : 2862
   } ]
 }, {
   "geoCode" : "35",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΕΦΑΛΛΗΝΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "35",
   "populations" : [ {
     "year" : 2011,
-    "total" : 35801,
-    "male" : null,
-    "female" : null
+    "total" : 35801
   }, {
     "year" : 2021,
-    "total" : 36064,
-    "male" : null,
-    "female" : null
+    "total" : 36064
   } ]
 }, {
   "geoCode" : "3501",
   "name" : "ΔΗΜΟΣ ΑΡΓΟΣΤΟΛΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3501",
   "populations" : [ {
     "year" : 2011,
-    "total" : 23499,
-    "male" : null,
-    "female" : null
+    "total" : 23499
   }, {
     "year" : 2021,
-    "total" : 23574,
-    "male" : null,
-    "female" : null
+    "total" : 23574
   } ]
 }, {
   "geoCode" : "3502",
   "name" : "ΔΗΜΟΣ ΛΗΞΟΥΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3502",
   "populations" : [ {
     "year" : 2011,
-    "total" : 7098,
-    "male" : null,
-    "female" : null
+    "total" : 7098
   }, {
     "year" : 2021,
-    "total" : 6989,
-    "male" : null,
-    "female" : null
+    "total" : 6989
   } ]
 }, {
   "geoCode" : "3503",
   "name" : "ΔΗΜΟΣ ΣΑΜΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3503",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5204,
-    "male" : null,
-    "female" : null
+    "total" : 5204
   }, {
     "year" : 2021,
-    "total" : 5501,
-    "male" : null,
-    "female" : null
+    "total" : 5501
   } ]
 }, {
   "geoCode" : "36",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΛΕΥΚΑΔΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "36",
   "populations" : [ {
     "year" : 2011,
-    "total" : 23693,
-    "male" : null,
-    "female" : null
+    "total" : 23693
   }, {
     "year" : 2021,
-    "total" : 22826,
-    "male" : null,
-    "female" : null
+    "total" : 22826
   } ]
 }, {
   "geoCode" : "3601",
   "name" : "ΔΗΜΟΣ ΛΕΥΚΑΔΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3601",
   "populations" : [ {
     "year" : 2011,
-    "total" : 22652,
-    "male" : null,
-    "female" : null
+    "total" : 22652
   }, {
     "year" : 2021,
-    "total" : 21900,
-    "male" : null,
-    "female" : null
+    "total" : 21900
   } ]
 }, {
   "geoCode" : "3602",
   "name" : "ΔΗΜΟΣ ΜΕΓΑΝΗΣΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3602",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1041,
-    "male" : null,
-    "female" : null
+    "total" : 1041
   }, {
     "year" : 2021,
-    "total" : 926,
-    "male" : null,
-    "female" : null
+    "total" : 926
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 679796,
-    "male" : null,
-    "female" : null
+    "total" : 679796
   }, {
     "year" : 2021,
-    "total" : 648220,
-    "male" : null,
-    "female" : null
+    "total" : 648220
   } ]
 }, {
   "geoCode" : "37",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΧΑΪΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "37",
   "populations" : [ {
     "year" : 2011,
-    "total" : 309694,
-    "male" : null,
-    "female" : null
+    "total" : 309694
   }, {
     "year" : 2021,
-    "total" : 305979,
-    "male" : null,
-    "female" : null
+    "total" : 305979
   } ]
 }, {
   "geoCode" : "3701",
   "name" : "ΔΗΜΟΣ ΠΑΤΡΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3701",
   "populations" : [ {
     "year" : 2011,
-    "total" : 213984,
-    "male" : null,
-    "female" : null
+    "total" : 213984
   }, {
     "year" : 2021,
-    "total" : 215922,
-    "male" : null,
-    "female" : null
+    "total" : 215922
   } ]
 }, {
   "geoCode" : "3702",
   "name" : "ΔΗΜΟΣ ΑΙΓΙΑΛΕΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3702",
   "populations" : [ {
     "year" : 2011,
-    "total" : 49872,
-    "male" : null,
-    "female" : null
+    "total" : 49872
   }, {
     "year" : 2021,
-    "total" : 46990,
-    "male" : null,
-    "female" : null
+    "total" : 46990
   } ]
 }, {
   "geoCode" : "3703",
   "name" : "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΑΧΑΪΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3703",
   "populations" : [ {
     "year" : 2011,
-    "total" : 25916,
-    "male" : null,
-    "female" : null
+    "total" : 25916
   }, {
     "year" : 2021,
-    "total" : 25633,
-    "male" : null,
-    "female" : null
+    "total" : 25633
   } ]
 }, {
   "geoCode" : "3704",
   "name" : "ΔΗΜΟΣ ΕΡΥΜΑΝΘΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3704",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8877,
-    "male" : null,
-    "female" : null
+    "total" : 8877
   }, {
     "year" : 2021,
-    "total" : 8211,
-    "male" : null,
-    "female" : null
+    "total" : 8211
   } ]
 }, {
   "geoCode" : "3705",
   "name" : "ΔΗΜΟΣ ΚΑΛΑΒΡΥΤΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3705",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11045,
-    "male" : null,
-    "female" : null
+    "total" : 11045
   }, {
     "year" : 2021,
-    "total" : 9223,
-    "male" : null,
-    "female" : null
+    "total" : 9223
   } ]
 }, {
   "geoCode" : "38",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΙΤΩΛΟΑΚΑΡΝΑΝΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "38",
   "populations" : [ {
     "year" : 2011,
-    "total" : 210802,
-    "male" : null,
-    "female" : null
+    "total" : 210802
   }, {
     "year" : 2021,
-    "total" : 192345,
-    "male" : null,
-    "female" : null
+    "total" : 192345
   } ]
 }, {
   "geoCode" : "3801",
   "name" : "ΔΗΜΟΣ ΙΕΡΑΣ ΠΟΛΗΣ ΜΕΣΟΛΟΓΓΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3801",
   "populations" : [ {
     "year" : 2011,
-    "total" : 34416,
-    "male" : null,
-    "female" : null
+    "total" : 34416
   }, {
     "year" : 2021,
-    "total" : 32048,
-    "male" : null,
-    "female" : null
+    "total" : 32048
   } ]
 }, {
   "geoCode" : "3802",
   "name" : "ΔΗΜΟΣ ΑΚΤΙΟΥ - ΒΟΝΙΤΣΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3802",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17370,
-    "male" : null,
-    "female" : null
+    "total" : 17370
   }, {
     "year" : 2021,
-    "total" : 14644,
-    "male" : null,
-    "female" : null
+    "total" : 14644
   } ]
 }, {
   "geoCode" : "3803",
   "name" : "ΔΗΜΟΣ ΑΓΡΙΝΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3803",
   "populations" : [ {
     "year" : 2011,
-    "total" : 94181,
-    "male" : null,
-    "female" : null
+    "total" : 94181
   }, {
     "year" : 2021,
-    "total" : 89691,
-    "male" : null,
-    "female" : null
+    "total" : 89691
   } ]
 }, {
   "geoCode" : "3804",
   "name" : "ΔΗΜΟΣ ΑΜΦΙΛΟΧΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3804",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17056,
-    "male" : null,
-    "female" : null
+    "total" : 17056
   }, {
     "year" : 2021,
-    "total" : 14979,
-    "male" : null,
-    "female" : null
+    "total" : 14979
   } ]
 }, {
   "geoCode" : "3805",
   "name" : "ΔΗΜΟΣ ΘΕΡΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3805",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8242,
-    "male" : null,
-    "female" : null
+    "total" : 8242
   }, {
     "year" : 2021,
-    "total" : 5712,
-    "male" : null,
-    "female" : null
+    "total" : 5712
   } ]
 }, {
   "geoCode" : "3806",
   "name" : "ΔΗΜΟΣ ΝΑΥΠΑΚΤΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3806",
   "populations" : [ {
     "year" : 2011,
-    "total" : 27800,
-    "male" : null,
-    "female" : null
+    "total" : 27800
   }, {
     "year" : 2021,
-    "total" : 25065,
-    "male" : null,
-    "female" : null
+    "total" : 25065
   } ]
 }, {
   "geoCode" : "3807",
   "name" : "ΔΗΜΟΣ ΞΗΡΟΜΕΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3807",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11737,
-    "male" : null,
-    "female" : null
+    "total" : 11737
   }, {
     "year" : 2021,
-    "total" : 10206,
-    "male" : null,
-    "female" : null
+    "total" : 10206
   } ]
 }, {
   "geoCode" : "39",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΗΛΕΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "39",
   "populations" : [ {
     "year" : 2011,
-    "total" : 159300,
-    "male" : null,
-    "female" : null
+    "total" : 159300
   }, {
     "year" : 2021,
-    "total" : 149896,
-    "male" : null,
-    "female" : null
+    "total" : 149896
   } ]
 }, {
   "geoCode" : "3901",
   "name" : "ΔΗΜΟΣ ΠΥΡΓΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 47995,
-    "male" : null,
-    "female" : null
+    "total" : 47995
   }, {
     "year" : 2021,
-    "total" : 45365,
-    "male" : null,
-    "female" : null
+    "total" : 45365
   } ]
 }, {
   "geoCode" : "3902",
   "name" : "ΔΗΜΟΣ ΗΛΙΔΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3902",
   "populations" : [ {
     "year" : 2011,
-    "total" : 32219,
-    "male" : null,
-    "female" : null
+    "total" : 32219
   }, {
     "year" : 2021,
-    "total" : 29347,
-    "male" : null,
-    "female" : null
+    "total" : 29347
   } ]
 }, {
   "geoCode" : "3903",
   "name" : "ΔΗΜΟΣ ΑΝΔΡΑΒΙΔΑΣ - ΚΥΛΛΗΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3903",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21581,
-    "male" : null,
-    "female" : null
+    "total" : 21581
   }, {
     "year" : 2021,
-    "total" : 22552,
-    "male" : null,
-    "female" : null
+    "total" : 22552
   } ]
 }, {
   "geoCode" : "3904",
   "name" : "ΔΗΜΟΣ ΑΝΔΡΙΤΣΑΙΝΑΣ - ΚΡΕΣΤΕΝΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3904",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14109,
-    "male" : null,
-    "female" : null
+    "total" : 14109
   }, {
     "year" : 2021,
-    "total" : 11200,
-    "male" : null,
-    "female" : null
+    "total" : 11200
   } ]
 }, {
   "geoCode" : "3905",
   "name" : "ΔΗΜΟΣ ΑΡΧΑΙΑΣ ΟΛΥΜΠΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3905",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13409,
-    "male" : null,
-    "female" : null
+    "total" : 13409
   }, {
     "year" : 2021,
-    "total" : 11153,
-    "male" : null,
-    "female" : null
+    "total" : 11153
   } ]
 }, {
   "geoCode" : "3906",
   "name" : "ΔΗΜΟΣ ΖΑΧΑΡΩΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3906",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8953,
-    "male" : null,
-    "female" : null
+    "total" : 8953
   }, {
     "year" : 2021,
-    "total" : 8654,
-    "male" : null,
-    "female" : null
+    "total" : 8654
   } ]
 }, {
   "geoCode" : "3907",
   "name" : "ΔΗΜΟΣ ΠΗΝΕΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "3907",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21034,
-    "male" : null,
-    "female" : null
+    "total" : 21034
   }, {
     "year" : 2021,
-    "total" : 21625,
-    "male" : null,
-    "female" : null
+    "total" : 21625
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΠΕΛΟΠΟΝΝΗΣΟΥ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 577903,
-    "male" : null,
-    "female" : null
+    "total" : 577903
   }, {
     "year" : 2021,
-    "total" : 539535,
-    "male" : null,
-    "female" : null
+    "total" : 539535
   } ]
 }, {
   "geoCode" : "40",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΚΑΔΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "40",
   "populations" : [ {
     "year" : 2011,
-    "total" : 86685,
-    "male" : null,
-    "female" : null
+    "total" : 86685
   }, {
     "year" : 2021,
-    "total" : 77592,
-    "male" : null,
-    "female" : null
+    "total" : 77592
   } ]
 }, {
   "geoCode" : "4001",
   "name" : "ΔΗΜΟΣ ΤΡΙΠΟΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4001",
   "populations" : [ {
     "year" : 2011,
-    "total" : 47254,
-    "male" : null,
-    "female" : null
+    "total" : 47254
   }, {
     "year" : 2021,
-    "total" : 44165,
-    "male" : null,
-    "female" : null
+    "total" : 44165
   } ]
 }, {
   "geoCode" : "4002",
   "name" : "ΔΗΜΟΣ ΒΟΡΕΙΑΣ ΚΥΝΟΥΡΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4002",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10341,
-    "male" : null,
-    "female" : null
+    "total" : 10341
   }, {
     "year" : 2021,
-    "total" : 9483,
-    "male" : null,
-    "female" : null
+    "total" : 9483
   } ]
 }, {
   "geoCode" : "4003",
   "name" : "ΔΗΜΟΣ ΓΟΡΤΥΝΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4003",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10109,
-    "male" : null,
-    "female" : null
+    "total" : 10109
   }, {
     "year" : 2021,
-    "total" : 7915,
-    "male" : null,
-    "female" : null
+    "total" : 7915
   } ]
 }, {
   "geoCode" : "4004",
   "name" : "ΔΗΜΟΣ ΜΕΓΑΛΟΠΟΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4004",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10687,
-    "male" : null,
-    "female" : null
+    "total" : 10687
   }, {
     "year" : 2021,
-    "total" : 8784,
-    "male" : null,
-    "female" : null
+    "total" : 8784
   } ]
 }, {
   "geoCode" : "4005",
   "name" : "ΔΗΜΟΣ ΝΟΤΙΑΣ ΚΥΝΟΥΡΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4005",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8294,
-    "male" : null,
-    "female" : null
+    "total" : 8294
   }, {
     "year" : 2021,
-    "total" : 7245,
-    "male" : null,
-    "female" : null
+    "total" : 7245
   } ]
 }, {
   "geoCode" : "41",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΡΓΟΛΙΔΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "41",
   "populations" : [ {
     "year" : 2011,
-    "total" : 97044,
-    "male" : null,
-    "female" : null
+    "total" : 97044
   }, {
     "year" : 2021,
-    "total" : 93216,
-    "male" : null,
-    "female" : null
+    "total" : 93216
   } ]
 }, {
   "geoCode" : "4101",
   "name" : "ΔΗΜΟΣ ΝΑΥΠΛΙΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 33356,
-    "male" : null,
-    "female" : null
+    "total" : 33356
   }, {
     "year" : 2021,
-    "total" : 32625,
-    "male" : null,
-    "female" : null
+    "total" : 32625
   } ]
 }, {
   "geoCode" : "4102",
   "name" : "ΔΗΜΟΣ ΑΡΓΟΥΣ - ΜΥΚΗΝΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 42022,
-    "male" : null,
-    "female" : null
+    "total" : 42022
   }, {
     "year" : 2021,
-    "total" : 39994,
-    "male" : null,
-    "female" : null
+    "total" : 39994
   } ]
 }, {
   "geoCode" : "4103",
   "name" : "ΔΗΜΟΣ ΕΠΙΔΑΥΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4103",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8115,
-    "male" : null,
-    "female" : null
+    "total" : 8115
   }, {
     "year" : 2021,
-    "total" : 7030,
-    "male" : null,
-    "female" : null
+    "total" : 7030
   } ]
 }, {
   "geoCode" : "4104",
   "name" : "ΔΗΜΟΣ ΕΡΜΙΟΝΙΔΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4104",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13551,
-    "male" : null,
-    "female" : null
+    "total" : 13551
   }, {
     "year" : 2021,
-    "total" : 13567,
-    "male" : null,
-    "female" : null
+    "total" : 13567
   } ]
 }, {
   "geoCode" : "42",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΟΡΙΝΘΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "42",
   "populations" : [ {
     "year" : 2011,
-    "total" : 145082,
-    "male" : null,
-    "female" : null
+    "total" : 145082
   }, {
     "year" : 2021,
-    "total" : 138310,
-    "male" : null,
-    "female" : null
+    "total" : 138310
   } ]
 }, {
   "geoCode" : "4201",
   "name" : "ΔΗΜΟΣ ΚΟΡΙΝΘΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 58192,
-    "male" : null,
-    "female" : null
+    "total" : 58192
   }, {
     "year" : 2021,
-    "total" : 55941,
-    "male" : null,
-    "female" : null
+    "total" : 55941
   } ]
 }, {
   "geoCode" : "4202",
   "name" : "ΔΗΜΟΣ ΒΕΛΟΥ - ΒΟΧΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 19027,
-    "male" : null,
-    "female" : null
+    "total" : 19027
   }, {
     "year" : 2021,
-    "total" : 17883,
-    "male" : null,
-    "female" : null
+    "total" : 17883
   } ]
 }, {
   "geoCode" : "4203",
   "name" : "ΔΗΜΟΣ ΛΟΥΤΡΑΚΙΟΥ - ΠΕΡΑΧΩΡΑΣ - ΑΓΙΩΝ ΘΕΟΔΩΡΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4203",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21221,
-    "male" : null,
-    "female" : null
+    "total" : 21221
   }, {
     "year" : 2021,
-    "total" : 22016,
-    "male" : null,
-    "female" : null
+    "total" : 22016
   } ]
 }, {
   "geoCode" : "4204",
   "name" : "ΔΗΜΟΣ ΝΕΜΕΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4204",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6483,
-    "male" : null,
-    "female" : null
+    "total" : 6483
   }, {
     "year" : 2021,
-    "total" : 5713,
-    "male" : null,
-    "female" : null
+    "total" : 5713
   } ]
 }, {
   "geoCode" : "4205",
   "name" : "ΔΗΜΟΣ ΞΥΛΟΚΑΣΤΡΟΥ - ΕΥΡΩΣΤΙΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4205",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17365,
-    "male" : null,
-    "female" : null
+    "total" : 17365
   }, {
     "year" : 2021,
-    "total" : 15570,
-    "male" : null,
-    "female" : null
+    "total" : 15570
   } ]
 }, {
   "geoCode" : "4206",
   "name" : "ΔΗΜΟΣ ΣΙΚΥΩΝΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4206",
   "populations" : [ {
     "year" : 2011,
-    "total" : 22794,
-    "male" : null,
-    "female" : null
+    "total" : 22794
   }, {
     "year" : 2021,
-    "total" : 21187,
-    "male" : null,
-    "female" : null
+    "total" : 21187
   } ]
 }, {
   "geoCode" : "43",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΛΑΚΩΝΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "43",
   "populations" : [ {
     "year" : 2011,
-    "total" : 89138,
-    "male" : null,
-    "female" : null
+    "total" : 89138
   }, {
     "year" : 2021,
-    "total" : 84337,
-    "male" : null,
-    "female" : null
+    "total" : 84337
   } ]
 }, {
   "geoCode" : "4301",
   "name" : "ΔΗΜΟΣ ΣΠΑΡΤΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 35259,
-    "male" : null,
-    "female" : null
+    "total" : 35259
   }, {
     "year" : 2021,
-    "total" : 32786,
-    "male" : null,
-    "female" : null
+    "total" : 32786
   } ]
 }, {
   "geoCode" : "4302",
   "name" : "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΜΑΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4302",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13005,
-    "male" : null,
-    "female" : null
+    "total" : 13005
   }, {
     "year" : 2021,
-    "total" : 12779,
-    "male" : null,
-    "female" : null
+    "total" : 12779
   } ]
 }, {
   "geoCode" : "4303",
   "name" : "ΔΗΜΟΣ ΕΛΑΦΟΝΗΣΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4303",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1041,
-    "male" : null,
-    "female" : null
+    "total" : 1041
   }, {
     "year" : 2021,
-    "total" : 898,
-    "male" : null,
-    "female" : null
+    "total" : 898
   } ]
 }, {
   "geoCode" : "4304",
   "name" : "ΔΗΜΟΣ ΕΥΡΩΤΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4304",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17891,
-    "male" : null,
-    "female" : null
+    "total" : 17891
   }, {
     "year" : 2021,
-    "total" : 16058,
-    "male" : null,
-    "female" : null
+    "total" : 16058
   } ]
 }, {
   "geoCode" : "4305",
   "name" : "ΔΗΜΟΣ ΜΟΝΕΜΒΑΣΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4305",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21942,
-    "male" : null,
-    "female" : null
+    "total" : 21942
   }, {
     "year" : 2021,
-    "total" : 21816,
-    "male" : null,
-    "female" : null
+    "total" : 21816
   } ]
 }, {
   "geoCode" : "44",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΜΕΣΣΗΝΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "44",
   "populations" : [ {
     "year" : 2011,
-    "total" : 159954,
-    "male" : null,
-    "female" : null
+    "total" : 159954
   }, {
     "year" : 2021,
-    "total" : 146080,
-    "male" : null,
-    "female" : null
+    "total" : 146080
   } ]
 }, {
   "geoCode" : "4401",
   "name" : "ΔΗΜΟΣ ΚΑΛΑΜΑΤΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 69849,
-    "male" : null,
-    "female" : null
+    "total" : 69849
   }, {
     "year" : 2021,
-    "total" : 72906,
-    "male" : null,
-    "female" : null
+    "total" : 72906
   } ]
 }, {
   "geoCode" : "4402",
   "name" : "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΜΑΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4402",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6945,
-    "male" : null,
-    "female" : null
+    "total" : 6945
   }, {
     "year" : 2021,
-    "total" : 5875,
-    "male" : null,
-    "female" : null
+    "total" : 5875
   } ]
 }, {
   "geoCode" : "4403",
   "name" : "ΔΗΜΟΣ ΜΕΣΣΗΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4403",
   "populations" : [ {
     "year" : 2011,
-    "total" : 23482,
-    "male" : null,
-    "female" : null
+    "total" : 23482
   }, {
     "year" : 2021,
-    "total" : 19170,
-    "male" : null,
-    "female" : null
+    "total" : 19170
   } ]
 }, {
   "geoCode" : "4404",
   "name" : "ΔΗΜΟΣ ΟΙΧΑΛΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4404",
   "populations" : [ {
     "year" : 2011,
-    "total" : 11228,
-    "male" : null,
-    "female" : null
+    "total" : 11228
   }, {
     "year" : 2021,
-    "total" : 8504,
-    "male" : null,
-    "female" : null
+    "total" : 8504
   } ]
 }, {
   "geoCode" : "4405",
   "name" : "ΔΗΜΟΣ ΠΥΛΟΥ - ΝΕΣΤΟΡΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4405",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21077,
-    "male" : null,
-    "female" : null
+    "total" : 21077
   }, {
     "year" : 2021,
-    "total" : 17194,
-    "male" : null,
-    "female" : null
+    "total" : 17194
   } ]
 }, {
   "geoCode" : "4406",
   "name" : "ΔΗΜΟΣ ΤΡΙΦΥΛΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4406",
   "populations" : [ {
     "year" : 2011,
-    "total" : 27373,
-    "male" : null,
-    "female" : null
+    "total" : 27373
   }, {
     "year" : 2021,
-    "total" : 22431,
-    "male" : null,
-    "female" : null
+    "total" : 22431
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΑΤΤΙΚΗΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 3828434,
-    "male" : null,
-    "female" : null
+    "total" : 3828434
   }, {
     "year" : 2021,
-    "total" : 3814064,
-    "male" : null,
-    "female" : null
+    "total" : 3814064
   } ]
 }, {
   "geoCode" : "45",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΕΝΤΡΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "45",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1029520,
-    "male" : null,
-    "female" : null
+    "total" : 1029520
   }, {
     "year" : 2021,
-    "total" : 1002212,
-    "male" : null,
-    "female" : null
+    "total" : 1002212
   } ]
 }, {
   "geoCode" : "4501",
   "name" : "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4501",
   "populations" : [ {
     "year" : 2011,
-    "total" : 664046,
-    "male" : null,
-    "female" : null
+    "total" : 664046
   }, {
     "year" : 2021,
-    "total" : 643452,
-    "male" : null,
-    "female" : null
+    "total" : 643452
   } ]
 }, {
   "geoCode" : "4502",
   "name" : "ΔΗΜΟΣ ΒΥΡΩΝΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4502",
   "populations" : [ {
     "year" : 2011,
-    "total" : 61308,
-    "male" : null,
-    "female" : null
+    "total" : 61308
   }, {
     "year" : 2021,
-    "total" : 59134,
-    "male" : null,
-    "female" : null
+    "total" : 59134
   } ]
 }, {
   "geoCode" : "4503",
   "name" : "ΔΗΜΟΣ ΓΑΛΑΤΣΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4503",
   "populations" : [ {
     "year" : 2011,
-    "total" : 59345,
-    "male" : null,
-    "female" : null
+    "total" : 59345
   }, {
     "year" : 2021,
-    "total" : 57909,
-    "male" : null,
-    "female" : null
+    "total" : 57909
   } ]
 }, {
   "geoCode" : "4504",
   "name" : "ΔΗΜΟΣ ΔΑΦΝΗΣ - ΥΜΗΤΤΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4504",
   "populations" : [ {
     "year" : 2011,
-    "total" : 33628,
-    "male" : null,
-    "female" : null
+    "total" : 33628
   }, {
     "year" : 2021,
-    "total" : 33886,
-    "male" : null,
-    "female" : null
+    "total" : 33886
   } ]
 }, {
   "geoCode" : "4505",
   "name" : "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4505",
   "populations" : [ {
     "year" : 2011,
-    "total" : 71026,
-    "male" : null,
-    "female" : null
+    "total" : 71026
   }, {
     "year" : 2021,
-    "total" : 69874,
-    "male" : null,
-    "female" : null
+    "total" : 69874
   } ]
 }, {
   "geoCode" : "4506",
   "name" : "ΔΗΜΟΣ ΗΛΙΟΥΠΟΛΕΩΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4506",
   "populations" : [ {
     "year" : 2011,
-    "total" : 78153,
-    "male" : null,
-    "female" : null
+    "total" : 78153
   }, {
     "year" : 2021,
-    "total" : 76730,
-    "male" : null,
-    "female" : null
+    "total" : 76730
   } ]
 }, {
   "geoCode" : "4507",
   "name" : "ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4507",
   "populations" : [ {
     "year" : 2011,
-    "total" : 26458,
-    "male" : null,
-    "female" : null
+    "total" : 26458
   }, {
     "year" : 2021,
-    "total" : 26269,
-    "male" : null,
-    "female" : null
+    "total" : 26269
   } ]
 }, {
   "geoCode" : "4508",
   "name" : "ΔΗΜΟΣ ΝΕΑΣ ΦΙΛΑΔΕΛΦΕΙΑΣ - ΝΕΑΣ ΧΑΛΚΗΔΟΝΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4508",
   "populations" : [ {
     "year" : 2011,
-    "total" : 35556,
-    "male" : null,
-    "female" : null
+    "total" : 35556
   }, {
     "year" : 2021,
-    "total" : 34958,
-    "male" : null,
-    "female" : null
+    "total" : 34958
   } ]
 }, {
   "geoCode" : "46",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΒΟΡΕΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "46",
   "populations" : [ {
     "year" : 2011,
-    "total" : 592490,
-    "male" : null,
-    "female" : null
+    "total" : 592490
   }, {
     "year" : 2021,
-    "total" : 601163,
-    "male" : null,
-    "female" : null
+    "total" : 601163
   } ]
 }, {
   "geoCode" : "4601",
   "name" : "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4601",
   "populations" : [ {
     "year" : 2011,
-    "total" : 72333,
-    "male" : null,
-    "female" : null
+    "total" : 72333
   }, {
     "year" : 2021,
-    "total" : 71830,
-    "male" : null,
-    "female" : null
+    "total" : 71830
   } ]
 }, {
   "geoCode" : "4602",
   "name" : "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4602",
   "populations" : [ {
     "year" : 2011,
-    "total" : 59704,
-    "male" : null,
-    "female" : null
+    "total" : 59704
   }, {
     "year" : 2021,
-    "total" : 62147,
-    "male" : null,
-    "female" : null
+    "total" : 62147
   } ]
 }, {
   "geoCode" : "4603",
   "name" : "ΔΗΜΟΣ ΒΡΙΛΗΣΣΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4603",
   "populations" : [ {
     "year" : 2011,
-    "total" : 30741,
-    "male" : null,
-    "female" : null
+    "total" : 30741
   }, {
     "year" : 2021,
-    "total" : 32417,
-    "male" : null,
-    "female" : null
+    "total" : 32417
   } ]
 }, {
   "geoCode" : "4604",
   "name" : "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4604",
   "populations" : [ {
     "year" : 2011,
-    "total" : 49642,
-    "male" : null,
-    "female" : null
+    "total" : 49642
   }, {
     "year" : 2021,
-    "total" : 50494,
-    "male" : null,
-    "female" : null
+    "total" : 50494
   } ]
 }, {
   "geoCode" : "4605",
   "name" : "ΔΗΜΟΣ ΚΗΦΙΣΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4605",
   "populations" : [ {
     "year" : 2011,
-    "total" : 71259,
-    "male" : null,
-    "female" : null
+    "total" : 71259
   }, {
     "year" : 2021,
-    "total" : 72878,
-    "male" : null,
-    "female" : null
+    "total" : 72878
   } ]
 }, {
   "geoCode" : "4606",
   "name" : "ΔΗΜΟΣ ΛΥΚΟΒΡΥΣΗΣ - ΠΕΥΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4606",
   "populations" : [ {
     "year" : 2011,
-    "total" : 31153,
-    "male" : null,
-    "female" : null
+    "total" : 31153
   }, {
     "year" : 2021,
-    "total" : 30998,
-    "male" : null,
-    "female" : null
+    "total" : 30998
   } ]
 }, {
   "geoCode" : "4607",
   "name" : "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΕΩΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4607",
   "populations" : [ {
     "year" : 2011,
-    "total" : 29891,
-    "male" : null,
-    "female" : null
+    "total" : 29891
   }, {
     "year" : 2021,
-    "total" : 30174,
-    "male" : null,
-    "female" : null
+    "total" : 30174
   } ]
 }, {
   "geoCode" : "4608",
   "name" : "ΔΗΜΟΣ ΝΕΑΣ ΙΩΝΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4608",
   "populations" : [ {
     "year" : 2011,
-    "total" : 67134,
-    "male" : null,
-    "female" : null
+    "total" : 67134
   }, {
     "year" : 2021,
-    "total" : 64611,
-    "male" : null,
-    "female" : null
+    "total" : 64611
   } ]
 }, {
   "geoCode" : "4609",
   "name" : "ΔΗΜΟΣ ΠΑΠΑΓΟΥ - ΧΟΛΑΡΓΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4609",
   "populations" : [ {
     "year" : 2011,
-    "total" : 44539,
-    "male" : null,
-    "female" : null
+    "total" : 44539
   }, {
     "year" : 2021,
-    "total" : 45266,
-    "male" : null,
-    "female" : null
+    "total" : 45266
   } ]
 }, {
   "geoCode" : "4610",
   "name" : "ΔΗΜΟΣ ΠΕΝΤΕΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4610",
   "populations" : [ {
     "year" : 2011,
-    "total" : 34934,
-    "male" : null,
-    "female" : null
+    "total" : 34934
   }, {
     "year" : 2021,
-    "total" : 35610,
-    "male" : null,
-    "female" : null
+    "total" : 35610
   } ]
 }, {
   "geoCode" : "4611",
   "name" : "ΔΗΜΟΣ ΦΙΛΟΘΕΗΣ - ΨΥΧΙΚΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4611",
   "populations" : [ {
     "year" : 2011,
-    "total" : 26968,
-    "male" : null,
-    "female" : null
+    "total" : 26968
   }, {
     "year" : 2021,
-    "total" : 27636,
-    "male" : null,
-    "female" : null
+    "total" : 27636
   } ]
 }, {
   "geoCode" : "4612",
   "name" : "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4612",
   "populations" : [ {
     "year" : 2011,
-    "total" : 74192,
-    "male" : null,
-    "female" : null
+    "total" : 74192
   }, {
     "year" : 2021,
-    "total" : 77102,
-    "male" : null,
-    "female" : null
+    "total" : 77102
   } ]
 }, {
   "geoCode" : "47",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΔΥΤΙΚΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "47",
   "populations" : [ {
     "year" : 2011,
-    "total" : 489675,
-    "male" : null,
-    "female" : null
+    "total" : 489675
   }, {
     "year" : 2021,
-    "total" : 478883,
-    "male" : null,
-    "female" : null
+    "total" : 478883
   } ]
 }, {
   "geoCode" : "4701",
   "name" : "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4701",
   "populations" : [ {
     "year" : 2011,
-    "total" : 139981,
-    "male" : null,
-    "female" : null
+    "total" : 139981
   }, {
     "year" : 2021,
-    "total" : 133630,
-    "male" : null,
-    "female" : null
+    "total" : 133630
   } ]
 }, {
   "geoCode" : "4702",
   "name" : "ΔΗΜΟΣ ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4702",
   "populations" : [ {
     "year" : 2011,
-    "total" : 26550,
-    "male" : null,
-    "female" : null
+    "total" : 26550
   }, {
     "year" : 2021,
-    "total" : 26759,
-    "male" : null,
-    "female" : null
+    "total" : 26759
   } ]
 }, {
   "geoCode" : "4703",
   "name" : "ΔΗΜΟΣ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ - ΚΑΜΑΤΕΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4703",
   "populations" : [ {
     "year" : 2011,
-    "total" : 62529,
-    "male" : null,
-    "female" : null
+    "total" : 62529
   }, {
     "year" : 2021,
-    "total" : 61462,
-    "male" : null,
-    "female" : null
+    "total" : 61462
   } ]
 }, {
   "geoCode" : "4704",
   "name" : "ΔΗΜΟΣ ΑΙΓΑΛΕΩ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4704",
   "populations" : [ {
     "year" : 2011,
-    "total" : 69946,
-    "male" : null,
-    "female" : null
+    "total" : 69946
   }, {
     "year" : 2021,
-    "total" : 65831,
-    "male" : null,
-    "female" : null
+    "total" : 65831
   } ]
 }, {
   "geoCode" : "4705",
   "name" : "ΔΗΜΟΣ ΙΛΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4705",
   "populations" : [ {
     "year" : 2011,
-    "total" : 84793,
-    "male" : null,
-    "female" : null
+    "total" : 84793
   }, {
     "year" : 2021,
-    "total" : 84004,
-    "male" : null,
-    "female" : null
+    "total" : 84004
   } ]
 }, {
   "geoCode" : "4706",
   "name" : "ΔΗΜΟΣ ΠΕΤΡΟΥΠΟΛΕΩΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4706",
   "populations" : [ {
     "year" : 2011,
-    "total" : 58979,
-    "male" : null,
-    "female" : null
+    "total" : 58979
   }, {
     "year" : 2021,
-    "total" : 60146,
-    "male" : null,
-    "female" : null
+    "total" : 60146
   } ]
 }, {
   "geoCode" : "4707",
   "name" : "ΔΗΜΟΣ ΧΑΪΔΑΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4707",
   "populations" : [ {
     "year" : 2011,
-    "total" : 46897,
-    "male" : null,
-    "female" : null
+    "total" : 46897
   }, {
     "year" : 2021,
-    "total" : 47051,
-    "male" : null,
-    "female" : null
+    "total" : 47051
   } ]
 }, {
   "geoCode" : "48",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΝΟΤΙΟΥ ΤΟΜΕΑ ΑΘΗΝΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "48",
   "populations" : [ {
     "year" : 2011,
-    "total" : 529826,
-    "male" : null,
-    "female" : null
+    "total" : 529826
   }, {
     "year" : 2021,
-    "total" : 529455,
-    "male" : null,
-    "female" : null
+    "total" : 529455
   } ]
 }, {
   "geoCode" : "4801",
   "name" : "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4801",
   "populations" : [ {
     "year" : 2011,
-    "total" : 100641,
-    "male" : null,
-    "female" : null
+    "total" : 100641
   }, {
     "year" : 2021,
-    "total" : 97616,
-    "male" : null,
-    "female" : null
+    "total" : 97616
   } ]
 }, {
   "geoCode" : "4802",
   "name" : "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4802",
   "populations" : [ {
     "year" : 2011,
-    "total" : 71294,
-    "male" : null,
-    "female" : null
+    "total" : 71294
   }, {
     "year" : 2021,
-    "total" : 71664,
-    "male" : null,
-    "female" : null
+    "total" : 71664
   } ]
 }, {
   "geoCode" : "4803",
   "name" : "ΔΗΜΟΣ ΑΛΙΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4803",
   "populations" : [ {
     "year" : 2011,
-    "total" : 41720,
-    "male" : null,
-    "female" : null
+    "total" : 41720
   }, {
     "year" : 2021,
-    "total" : 43174,
-    "male" : null,
-    "female" : null
+    "total" : 43174
   } ]
 }, {
   "geoCode" : "4804",
   "name" : "ΔΗΜΟΣ ΓΛΥΦΑΔΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4804",
   "populations" : [ {
     "year" : 2011,
-    "total" : 87305,
-    "male" : null,
-    "female" : null
+    "total" : 87305
   }, {
     "year" : 2021,
-    "total" : 89597,
-    "male" : null,
-    "female" : null
+    "total" : 89597
   } ]
 }, {
   "geoCode" : "4805",
   "name" : "ΔΗΜΟΣ ΕΛΛΗΝΙΚΟΥ - ΑΡΓΥΡΟΥΠΟΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4805",
   "populations" : [ {
     "year" : 2011,
-    "total" : 51356,
-    "male" : null,
-    "female" : null
+    "total" : 51356
   }, {
     "year" : 2021,
-    "total" : 50027,
-    "male" : null,
-    "female" : null
+    "total" : 50027
   } ]
 }, {
   "geoCode" : "4806",
   "name" : "ΔΗΜΟΣ ΜΟΣΧΑΤΟΥ - ΤΑΥΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4806",
   "populations" : [ {
     "year" : 2011,
-    "total" : 40413,
-    "male" : null,
-    "female" : null
+    "total" : 40413
   }, {
     "year" : 2021,
-    "total" : 39661,
-    "male" : null,
-    "female" : null
+    "total" : 39661
   } ]
 }, {
   "geoCode" : "4807",
   "name" : "ΔΗΜΟΣ ΝΕΑΣ ΣΜΥΡΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4807",
   "populations" : [ {
     "year" : 2011,
-    "total" : 73076,
-    "male" : null,
-    "female" : null
+    "total" : 73076
   }, {
     "year" : 2021,
-    "total" : 72853,
-    "male" : null,
-    "female" : null
+    "total" : 72853
   } ]
 }, {
   "geoCode" : "4808",
   "name" : "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4808",
   "populations" : [ {
     "year" : 2011,
-    "total" : 64021,
-    "male" : null,
-    "female" : null
+    "total" : 64021
   }, {
     "year" : 2021,
-    "total" : 64863,
-    "male" : null,
-    "female" : null
+    "total" : 64863
   } ]
 }, {
   "geoCode" : "49",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΝΑΤΟΛΙΚΗΣ ΑΤΤΙΚΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "49",
   "populations" : [ {
     "year" : 2011,
-    "total" : 502348,
-    "male" : null,
-    "female" : null
+    "total" : 502348
   }, {
     "year" : 2021,
-    "total" : 518755,
-    "male" : null,
-    "female" : null
+    "total" : 518755
   } ]
 }, {
   "geoCode" : "4901",
   "name" : "ΔΗΜΟΣ ΑΧΑΡΝΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 106943,
-    "male" : null,
-    "female" : null
+    "total" : 106943
   }, {
     "year" : 2021,
-    "total" : 108169,
-    "male" : null,
-    "female" : null
+    "total" : 108169
   } ]
 }, {
   "geoCode" : "4902",
   "name" : "ΔΗΜΟΣ ΒΑΡΗΣ - ΒΟΥΛΑΣ - ΒΟΥΛΙΑΓΜΕΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4902",
   "populations" : [ {
     "year" : 2011,
-    "total" : 48399,
-    "male" : null,
-    "female" : null
+    "total" : 48399
   }, {
     "year" : 2021,
-    "total" : 52546,
-    "male" : null,
-    "female" : null
+    "total" : 52546
   } ]
 }, {
   "geoCode" : "4903",
   "name" : "ΔΗΜΟΣ ΔΙΟΝΥΣΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4903",
   "populations" : [ {
     "year" : 2011,
-    "total" : 40193,
-    "male" : null,
-    "female" : null
+    "total" : 40193
   }, {
     "year" : 2021,
-    "total" : 42376,
-    "male" : null,
-    "female" : null
+    "total" : 42376
   } ]
 }, {
   "geoCode" : "4904",
   "name" : "ΔΗΜΟΣ ΚΡΩΠΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4904",
   "populations" : [ {
     "year" : 2011,
-    "total" : 30307,
-    "male" : null,
-    "female" : null
+    "total" : 30307
   }, {
     "year" : 2021,
-    "total" : 30817,
-    "male" : null,
-    "female" : null
+    "total" : 30817
   } ]
 }, {
   "geoCode" : "4905",
   "name" : "ΔΗΜΟΣ ΛΑΥΡΕΩΤΙΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4905",
   "populations" : [ {
     "year" : 2011,
-    "total" : 25102,
-    "male" : null,
-    "female" : null
+    "total" : 25102
   }, {
     "year" : 2021,
-    "total" : 25199,
-    "male" : null,
-    "female" : null
+    "total" : 25199
   } ]
 }, {
   "geoCode" : "4906",
   "name" : "ΔΗΜΟΣ ΜΑΡΑΘΩΝΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4906",
   "populations" : [ {
     "year" : 2011,
-    "total" : 33423,
-    "male" : null,
-    "female" : null
+    "total" : 33423
   }, {
     "year" : 2021,
-    "total" : 31331,
-    "male" : null,
-    "female" : null
+    "total" : 31331
   } ]
 }, {
   "geoCode" : "4907",
   "name" : "ΔΗΜΟΣ ΜΑΡΚΟΠΟΥΛΟΥ ΜΕΣΟΓΑΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4907",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20040,
-    "male" : null,
-    "female" : null
+    "total" : 20040
   }, {
     "year" : 2021,
-    "total" : 21722,
-    "male" : null,
-    "female" : null
+    "total" : 21722
   } ]
 }, {
   "geoCode" : "4908",
   "name" : "ΔΗΜΟΣ ΠΑΙΑΝΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4908",
   "populations" : [ {
     "year" : 2011,
-    "total" : 26668,
-    "male" : null,
-    "female" : null
+    "total" : 26668
   }, {
     "year" : 2021,
-    "total" : 28036,
-    "male" : null,
-    "female" : null
+    "total" : 28036
   } ]
 }, {
   "geoCode" : "4909",
   "name" : "ΔΗΜΟΣ ΠΑΛΛΗΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4909",
   "populations" : [ {
     "year" : 2011,
-    "total" : 54415,
-    "male" : null,
-    "female" : null
+    "total" : 54415
   }, {
     "year" : 2021,
-    "total" : 59459,
-    "male" : null,
-    "female" : null
+    "total" : 59459
   } ]
 }, {
   "geoCode" : "4910",
   "name" : "ΔΗΜΟΣ ΡΑΦΗΝΑΣ - ΠΙΚΕΡΜΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4910",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20266,
-    "male" : null,
-    "female" : null
+    "total" : 20266
   }, {
     "year" : 2021,
-    "total" : 22327,
-    "male" : null,
-    "female" : null
+    "total" : 22327
   } ]
 }, {
   "geoCode" : "4911",
   "name" : "ΔΗΜΟΣ ΣΑΡΩΝΙΚΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4911",
   "populations" : [ {
     "year" : 2011,
-    "total" : 29002,
-    "male" : null,
-    "female" : null
+    "total" : 29002
   }, {
     "year" : 2021,
-    "total" : 30047,
-    "male" : null,
-    "female" : null
+    "total" : 30047
   } ]
 }, {
   "geoCode" : "4912",
   "name" : "ΔΗΜΟΣ ΣΠΑΤΩΝ - ΑΡΤΕΜΙΔΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4912",
   "populations" : [ {
     "year" : 2011,
-    "total" : 33821,
-    "male" : null,
-    "female" : null
+    "total" : 33821
   }, {
     "year" : 2021,
-    "total" : 34915,
-    "male" : null,
-    "female" : null
+    "total" : 34915
   } ]
 }, {
   "geoCode" : "4913",
   "name" : "ΔΗΜΟΣ ΩΡΩΠΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "4913",
   "populations" : [ {
     "year" : 2011,
-    "total" : 33769,
-    "male" : null,
-    "female" : null
+    "total" : 33769
   }, {
     "year" : 2021,
-    "total" : 31811,
-    "male" : null,
-    "female" : null
+    "total" : 31811
   } ]
 }, {
   "geoCode" : "50",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "50",
   "populations" : [ {
     "year" : 2011,
-    "total" : 160927,
-    "male" : null,
-    "female" : null
+    "total" : 160927
   }, {
     "year" : 2021,
-    "total" : 165540,
-    "male" : null,
-    "female" : null
+    "total" : 165540
   } ]
 }, {
   "geoCode" : "5001",
   "name" : "ΔΗΜΟΣ ΕΛΕΥΣΙΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5001",
   "populations" : [ {
     "year" : 2011,
-    "total" : 29902,
-    "male" : null,
-    "female" : null
+    "total" : 29902
   }, {
     "year" : 2021,
-    "total" : 30147,
-    "male" : null,
-    "female" : null
+    "total" : 30147
   } ]
 }, {
   "geoCode" : "5002",
   "name" : "ΔΗΜΟΣ ΑΣΠΡΟΠΥΡΓΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5002",
   "populations" : [ {
     "year" : 2011,
-    "total" : 30251,
-    "male" : null,
-    "female" : null
+    "total" : 30251
   }, {
     "year" : 2021,
-    "total" : 31381,
-    "male" : null,
-    "female" : null
+    "total" : 31381
   } ]
 }, {
   "geoCode" : "5003",
   "name" : "ΔΗΜΟΣ ΜΑΝΔΡΑΣ - ΕΙΔΥΛΛΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5003",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17885,
-    "male" : null,
-    "female" : null
+    "total" : 17885
   }, {
     "year" : 2021,
-    "total" : 17822,
-    "male" : null,
-    "female" : null
+    "total" : 17822
   } ]
 }, {
   "geoCode" : "5004",
   "name" : "ΔΗΜΟΣ ΜΕΓΑΡΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5004",
   "populations" : [ {
     "year" : 2011,
-    "total" : 36924,
-    "male" : null,
-    "female" : null
+    "total" : 36924
   }, {
     "year" : 2021,
-    "total" : 38033,
-    "male" : null,
-    "female" : null
+    "total" : 38033
   } ]
 }, {
   "geoCode" : "5005",
   "name" : "ΔΗΜΟΣ ΦΥΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5005",
   "populations" : [ {
     "year" : 2011,
-    "total" : 45965,
-    "male" : null,
-    "female" : null
+    "total" : 45965
   }, {
     "year" : 2021,
-    "total" : 48157,
-    "male" : null,
-    "female" : null
+    "total" : 48157
   } ]
 }, {
   "geoCode" : "51",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΠΕΙΡΑΙΩΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "51",
   "populations" : [ {
     "year" : 2011,
-    "total" : 448997,
-    "male" : null,
-    "female" : null
+    "total" : 448997
   }, {
     "year" : 2021,
-    "total" : 448051,
-    "male" : null,
-    "female" : null
+    "total" : 448051
   } ]
 }, {
   "geoCode" : "5101",
   "name" : "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 163688,
-    "male" : null,
-    "female" : null
+    "total" : 163688
   }, {
     "year" : 2021,
-    "total" : 168151,
-    "male" : null,
-    "female" : null
+    "total" : 168151
   } ]
 }, {
   "geoCode" : "5102",
   "name" : "ΔΗΜΟΣ ΚΕΡΑΤΣΙΝΙΟΥ - ΔΡΑΠΕΤΣΩΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 91045,
-    "male" : null,
-    "female" : null
+    "total" : 91045
   }, {
     "year" : 2021,
-    "total" : 89536,
-    "male" : null,
-    "female" : null
+    "total" : 89536
   } ]
 }, {
   "geoCode" : "5103",
   "name" : "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5103",
   "populations" : [ {
     "year" : 2011,
-    "total" : 63445,
-    "male" : null,
-    "female" : null
+    "total" : 63445
   }, {
     "year" : 2021,
-    "total" : 61248,
-    "male" : null,
-    "female" : null
+    "total" : 61248
   } ]
 }, {
   "geoCode" : "5104",
   "name" : "ΔΗΜΟΣ ΝΙΚΑΙΑΣ - ΑΓΙΟΥ ΙΩΑΝΝΗ ΡΕΝΤΗ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5104",
   "populations" : [ {
     "year" : 2011,
-    "total" : 105430,
-    "male" : null,
-    "female" : null
+    "total" : 105430
   }, {
     "year" : 2021,
-    "total" : 103488,
-    "male" : null,
-    "female" : null
+    "total" : 103488
   } ]
 }, {
   "geoCode" : "5105",
   "name" : "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5105",
   "populations" : [ {
     "year" : 2011,
-    "total" : 25389,
-    "male" : null,
-    "female" : null
+    "total" : 25389
   }, {
     "year" : 2021,
-    "total" : 25628,
-    "male" : null,
-    "female" : null
+    "total" : 25628
   } ]
 }, {
   "geoCode" : "52",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΝΗΣΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "52",
   "populations" : [ {
     "year" : 2011,
-    "total" : 74651,
-    "male" : null,
-    "female" : null
+    "total" : 74651
   }, {
     "year" : 2021,
-    "total" : 70005,
-    "male" : null,
-    "female" : null
+    "total" : 70005
   } ]
 }, {
   "geoCode" : "5201",
   "name" : "ΔΗΜΟΣ ΣΑΛΑΜΙΝΟΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 39283,
-    "male" : null,
-    "female" : null
+    "total" : 39283
   }, {
     "year" : 2021,
-    "total" : 37220,
-    "male" : null,
-    "female" : null
+    "total" : 37220
   } ]
 }, {
   "geoCode" : "5202",
   "name" : "ΔΗΜΟΣ ΥΔΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1966,
-    "male" : null,
-    "female" : null
+    "total" : 1966
   }, {
     "year" : 2021,
-    "total" : 2070,
-    "male" : null,
-    "female" : null
+    "total" : 2070
   } ]
 }, {
   "geoCode" : "5203",
   "name" : "ΔΗΜΟΣ ΑΓΚΙΣΤΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5203",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1142,
-    "male" : null,
-    "female" : null
+    "total" : 1142
   }, {
     "year" : 2021,
-    "total" : 1131,
-    "male" : null,
-    "female" : null
+    "total" : 1131
   } ]
 }, {
   "geoCode" : "5204",
   "name" : "ΔΗΜΟΣ ΑΙΓΙΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5204",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13056,
-    "male" : null,
-    "female" : null
+    "total" : 13056
   }, {
     "year" : 2021,
-    "total" : 12911,
-    "male" : null,
-    "female" : null
+    "total" : 12911
   } ]
 }, {
   "geoCode" : "5205",
   "name" : "ΔΗΜΟΣ ΚΥΘΗΡΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5205",
   "populations" : [ {
     "year" : 2011,
-    "total" : 4041,
-    "male" : null,
-    "female" : null
+    "total" : 4041
   }, {
     "year" : 2021,
-    "total" : 3644,
-    "male" : null,
-    "female" : null
+    "total" : 3644
   } ]
 }, {
   "geoCode" : "5206",
   "name" : "ΔΗΜΟΣ ΠΟΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5206",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3993,
-    "male" : null,
-    "female" : null
+    "total" : 3993
   }, {
     "year" : 2021,
-    "total" : 3261,
-    "male" : null,
-    "female" : null
+    "total" : 3261
   } ]
 }, {
   "geoCode" : "5207",
   "name" : "ΔΗΜΟΣ ΣΠΕΤΣΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5207",
   "populations" : [ {
     "year" : 2011,
-    "total" : 4027,
-    "male" : null,
-    "female" : null
+    "total" : 4027
   }, {
     "year" : 2021,
-    "total" : 3748,
-    "male" : null,
-    "female" : null
+    "total" : 3748
   } ]
 }, {
   "geoCode" : "5208",
   "name" : "ΔΗΜΟΣ ΤΡΟΙΖΗΝΙΑΣ - ΜΕΘΑΝΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5208",
   "populations" : [ {
     "year" : 2011,
-    "total" : 7143,
-    "male" : null,
-    "female" : null
+    "total" : 7143
   }, {
     "year" : 2021,
-    "total" : 6020,
-    "male" : null,
-    "female" : null
+    "total" : 6020
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 199231,
-    "male" : null,
-    "female" : null
+    "total" : 199231
   }, {
     "year" : 2021,
-    "total" : 194943,
-    "male" : null,
-    "female" : null
+    "total" : 194943
   } ]
 }, {
   "geoCode" : "53",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΛΕΣΒΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "53",
   "populations" : [ {
     "year" : 2011,
-    "total" : 86436,
-    "male" : null,
-    "female" : null
+    "total" : 86436
   }, {
     "year" : 2021,
-    "total" : 83755,
-    "male" : null,
-    "female" : null
+    "total" : 83755
   } ]
 }, {
   "geoCode" : "5301",
   "name" : "ΔΗΜΟΣ ΜΥΤΙΛΗΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 57872,
-    "male" : null,
-    "female" : null
+    "total" : 57872
   }, {
     "year" : 2021,
-    "total" : 59034,
-    "male" : null,
-    "female" : null
+    "total" : 59034
   } ]
 }, {
   "geoCode" : "5302",
   "name" : "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΛΕΣΒΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5302",
   "populations" : [ {
     "year" : 2011,
-    "total" : 28564,
-    "male" : null,
-    "female" : null
+    "total" : 28564
   }, {
     "year" : 2021,
-    "total" : 24721,
-    "male" : null,
-    "female" : null
+    "total" : 24721
   } ]
 }, {
   "geoCode" : "54",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΙΚΑΡΙΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "54",
   "populations" : [ {
     "year" : 2011,
-    "total" : 9882,
-    "male" : null,
-    "female" : null
+    "total" : 9882
   }, {
     "year" : 2021,
-    "total" : 10186,
-    "male" : null,
-    "female" : null
+    "total" : 10186
   } ]
 }, {
   "geoCode" : "5401",
   "name" : "ΔΗΜΟΣ ΙΚΑΡΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8423,
-    "male" : null,
-    "female" : null
+    "total" : 8423
   }, {
     "year" : 2021,
-    "total" : 8843,
-    "male" : null,
-    "female" : null
+    "total" : 8843
   } ]
 }, {
   "geoCode" : "5402",
   "name" : "ΔΗΜΟΣ ΦΟΥΡΝΩΝ ΚΟΡΣΕΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5402",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1459,
-    "male" : null,
-    "female" : null
+    "total" : 1459
   }, {
     "year" : 2021,
-    "total" : 1343,
-    "male" : null,
-    "female" : null
+    "total" : 1343
   } ]
 }, {
   "geoCode" : "55",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΛΗΜΝΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "55",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17262,
-    "male" : null,
-    "female" : null
+    "total" : 17262
   }, {
     "year" : 2021,
-    "total" : 16668,
-    "male" : null,
-    "female" : null
+    "total" : 16668
   } ]
 }, {
   "geoCode" : "5501",
   "name" : "ΔΗΜΟΣ ΛΗΜΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5501",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16992,
-    "male" : null,
-    "female" : null
+    "total" : 16992
   }, {
     "year" : 2021,
-    "total" : 16411,
-    "male" : null,
-    "female" : null
+    "total" : 16411
   } ]
 }, {
   "geoCode" : "5502",
   "name" : "ΔΗΜΟΣ ΑΓΙΟΥ ΕΥΣΤΡΑΤΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5502",
   "populations" : [ {
     "year" : 2011,
-    "total" : 270,
-    "male" : null,
-    "female" : null
+    "total" : 270
   }, {
     "year" : 2021,
-    "total" : 257,
-    "male" : null,
-    "female" : null
+    "total" : 257
   } ]
 }, {
   "geoCode" : "56",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΣΑΜΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "56",
   "populations" : [ {
     "year" : 2011,
-    "total" : 32977,
-    "male" : null,
-    "female" : null
+    "total" : 32977
   }, {
     "year" : 2021,
-    "total" : 32642,
-    "male" : null,
-    "female" : null
+    "total" : 32642
   } ]
 }, {
   "geoCode" : "5601",
   "name" : "ΔΗΜΟΣ ΑΝΑΤΟΛΙΚΗΣ ΣΑΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5601",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20513,
-    "male" : null,
-    "female" : null
+    "total" : 20513
   }, {
     "year" : 2021,
-    "total" : 20021,
-    "male" : null,
-    "female" : null
+    "total" : 20021
   } ]
 }, {
   "geoCode" : "5602",
   "name" : "ΔΗΜΟΣ ΔΥΤΙΚΗΣ ΣΑΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5602",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12464,
-    "male" : null,
-    "female" : null
+    "total" : 12464
   }, {
     "year" : 2021,
-    "total" : 12621,
-    "male" : null,
-    "female" : null
+    "total" : 12621
   } ]
 }, {
   "geoCode" : "57",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΧΙΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "57",
   "populations" : [ {
     "year" : 2011,
-    "total" : 52674,
-    "male" : null,
-    "female" : null
+    "total" : 52674
   }, {
     "year" : 2021,
-    "total" : 51692,
-    "male" : null,
-    "female" : null
+    "total" : 51692
   } ]
 }, {
   "geoCode" : "5701",
   "name" : "ΔΗΜΟΣ ΧΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5701",
   "populations" : [ {
     "year" : 2011,
-    "total" : 51390,
-    "male" : null,
-    "female" : null
+    "total" : 51390
   }, {
     "year" : 2021,
-    "total" : 50361,
-    "male" : null,
-    "female" : null
+    "total" : 50361
   } ]
 }, {
   "geoCode" : "5702",
   "name" : "ΔΗΜΟΣ ΟΙΝΟΥΣΣΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5702",
   "populations" : [ {
     "year" : 2011,
-    "total" : 826,
-    "male" : null,
-    "female" : null
+    "total" : 826
   }, {
     "year" : 2021,
-    "total" : 911,
-    "male" : null,
-    "female" : null
+    "total" : 911
   } ]
 }, {
   "geoCode" : "5703",
   "name" : "ΔΗΜΟΣ ΗΡΩΙΚΗΣ ΝΗΣΟΥ ΨΑΡΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5703",
   "populations" : [ {
     "year" : 2011,
-    "total" : 458,
-    "male" : null,
-    "female" : null
+    "total" : 458
   }, {
     "year" : 2021,
-    "total" : 420,
-    "male" : null,
-    "female" : null
+    "total" : 420
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 309015,
-    "male" : null,
-    "female" : null
+    "total" : 309015
   }, {
     "year" : 2021,
-    "total" : 327820,
-    "male" : null,
-    "female" : null
+    "total" : 327820
   } ]
 }, {
   "geoCode" : "58",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΣΥΡΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "58",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21507,
-    "male" : null,
-    "female" : null
+    "total" : 21507
   }, {
     "year" : 2021,
-    "total" : 21124,
-    "male" : null,
-    "female" : null
+    "total" : 21124
   } ]
 }, {
   "geoCode" : "5801",
   "name" : "ΔΗΜΟΣ ΣΥΡΟΥ - ΕΡΜΟΥΠΟΛΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5801",
   "populations" : [ {
     "year" : 2011,
-    "total" : 21507,
-    "male" : null,
-    "female" : null
+    "total" : 21507
   }, {
     "year" : 2021,
-    "total" : 21124,
-    "male" : null,
-    "female" : null
+    "total" : 21124
   } ]
 }, {
   "geoCode" : "59",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΑΝΔΡΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "59",
   "populations" : [ {
     "year" : 2011,
-    "total" : 9221,
-    "male" : null,
-    "female" : null
+    "total" : 9221
   }, {
     "year" : 2021,
-    "total" : 8826,
-    "male" : null,
-    "female" : null
+    "total" : 8826
   } ]
 }, {
   "geoCode" : "5901",
   "name" : "ΔΗΜΟΣ ΑΝΔΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "5901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 9221,
-    "male" : null,
-    "female" : null
+    "total" : 9221
   }, {
     "year" : 2021,
-    "total" : 8826,
-    "male" : null,
-    "female" : null
+    "total" : 8826
   } ]
 }, {
   "geoCode" : "60",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΘΗΡΑΣ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "60",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18883,
-    "male" : null,
-    "female" : null
+    "total" : 18883
   }, {
     "year" : 2021,
-    "total" : 19044,
-    "male" : null,
-    "female" : null
+    "total" : 19044
   } ]
 }, {
   "geoCode" : "6001",
   "name" : "ΔΗΜΟΣ ΘΗΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6001",
   "populations" : [ {
     "year" : 2011,
-    "total" : 15550,
-    "male" : null,
-    "female" : null
+    "total" : 15550
   }, {
     "year" : 2021,
-    "total" : 15480,
-    "male" : null,
-    "female" : null
+    "total" : 15480
   } ]
 }, {
   "geoCode" : "6002",
   "name" : "ΔΗΜΟΣ ΑΝΑΦΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6002",
   "populations" : [ {
     "year" : 2011,
-    "total" : 271,
-    "male" : null,
-    "female" : null
+    "total" : 271
   }, {
     "year" : 2021,
-    "total" : 293,
-    "male" : null,
-    "female" : null
+    "total" : 293
   } ]
 }, {
   "geoCode" : "6003",
   "name" : "ΔΗΜΟΣ ΙΗΤΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6003",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2024,
-    "male" : null,
-    "female" : null
+    "total" : 2024
   }, {
     "year" : 2021,
-    "total" : 2299,
-    "male" : null,
-    "female" : null
+    "total" : 2299
   } ]
 }, {
   "geoCode" : "6004",
   "name" : "ΔΗΜΟΣ ΣΙΚΙΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6004",
   "populations" : [ {
     "year" : 2011,
-    "total" : 273,
-    "male" : null,
-    "female" : null
+    "total" : 273
   }, {
     "year" : 2021,
-    "total" : 253,
-    "male" : null,
-    "female" : null
+    "total" : 253
   } ]
 }, {
   "geoCode" : "6005",
   "name" : "ΔΗΜΟΣ ΦΟΛΕΓΑΝΔΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6005",
   "populations" : [ {
     "year" : 2011,
-    "total" : 765,
-    "male" : null,
-    "female" : null
+    "total" : 765
   }, {
     "year" : 2021,
-    "total" : 719,
-    "male" : null,
-    "female" : null
+    "total" : 719
   } ]
 }, {
   "geoCode" : "61",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΑΛΥΜΝΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "61",
   "populations" : [ {
     "year" : 2011,
-    "total" : 29452,
-    "male" : null,
-    "female" : null
+    "total" : 29452
   }, {
     "year" : 2021,
-    "total" : 31383,
-    "male" : null,
-    "female" : null
+    "total" : 31383
   } ]
 }, {
   "geoCode" : "6101",
   "name" : "ΔΗΜΟΣ ΚΑΛΥΜΝΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16179,
-    "male" : null,
-    "female" : null
+    "total" : 16179
   }, {
     "year" : 2021,
-    "total" : 17752,
-    "male" : null,
-    "female" : null
+    "total" : 17752
   } ]
 }, {
   "geoCode" : "6102",
   "name" : "ΔΗΜΟΣ ΑΓΑΘΟΝΗΣΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 185,
-    "male" : null,
-    "female" : null
+    "total" : 185
   }, {
     "year" : 2021,
-    "total" : 202,
-    "male" : null,
-    "female" : null
+    "total" : 202
   } ]
 }, {
   "geoCode" : "6103",
   "name" : "ΔΗΜΟΣ ΑΣΤΥΠΑΛΑΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6103",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1334,
-    "male" : null,
-    "female" : null
+    "total" : 1334
   }, {
     "year" : 2021,
-    "total" : 1376,
-    "male" : null,
-    "female" : null
+    "total" : 1376
   } ]
 }, {
   "geoCode" : "6104",
   "name" : "ΔΗΜΟΣ ΛΕΙΨΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6104",
   "populations" : [ {
     "year" : 2011,
-    "total" : 790,
-    "male" : null,
-    "female" : null
+    "total" : 790
   }, {
     "year" : 2021,
-    "total" : 778,
-    "male" : null,
-    "female" : null
+    "total" : 778
   } ]
 }, {
   "geoCode" : "6105",
   "name" : "ΔΗΜΟΣ ΛΕΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6105",
   "populations" : [ {
     "year" : 2011,
-    "total" : 7917,
-    "male" : null,
-    "female" : null
+    "total" : 7917
   }, {
     "year" : 2021,
-    "total" : 7992,
-    "male" : null,
-    "female" : null
+    "total" : 7992
   } ]
 }, {
   "geoCode" : "6106",
   "name" : "ΔΗΜΟΣ ΠΑΤΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6106",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3047,
-    "male" : null,
-    "female" : null
+    "total" : 3047
   }, {
     "year" : 2021,
-    "total" : 3283,
-    "male" : null,
-    "female" : null
+    "total" : 3283
   } ]
 }, {
   "geoCode" : "62",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΑΡΠΑΘΟΥ - ΗΡΩΙΚΗΣ ΝΗΣΟΥ ΚΑΣΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "62",
   "populations" : [ {
     "year" : 2011,
-    "total" : 7310,
-    "male" : null,
-    "female" : null
+    "total" : 7310
   }, {
     "year" : 2021,
-    "total" : 7790,
-    "male" : null,
-    "female" : null
+    "total" : 7790
   } ]
 }, {
   "geoCode" : "6201",
   "name" : "ΔΗΜΟΣ ΚΑΡΠΑΘΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 6226,
-    "male" : null,
-    "female" : null
+    "total" : 6226
   }, {
     "year" : 2021,
-    "total" : 6567,
-    "male" : null,
-    "female" : null
+    "total" : 6567
   } ]
 }, {
   "geoCode" : "6202",
   "name" : "ΔΗΜΟΣ ΗΡΩΙΚΗΣ ΝΗΣΟΥ ΚΑΣΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1084,
-    "male" : null,
-    "female" : null
+    "total" : 1084
   }, {
     "year" : 2021,
-    "total" : 1223,
-    "male" : null,
-    "female" : null
+    "total" : 1223
   } ]
 }, {
   "geoCode" : "63",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΕΑΣ - ΚΥΘΝΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "63",
   "populations" : [ {
     "year" : 2011,
-    "total" : 3911,
-    "male" : null,
-    "female" : null
+    "total" : 3911
   }, {
     "year" : 2021,
-    "total" : 3903,
-    "male" : null,
-    "female" : null
+    "total" : 3903
   } ]
 }, {
   "geoCode" : "6301",
   "name" : "ΔΗΜΟΣ ΚΕΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2455,
-    "male" : null,
-    "female" : null
+    "total" : 2455
   }, {
     "year" : 2021,
-    "total" : 2335,
-    "male" : null,
-    "female" : null
+    "total" : 2335
   } ]
 }, {
   "geoCode" : "6302",
   "name" : "ΔΗΜΟΣ ΚΥΘΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6302",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1456,
-    "male" : null,
-    "female" : null
+    "total" : 1456
   }, {
     "year" : 2021,
-    "total" : 1568,
-    "male" : null,
-    "female" : null
+    "total" : 1568
   } ]
 }, {
   "geoCode" : "64",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΚΩ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "64",
   "populations" : [ {
     "year" : 2011,
-    "total" : 34396,
-    "male" : null,
-    "female" : null
+    "total" : 34396
   }, {
     "year" : 2021,
-    "total" : 38137,
-    "male" : null,
-    "female" : null
+    "total" : 38137
   } ]
 }, {
   "geoCode" : "6401",
   "name" : "ΔΗΜΟΣ ΚΩ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 33388,
-    "male" : null,
-    "female" : null
+    "total" : 33388
   }, {
     "year" : 2021,
-    "total" : 37089,
-    "male" : null,
-    "female" : null
+    "total" : 37089
   } ]
 }, {
   "geoCode" : "6402",
   "name" : "ΔΗΜΟΣ ΝΙΣΥΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6402",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1008,
-    "male" : null,
-    "female" : null
+    "total" : 1008
   }, {
     "year" : 2021,
-    "total" : 1048,
-    "male" : null,
-    "female" : null
+    "total" : 1048
   } ]
 }, {
   "geoCode" : "65",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΜΗΛΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "65",
   "populations" : [ {
     "year" : 2011,
-    "total" : 9932,
-    "male" : null,
-    "female" : null
+    "total" : 9932
   }, {
     "year" : 2021,
-    "total" : 10130,
-    "male" : null,
-    "female" : null
+    "total" : 10130
   } ]
 }, {
   "geoCode" : "6501",
   "name" : "ΔΗΜΟΣ ΜΗΛΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6501",
   "populations" : [ {
     "year" : 2011,
-    "total" : 4977,
-    "male" : null,
-    "female" : null
+    "total" : 4977
   }, {
     "year" : 2021,
-    "total" : 5302,
-    "male" : null,
-    "female" : null
+    "total" : 5302
   } ]
 }, {
   "geoCode" : "6502",
   "name" : "ΔΗΜΟΣ ΚΙΜΩΛΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6502",
   "populations" : [ {
     "year" : 2011,
-    "total" : 910,
-    "male" : null,
-    "female" : null
+    "total" : 910
   }, {
     "year" : 2021,
-    "total" : 810,
-    "male" : null,
-    "female" : null
+    "total" : 810
   } ]
 }, {
   "geoCode" : "6503",
   "name" : "ΔΗΜΟΣ ΣΕΡΙΦΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6503",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1420,
-    "male" : null,
-    "female" : null
+    "total" : 1420
   }, {
     "year" : 2021,
-    "total" : 1241,
-    "male" : null,
-    "female" : null
+    "total" : 1241
   } ]
 }, {
   "geoCode" : "6504",
   "name" : "ΔΗΜΟΣ ΣΙΦΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6504",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2625,
-    "male" : null,
-    "female" : null
+    "total" : 2625
   }, {
     "year" : 2021,
-    "total" : 2777,
-    "male" : null,
-    "female" : null
+    "total" : 2777
   } ]
 }, {
   "geoCode" : "66",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΜΥΚΟΝΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "66",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10134,
-    "male" : null,
-    "female" : null
+    "total" : 10134
   }, {
     "year" : 2021,
-    "total" : 10704,
-    "male" : null,
-    "female" : null
+    "total" : 10704
   } ]
 }, {
   "geoCode" : "6601",
   "name" : "ΔΗΜΟΣ ΜΥΚΟΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6601",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10134,
-    "male" : null,
-    "female" : null
+    "total" : 10134
   }, {
     "year" : 2021,
-    "total" : 10704,
-    "male" : null,
-    "female" : null
+    "total" : 10704
   } ]
 }, {
   "geoCode" : "67",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΝΑΞΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "67",
   "populations" : [ {
     "year" : 2011,
-    "total" : 20877,
-    "male" : null,
-    "female" : null
+    "total" : 20877
   }, {
     "year" : 2021,
-    "total" : 22539,
-    "male" : null,
-    "female" : null
+    "total" : 22539
   } ]
 }, {
   "geoCode" : "6701",
   "name" : "ΔΗΜΟΣ ΑΜΟΡΓΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6701",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1973,
-    "male" : null,
-    "female" : null
+    "total" : 1973
   }, {
     "year" : 2021,
-    "total" : 1961,
-    "male" : null,
-    "female" : null
+    "total" : 1961
   } ]
 }, {
   "geoCode" : "6702",
   "name" : "ΔΗΜΟΣ ΝΑΞΟΥ ΚΑΙ ΜΙΚΡΩΝ ΚΥΚΛΑΔΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6702",
   "populations" : [ {
     "year" : 2011,
-    "total" : 18904,
-    "male" : null,
-    "female" : null
+    "total" : 18904
   }, {
     "year" : 2021,
-    "total" : 20578,
-    "male" : null,
-    "female" : null
+    "total" : 20578
   } ]
 }, {
   "geoCode" : "68",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΠΑΡΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "68",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14926,
-    "male" : null,
-    "female" : null
+    "total" : 14926
   }, {
     "year" : 2021,
-    "total" : 15785,
-    "male" : null,
-    "female" : null
+    "total" : 15785
   } ]
 }, {
   "geoCode" : "6801",
   "name" : "ΔΗΜΟΣ ΠΑΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6801",
   "populations" : [ {
     "year" : 2011,
-    "total" : 13715,
-    "male" : null,
-    "female" : null
+    "total" : 13715
   }, {
     "year" : 2021,
-    "total" : 14520,
-    "male" : null,
-    "female" : null
+    "total" : 14520
   } ]
 }, {
   "geoCode" : "6802",
   "name" : "ΔΗΜΟΣ ΑΝΤΙΠΑΡΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6802",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1211,
-    "male" : null,
-    "female" : null
+    "total" : 1211
   }, {
     "year" : 2021,
-    "total" : 1265,
-    "male" : null,
-    "female" : null
+    "total" : 1265
   } ]
 }, {
   "geoCode" : "69",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΡΟΔΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "69",
   "populations" : [ {
     "year" : 2011,
-    "total" : 119830,
-    "male" : null,
-    "female" : null
+    "total" : 119830
   }, {
     "year" : 2021,
-    "total" : 129521,
-    "male" : null,
-    "female" : null
+    "total" : 129521
   } ]
 }, {
   "geoCode" : "6901",
   "name" : "ΔΗΜΟΣ ΡΟΔΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6901",
   "populations" : [ {
     "year" : 2011,
-    "total" : 115490,
-    "male" : null,
-    "female" : null
+    "total" : 115490
   }, {
     "year" : 2021,
-    "total" : 125113,
-    "male" : null,
-    "female" : null
+    "total" : 125113
   } ]
 }, {
   "geoCode" : "6902",
   "name" : "ΔΗΜΟΣ ΜΕΓΙΣΤΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6902",
   "populations" : [ {
     "year" : 2011,
-    "total" : 492,
-    "male" : null,
-    "female" : null
+    "total" : 492
   }, {
     "year" : 2021,
-    "total" : 584,
-    "male" : null,
-    "female" : null
+    "total" : 584
   } ]
 }, {
   "geoCode" : "6903",
   "name" : "ΔΗΜΟΣ ΣΥΜΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6903",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2590,
-    "male" : null,
-    "female" : null
+    "total" : 2590
   }, {
     "year" : 2021,
-    "total" : 2603,
-    "male" : null,
-    "female" : null
+    "total" : 2603
   } ]
 }, {
   "geoCode" : "6904",
   "name" : "ΔΗΜΟΣ ΤΗΛΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6904",
   "populations" : [ {
     "year" : 2011,
-    "total" : 780,
-    "male" : null,
-    "female" : null
+    "total" : 780
   }, {
     "year" : 2021,
-    "total" : 746,
-    "male" : null,
-    "female" : null
+    "total" : 746
   } ]
 }, {
   "geoCode" : "6905",
   "name" : "ΔΗΜΟΣ ΧΑΛΚΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "6905",
   "populations" : [ {
     "year" : 2011,
-    "total" : 478,
-    "male" : null,
-    "female" : null
+    "total" : 478
   }, {
     "year" : 2021,
-    "total" : 475,
-    "male" : null,
-    "female" : null
+    "total" : 475
   } ]
 }, {
   "geoCode" : "70",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΤΗΝΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "70",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8636,
-    "male" : null,
-    "female" : null
+    "total" : 8636
   }, {
     "year" : 2021,
-    "total" : 8934,
-    "male" : null,
-    "female" : null
+    "total" : 8934
   } ]
 }, {
   "geoCode" : "7001",
   "name" : "ΔΗΜΟΣ ΤΗΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7001",
   "populations" : [ {
     "year" : 2011,
-    "total" : 8636,
-    "male" : null,
-    "female" : null
+    "total" : 8636
   }, {
     "year" : 2021,
-    "total" : 8934,
-    "male" : null,
-    "female" : null
+    "total" : 8934
   } ]
 }, {
   "geoCode" : null,
   "name" : "ΠΕΡΙΦΕΡΕΙΑ ΚΡΗΤΗΣ",
-  "type" : "COUNTRY",
+  "type" : "REGION",
   "placeLevel" : "3",
   "placeCode" : null,
   "populations" : [ {
     "year" : 2011,
-    "total" : 623065,
-    "male" : null,
-    "female" : null
+    "total" : 623065
   }, {
     "year" : 2021,
-    "total" : 624408,
-    "male" : null,
-    "female" : null
+    "total" : 624408
   } ]
 }, {
   "geoCode" : "71",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΗΡΑΚΛΕΙΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "71",
   "populations" : [ {
     "year" : 2011,
-    "total" : 305490,
-    "male" : null,
-    "female" : null
+    "total" : 305490
   }, {
     "year" : 2021,
-    "total" : 305017,
-    "male" : null,
-    "female" : null
+    "total" : 305017
   } ]
 }, {
   "geoCode" : "7101",
   "name" : "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7101",
   "populations" : [ {
     "year" : 2011,
-    "total" : 173993,
-    "male" : null,
-    "female" : null
+    "total" : 173993
   }, {
     "year" : 2021,
-    "total" : 179302,
-    "male" : null,
-    "female" : null
+    "total" : 179302
   } ]
 }, {
   "geoCode" : "7102",
   "name" : "ΔΗΜΟΣ ΑΡΧΑΝΩΝ - ΑΣΤΕΡΟΥΣΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7102",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16692,
-    "male" : null,
-    "female" : null
+    "total" : 16692
   }, {
     "year" : 2021,
-    "total" : 16072,
-    "male" : null,
-    "female" : null
+    "total" : 16072
   } ]
 }, {
   "geoCode" : "7103",
   "name" : "ΔΗΜΟΣ ΒΙΑΝΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7103",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5563,
-    "male" : null,
-    "female" : null
+    "total" : 5563
   }, {
     "year" : 2021,
-    "total" : 4436,
-    "male" : null,
-    "female" : null
+    "total" : 4436
   } ]
 }, {
   "geoCode" : "7104",
   "name" : "ΔΗΜΟΣ ΓΟΡΤΥΝΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7104",
   "populations" : [ {
     "year" : 2011,
-    "total" : 15632,
-    "male" : null,
-    "female" : null
+    "total" : 15632
   }, {
     "year" : 2021,
-    "total" : 14167,
-    "male" : null,
-    "female" : null
+    "total" : 14167
   } ]
 }, {
   "geoCode" : "7105",
   "name" : "ΔΗΜΟΣ ΜΑΛΕΒΙΖΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7105",
   "populations" : [ {
     "year" : 2011,
-    "total" : 24864,
-    "male" : null,
-    "female" : null
+    "total" : 24864
   }, {
     "year" : 2021,
-    "total" : 25734,
-    "male" : null,
-    "female" : null
+    "total" : 25734
   } ]
 }, {
   "geoCode" : "7106",
   "name" : "ΔΗΜΟΣ ΜΙΝΩΑ ΠΕΔΙΑΔΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7106",
   "populations" : [ {
     "year" : 2011,
-    "total" : 17563,
-    "male" : null,
-    "female" : null
+    "total" : 17563
   }, {
     "year" : 2021,
-    "total" : 14165,
-    "male" : null,
-    "female" : null
+    "total" : 14165
   } ]
 }, {
   "geoCode" : "7107",
   "name" : "ΔΗΜΟΣ ΦΑΙΣΤΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7107",
   "populations" : [ {
     "year" : 2011,
-    "total" : 24466,
-    "male" : null,
-    "female" : null
+    "total" : 24466
   }, {
     "year" : 2021,
-    "total" : 23921,
-    "male" : null,
-    "female" : null
+    "total" : 23921
   } ]
 }, {
   "geoCode" : "7108",
   "name" : "ΔΗΜΟΣ ΧΕΡΣΟΝΗΣΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7108",
   "populations" : [ {
     "year" : 2011,
-    "total" : 26717,
-    "male" : null,
-    "female" : null
+    "total" : 26717
   }, {
     "year" : 2021,
-    "total" : 27220,
-    "male" : null,
-    "female" : null
+    "total" : 27220
   } ]
 }, {
   "geoCode" : "72",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΛΑΣΙΘΙΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "72",
   "populations" : [ {
     "year" : 2011,
-    "total" : 75381,
-    "male" : null,
-    "female" : null
+    "total" : 75381
   }, {
     "year" : 2021,
-    "total" : 77819,
-    "male" : null,
-    "female" : null
+    "total" : 77819
   } ]
 }, {
   "geoCode" : "7201",
   "name" : "ΔΗΜΟΣ ΑΓΙΟΥ ΝΙΚΟΛΑΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7201",
   "populations" : [ {
     "year" : 2011,
-    "total" : 27074,
-    "male" : null,
-    "female" : null
+    "total" : 27074
   }, {
     "year" : 2021,
-    "total" : 27785,
-    "male" : null,
-    "female" : null
+    "total" : 27785
   } ]
 }, {
   "geoCode" : "7202",
   "name" : "ΔΗΜΟΣ ΙΕΡΑΠΕΤΡΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7202",
   "populations" : [ {
     "year" : 2011,
-    "total" : 26200,
-    "male" : null,
-    "female" : null
+    "total" : 26200
   }, {
     "year" : 2021,
-    "total" : 27338,
-    "male" : null,
-    "female" : null
+    "total" : 27338
   } ]
 }, {
   "geoCode" : "7203",
   "name" : "ΔΗΜΟΣ ΟΡΟΠΕΔΙΟΥ ΛΑΣΙΘΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7203",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2387,
-    "male" : null,
-    "female" : null
+    "total" : 2387
   }, {
     "year" : 2021,
-    "total" : 2258,
-    "male" : null,
-    "female" : null
+    "total" : 2258
   } ]
 }, {
   "geoCode" : "7204",
   "name" : "ΔΗΜΟΣ ΣΗΤΕΙΑΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7204",
   "populations" : [ {
     "year" : 2011,
-    "total" : 19720,
-    "male" : null,
-    "female" : null
+    "total" : 19720
   }, {
     "year" : 2021,
-    "total" : 20438,
-    "male" : null,
-    "female" : null
+    "total" : 20438
   } ]
 }, {
   "geoCode" : "73",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΡΕΘΥΜΝΟΥ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "73",
   "populations" : [ {
     "year" : 2011,
-    "total" : 85609,
-    "male" : null,
-    "female" : null
+    "total" : 85609
   }, {
     "year" : 2021,
-    "total" : 84866,
-    "male" : null,
-    "female" : null
+    "total" : 84866
   } ]
 }, {
   "geoCode" : "7301",
   "name" : "ΔΗΜΟΣ ΡΕΘΥΜΝΗΣ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7301",
   "populations" : [ {
     "year" : 2011,
-    "total" : 55525,
-    "male" : null,
-    "female" : null
+    "total" : 55525
   }, {
     "year" : 2021,
-    "total" : 57216,
-    "male" : null,
-    "female" : null
+    "total" : 57216
   } ]
 }, {
   "geoCode" : "7302",
   "name" : "ΔΗΜΟΣ ΑΓΙΟΥ ΒΑΣΙΛΕΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7302",
   "populations" : [ {
     "year" : 2011,
-    "total" : 7427,
-    "male" : null,
-    "female" : null
+    "total" : 7427
   }, {
     "year" : 2021,
-    "total" : 7018,
-    "male" : null,
-    "female" : null
+    "total" : 7018
   } ]
 }, {
   "geoCode" : "7303",
   "name" : "ΔΗΜΟΣ ΑΜΑΡΙΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7303",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5915,
-    "male" : null,
-    "female" : null
+    "total" : 5915
   }, {
     "year" : 2021,
-    "total" : 5572,
-    "male" : null,
-    "female" : null
+    "total" : 5572
   } ]
 }, {
   "geoCode" : "7304",
   "name" : "ΔΗΜΟΣ ΑΝΩΓΕΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7304",
   "populations" : [ {
     "year" : 2011,
-    "total" : 2379,
-    "male" : null,
-    "female" : null
+    "total" : 2379
   }, {
     "year" : 2021,
-    "total" : 2240,
-    "male" : null,
-    "female" : null
+    "total" : 2240
   } ]
 }, {
   "geoCode" : "7305",
   "name" : "ΔΗΜΟΣ ΜΥΛΟΠΟΤΑΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7305",
   "populations" : [ {
     "year" : 2011,
-    "total" : 14363,
-    "male" : null,
-    "female" : null
+    "total" : 14363
   }, {
     "year" : 2021,
-    "total" : 12820,
-    "male" : null,
-    "female" : null
+    "total" : 12820
   } ]
 }, {
   "geoCode" : "74",
   "name" : "ΠΕΡΙΦΕΡΕΙΑΚΗ ΕΝΟΤΗΤΑ ΧΑΝΙΩΝ",
-  "type" : "REGION",
+  "type" : "REGIONAL_UNIT",
   "placeLevel" : "4",
-  "placeCode" : null,
+  "placeCode" : "74",
   "populations" : [ {
     "year" : 2011,
-    "total" : 156585,
-    "male" : null,
-    "female" : null
+    "total" : 156585
   }, {
     "year" : 2021,
-    "total" : 156706,
-    "male" : null,
-    "female" : null
+    "total" : 156706
   } ]
 }, {
   "geoCode" : "7401",
   "name" : "ΔΗΜΟΣ ΧΑΝΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7401",
   "populations" : [ {
     "year" : 2011,
-    "total" : 108642,
-    "male" : null,
-    "female" : null
+    "total" : 108642
   }, {
     "year" : 2021,
-    "total" : 111375,
-    "male" : null,
-    "female" : null
+    "total" : 111375
   } ]
 }, {
   "geoCode" : "7402",
   "name" : "ΔΗΜΟΣ ΑΠΟΚΟΡΩΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7402",
   "populations" : [ {
     "year" : 2011,
-    "total" : 12807,
-    "male" : null,
-    "female" : null
+    "total" : 12807
   }, {
     "year" : 2021,
-    "total" : 12247,
-    "male" : null,
-    "female" : null
+    "total" : 12247
   } ]
 }, {
   "geoCode" : "7403",
   "name" : "ΔΗΜΟΣ ΓΑΥΔΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7403",
   "populations" : [ {
     "year" : 2011,
-    "total" : 152,
-    "male" : null,
-    "female" : null
+    "total" : 152
   }, {
     "year" : 2021,
-    "total" : 142,
-    "male" : null,
-    "female" : null
+    "total" : 142
   } ]
 }, {
   "geoCode" : "7404",
   "name" : "ΔΗΜΟΣ ΚΑΝΤΑΝΟΥ - ΣΕΛΙΝΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7404",
   "populations" : [ {
     "year" : 2011,
-    "total" : 5431,
-    "male" : null,
-    "female" : null
+    "total" : 5431
   }, {
     "year" : 2021,
-    "total" : 5009,
-    "male" : null,
-    "female" : null
+    "total" : 5009
   } ]
 }, {
   "geoCode" : "7405",
   "name" : "ΔΗΜΟΣ ΚΙΣΣΑΜΟΥ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7405",
   "populations" : [ {
     "year" : 2011,
-    "total" : 10790,
-    "male" : null,
-    "female" : null
+    "total" : 10790
   }, {
     "year" : 2021,
-    "total" : 10632,
-    "male" : null,
-    "female" : null
+    "total" : 10632
   } ]
 }, {
   "geoCode" : "7406",
   "name" : "ΔΗΜΟΣ ΠΛΑΤΑΝΙΑ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7406",
   "populations" : [ {
     "year" : 2011,
-    "total" : 16874,
-    "male" : null,
-    "female" : null
+    "total" : 16874
   }, {
     "year" : 2021,
-    "total" : 15299,
-    "male" : null,
-    "female" : null
+    "total" : 15299
   } ]
 }, {
   "geoCode" : "7407",
   "name" : "ΔΗΜΟΣ ΣΦΑΚΙΩΝ",
   "type" : "MUNICIPALITY",
   "placeLevel" : "5",
-  "placeCode" : null,
+  "placeCode" : "7407",
   "populations" : [ {
     "year" : 2011,
-    "total" : 1889,
-    "male" : null,
-    "female" : null
+    "total" : 1889
   }, {
     "year" : 2021,
-    "total" : 2002,
-    "male" : null,
-    "female" : null
+    "total" : 2002
   } ]
 } ]

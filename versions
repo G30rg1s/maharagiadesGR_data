@@ -2,7 +2,7 @@
   "files": [
     { "file": "govern.json", "version": 2 },
     { "file": "officials.json", "version": 2 },
-    { "file": "population_data/elstat.json", "version": 2 }
+    { "file": "population_data.json", "version": 2 }
     { "file": "geo.json", "version": 2 }
   ]
 }

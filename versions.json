@@ -1,8 +1,8 @@
 {
   "files": [
-    { "file": "govern.json", "version": 1 },
-    { "file": "officials.json", "version": 1 },
+    { "file": "govern.json", "version": 2 },
+    { "file": "officials.json", "version": 2 },
     { "file": "population_data.json", "version": 1 },
-    { "file": "geo.json", "version": 1 }
+    { "file": "geo.json", "version": 2 }
   ]
 }
